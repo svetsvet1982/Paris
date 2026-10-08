@@ -11,7 +11,7 @@ D = [
 (T, "Je préfère dire : un homme qui sait distinguer l'essentiel de l'accessoire.", "필수와 부수를 구별할 줄 아는 사람이라고 하고 싶네요."),
 (L, "(s'approche, un plateau à la main) Monsieur Tran, madame Vasseur, une rillette de canard, un fromage de chèvre frais ?", "(쟁반을 들고 다가가며) 트란 씨, 바세르 부인, 오리 리예트나 신선한 염소 치즈 드실래요?"),
 (T, "Avec plaisir. Et ce vin, c'est un Bourgueil ?", "기꺼이요. 이 와인은 부르괴유인가요?"),
-(L, "Oui, de Didier Marchais. Il vient samedi prochain avec sa vendange de quatre-vingt-dix.", "네, 디디에 마르셰의 것이에요. 다음 토요일에 1990년 수확을 들고 올 거예요."),
+(L, "Oui, de Didier Marchais. Il vient demain avec sa vendange de quatre-vingt-dix.", "네, 디디에 마르셰의 것이에요. 내일 1990년 수확을 들고 올 거예요."),
 (V, "Sa vendange de quatre-vingt-dix ? Mais c'est l'année de l'ouverture de la cave !", "1990년 수확이요? 이 가게가 문을 연 해인데!"),
 (L, "C'est ce qu'on a découvert. Un hasard qui ne doit rien au hasard.", "저희도 그렇게 알게 됐어요. 우연이 아닌 우연이죠."),
 (T, "Vous parlez comme Gaston.", "가스통처럼 말하네요."),
