@@ -7,6 +7,7 @@ from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 import importlib
+sys.path.insert(0, ".")
 d = importlib.import_module(sys.argv[2])
 M = d.META
 

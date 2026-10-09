@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """Usage: python3 -I check_ep.py <module_name>   (run from comptoir/tools/part1)"""
 import sys, re, importlib
+sys.path.insert(0, ".")
 from collections import Counter
 d = importlib.import_module(sys.argv[1]); M = d.META
 turns = [x for x in d.D if x[0]]
