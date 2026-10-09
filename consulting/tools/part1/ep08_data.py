@@ -8,7 +8,7 @@ META = {
     "part_label": "제1부 · 컨설턴트 Les consultants",
     "title_fr": "Le brevet tombe",
     "title_ko": "특허가 끝나는 날",
-    "place": "11구 오베르캉프 약국·이네스의 아파트 · Vasseur & Associés(영상통화) · 에브리 Laboratoires Vernier 본사·연구소 / 11월, 약 2주간",
+    "place": "11구 오베르캉프 약국·이네스의 아파트 · Vasseur & Associés(영상통화) · 에브리 Laboratoires Vernier 본사·연구소 / 12월 중순~하순, 약 2주간",
     "chars": "이네스, 마티외, 엘렌, 소피아, 프티 약사, 베네딕트 라발 박사(베르니에 대표), 파트리크 루아예(재무 이사), 클레르 뒤발(텐시올 LP 프로젝트 책임자), 토마 메르시에(영업 이사)",
     "work": "중견 제약사 Laboratoires Vernier — 매출의 40%를 차지하는 고혈압 치료제 텐시올의 특허 만료(18개월 뒤)와 제네릭 공세, 예산 삭감으로 멈춰 선 1일 1회 신제형",
     "life": "이네스의 독감, 약국에서 약 사기, 수프 배달, 처음으로 낯선 사람에게 다가온 피가로, 마르세유식 파스타 저녁과 가족 저녁 초대",
@@ -19,8 +19,8 @@ META = {
 
 D = [
 # ---------- 1. Ouverture : la pharmacie ----------
-(None, "Un mardi de novembre, 8 h 15. Une pharmacie de la rue Oberkampf, dans le 11e. Sur le téléphone de Mathieu, un message : « Grippe. 39 de fièvre. Pas de bureau aujourd'hui. Ne viens pas. — I. »",
-       "11월의 어느 화요일, 오전 8시 15분. 11구 오베르캉프 거리의 약국. 마티외의 휴대폰에 메시지가 와 있다. '독감. 열 39도. 오늘 출근 못 해. 오지 마. — I.'"),
+(None, "Un mardi de décembre, 8 h 15. Une pharmacie de la rue Oberkampf, dans le 11e. Sur le téléphone de Mathieu, un message : « Grippe. 39 de fièvre. Pas de bureau aujourd'hui. Ne viens pas. — I. »",
+       "12월의 어느 화요일, 오전 8시 15분. 11구 오베르캉프 거리의 약국. 마티외의 휴대폰에 메시지가 와 있다. '독감. 열 39도. 오늘 출근 못 해. 오지 마. — I.'"),
 (PH, "Bonjour monsieur, je peux vous aider ?", "안녕하세요, 손님. 도와드릴까요?"),
 (MA, "Bonjour madame. C'est pour une amie... enfin, une collègue. Elle a trente-neuf de fièvre, elle a mal à la gorge et elle tousse depuis samedi.",
      "안녕하세요. 친구... 아니, 동료 때문에 왔어요. 열이 39도이고, 목이 아프고, 토요일부터 기침을 해요."),
@@ -163,7 +163,7 @@ D = [
 (ME, "Les pharmaciens remplaceront le Tensiol par le générique, c'est presque automatique. Mes visiteurs médicaux le savent. Certains cherchent déjà un autre emploi.",
      "약사들이 텐시올을 제네릭으로 바꿔 주겠죠. 거의 자동이에요. 저희 영업 담당자들도 알아요. 벌써 다른 일자리를 찾는 사람도 있어요."),
 (SO, "Merci, monsieur Mercier. Vous venez de confirmer notre intuition.", "감사합니다, 메르시에 이사님. 덕분에 저희 직감이 맞다는 걸 확인했습니다."),
-(None, "Sur le parking, Mathieu appelle Inès en visio. Le soleil de novembre est bas.", "주차장에서 마티외가 이네스에게 영상통화를 건다. 11월의 해가 낮게 걸려 있다."),
+(None, "Sur le parking, Mathieu appelle Inès en visio. Le soleil de décembre est bas.", "주차장에서 마티외가 이네스에게 영상통화를 건다. 12월의 해가 낮게 걸려 있다."),
 (MA, "Inès ? Le projet est sérieux. La formulation est prête : trente millions et six mois pour finir. Et les cardiologues le réclament depuis deux ans.",
      "이네스? 프로젝트 진짜야. 제형은 준비돼 있어. 끝내는 데 3,000만 유로와 6개월. 그리고 심장내과 의사들이 2년째 그걸 원하고 있어."),
 (I, "Je le savais ! ... Enfin, je l'espérais. Tu as des chiffres sur l'observance ?", "내 그럴 줄 알았어! ...아니, 그러길 바랐어. 복약 순응도 수치는 있어?"),

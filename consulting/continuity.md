@@ -44,3 +44,15 @@
 - 11월. 이네스 집: 오베르캉프 거리 오래된 건물 4층(프랑스식 3층). 피가로: 덩치 큰 회색 고양이, 뤼카를 할퀴고 배관공을 문 전력 → 마티외 무릎에는 올라감.
 - Laboratoires Vernier(에브리): 매출 6억 2천만 유로. 대표 Dr Bénédicte Laval(심장내과 의사 출신), 재무이사 Patrick Royer, 프로젝트 책임자 Claire Duval, 영업이사 Thomas Mercier. Tensiol 연매출 2억 4,800만 유로, 신제형 Tensiol LP(VR-212) 재개 3,000만 유로·6개월. 권고: LP 재개, 공인 제네릭, 2년 3,500만 유로 비용 절감, 라이선스 도입.
 - 관계: 이네스가 "네가 없는 게 싫었다"고 고백. 이네스가 마르세유식 파스타(어머니 레시피)를 해 줌. 9화 목요일 저녁 부모님 댁 초대, 마티외 수락.
+
+### 7화 Cinq étoiles, trois fantômes (11월 말~12월 중순)
+- Le Castellane(8구, 샹젤리제 인근): 객실 140(스위트 18+객실 122), 미슐랭 레스토랑, 직원 380명. 총지배인 Édouard Ravel(18개월 전 부임), 인사이사 Claire Clément, 컨시어지 Jacques(60, 30년), 객실관리 책임자 Fatou(모 거주, 편도 1시간 30분). 가동률 61%(이웃 팔라스 78%), 이직률 45%, 평균 객실가 1,450유로, OTA 비중 68%. 권고: 스위트 6개씩 3단계 재오픈, 로열티 클럽, 프라이싱 매니저, 클리시 직원 숙소 35실·자정 이후 택시.
+- 관계: 메트로 1호선 고장 → 벨리브(이네스 파란 전기, 마티외 초록). 소피아가 "comme un vieux couple"이라고 놀림. 루프톱 23시 « Avant que tu arrives, le travail n'était pas aussi drôle. » → 기침. 마티외가 목도리를 줌(플라메퀴슈 냄새). 허브티는 빚으로 안 침.
+- 8화는 12월 중순~하순으로 조정.
+
+### 14화 Retours gratuits
+- 사내 규정 « Guide du collaborateur — Article 7 »: 직원 간 개인적 관계는 인사부 신고, 같은 팀 상하관계 금지. 엘렌 « j'ai des yeux », 소피아 « Je le savais depuis notre premier apéro ! »
+- Modéo(2구 상티에, 창업 10년): 대표 Julien Carré, 재무이사 Delphine Perrin, 마른라발레 창고 책임자 Yannick Le Goff. 매출 3억 유로, 순이익 −800만, 반품률 42%, 반품 비용 4,500만 유로. 권고: 사이즈 추천(42→36%), 실측 표기, 70% 초과 반품 고객 건당 3.90유로, « Seconde Vie » 코너.
+- 이네스 다음 달 1일부 매니저(팀원 마티외·소피아). 엘렌 "위임하는 법을 배워라". 바티스트: "회사를 사들이는 쪽"에서 제안 받음(펀드 이름 미공개).
+- 옥상: « Si on commence quelque chose, l'un de nous devra changer d'équipe » → « On en reparle plus tard ». 마티외는 커피를 "특별한 날을 위해 아껴 둔다".
+- (2부 R&D 책임자 이름은 겹침 방지로 Yann Kerbrat으로 변경)

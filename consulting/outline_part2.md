@@ -9,7 +9,7 @@
 - **주주**: Verdier 가문 45%(전 회장 Hubert Verdier 68세 — 보수적, 조카 Claire Verdier 40세 — 개혁 지지), Arcane Capital 40%(파트너 Frédéric Aubry), 직원 지주회 5%, 기타 10%. 비상장.
 - **이사회**: 의장 Hubert Verdier(17화) → 30화에 Claire로 교체. 사외이사 Hélène Vasseur(17화에 합류).
 - **CEO 마티외, CFO 이네스**. 이네스는 Figaro를 데리고 생테티엔 자쿠아르 지구 아파트, 마티외는 생테티엔 시청 근처 아파트. 주말엔 파리(이네스의 오베르캉프 집 유지, 마티외 14구 원룸은 16화에서 정리).
-- **회사 인물**: 생테티엔 공장장 Robert Chazal(58), 노조 대표·CSE 서기 Josiane Fabre(55), 40년 근속 숙련공 Mohamed « Momo » Belkacem(61), R&D 책임자 Yann Le Goff(45), 정보보안 책임자 Samia Haddad(38), 홍보 이사 Laure Fontanel(47), CEO 비서 **Martine Roche**(59, 30년 근속, 회사의 살아있는 기억).
+- **회사 인물**: 생테티엔 공장장 Robert Chazal(58), 노조 대표·CSE 서기 Josiane Fabre(55), 40년 근속 숙련공 Mohamed « Momo » Belkacem(61), R&D 책임자 Yann Kerbrat(45), 정보보안 책임자 Samia Haddad(38), 홍보 이사 Laure Fontanel(47), CEO 비서 **Martine Roche**(59, 30년 근속, 회사의 살아있는 기억).
 - **외부 인물**: 은행 Banque Rhodanienne의 Marc-Antoine Serre, 중국 공급사 Hongda Electric의 Zhang Wei(통역 Lin Mei), 독일 경쟁사 Hausmann Küchentechnik(슈투트가르트) CEO Dr Katrin Vogel.
 - **바티스트**: 14화 뒤 Vasseur를 떠나 Arcane Capital에 합류(19화에 처음 등장, 25화에 본격 대립).
 - **소피아**: Vasseur에 남아 매니저 후보로 성장. 2부에서 가끔 전화·방문으로 등장(18, 22, 29화).
@@ -66,7 +66,7 @@
 
 ### 22화 Le produit de la dernière chance (마지막 기회의 제품)
 - **오프닝**: 이네스 생일(32세). 마티외가 몰래 준비한 선물: 이네스 아버지 회사의 옛 로고가 새겨진 만년필(9화 이야기 회수, 뤼카의 도움).
-- **업무**: R&D 이얀 르고프의 신제품 — 저에너지 스마트 압력솥 « Stéphanoise 2 ». 출시에 1,500만 유로 필요, 현금 부족(19화)과 충돌. 이네스 반대, 마티외 찬성 → 데이터로 타협(사전 예약·크라우드펀딩 시범).
+- **업무**: R&D 이얀 케르브라의 신제품 — 저에너지 스마트 압력솥 « Stéphanoise 2 ». 출시에 1,500만 유로 필요, 현금 부족(19화)과 충돌. 이네스 반대, 마티외 찬성 → 데이터로 타협(사전 예약·크라우드펀딩 시범).
 - **결정**: 3개월 사전 판매 테스트 후 결정.
 - **클로징**: 생일 저녁, 소피아가 파리에서 깜짝 방문. 셋이 식사, 소피아가 둘의 관계를 확신하고 축하함.
 - **학습**: 위험·기회 논의, 가정(au cas où, à condition que + 접속법).
