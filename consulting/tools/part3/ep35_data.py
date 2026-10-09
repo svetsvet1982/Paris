@@ -328,7 +328,7 @@ GRAM = [
 ("B2", "가정 구문: si + 반과거 → 조건법 현재",
  "« Si nous travaillions pour vous à prix cassé, la différence serait considérée comme un don. » « Et si vous le faisiez, nous partirions le soir même. » « Si vous saluiez son communiqué demain, cela vous grandirait. » 현재·미래의 가정을 si + 반과거, 결과를 조건법 현재로 나타낸다. 주어 없는 부정사 주어 구문도 같은 논리: « Accuser le maire sans preuve, ce serait faire exactement ce qu'on nous fait. »"),
 ("C1", "명사화와 대비 구문: 성명·결정문 문체",
- "« mise en ligne de la page ce soir, diffusion de la vidéo à vingt et une heures, dépôt de la plainte demain matin » 동사(mettre en ligne, diffuser, déposer) 대신 명사를 나열하면 결정·공지 문체가 된다. 대비 구문 « Ce que vous m'avez dit au téléphone, c'est votre version. Ce que dit le jugement, c'est un fait. »은 ce que... c'est로 두 요소를 대칭시키고, « le mensonge tient en une phrase, et la vérité en trois pages »는 두 번째 동사를 생략(ellipse)해 리듬을 만든다."),
+ "« mise en ligne de la page ce soir, diffusion de la vidéo à vingt et une heures, dépôt de la plainte demain matin » 동사(mettre en ligne, diffuser, déposer) 대신 명사를 나열하면 결정·공지 문체가 된다. 대비 구문 « Madame Rivière, ce que vous m'avez dit au téléphone, c'est votre version. Ce que dit le jugement, c'est un fait. »은 ce que... c'est로 두 요소를 대칭시키고, « le mensonge tient en une phrase, et la vérité en trois pages »는 두 번째 동사를 생략(ellipse)해 리듬을 만든다."),
 ]
 
 CULTURE = [
