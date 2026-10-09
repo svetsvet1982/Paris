@@ -7,7 +7,7 @@
 
 ## 1. 인물
 
-**Élise Marchand (엘리즈 마르샹)** — 34세. 리옹 출신, 파리 11구(Oberkampf 근처, rue Saint-Maur) 거주. 영어→프랑스어 문학 번역가 겸 소규모 출판사 프리랜서 교정자. 이혼 2년 차(전남편 Julien Perrin). 아이러니·유머로 방어하는 편, 신중하고 관찰력 좋음. 프루스트 애독자. 베란다(작은 발코니)에 화분. 친구: Sonia(절친, 약사). 부모: 리옹의 Bernard(퇴직 약사)·Hélène.
+**Élise Marchand (엘리즈 마르샹)** — 34세. 리옹 출신, 파리 11구(Oberkampf 근처, rue Saint-Maur) 거주. 영어→프랑스어 문학 번역가 겸 소규모 출판사 프리랜서 교정자. 이혼 2년 차(전남편 Julien Perrin, 건축가). 아이러니·유머로 방어하는 편, 신중하고 관찰력 좋음. 프루스트 애독자. 베란다(작은 발코니)에 화분. 친구: Sonia(절친, 약사). 부모: 리옹의 Bernard(퇴직 약사)·Hélène.
 
 **Antoine Lefèvre (앙투안 르페브르)** — 36세. 마르세유 근교 Aubagne 출신. 라리부아지에르(Lariboisière) 병원 응급의학과 의사. 파리 10구(Canal Saint-Martin 근처, quai de Valmy 뒤편) 거주. 교대·야간 근무로 불면. 차분하고 약간 말수가 적으나 한번 열리면 유머러스. 카뮈(*La Peste*)를 좋아하지만 "소설은 잘 안 읽는다"고 주장. 여동생 Marion이 모임 가입을 선물함. 어머니 **Josette Lefèvre**(67, Aubagne 거주, 12월에 림프종 진단), 아버지는 8년 전 사망. 전 연인 Claire(3년 전 헤어짐).
 
