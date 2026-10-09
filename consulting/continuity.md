@@ -189,3 +189,8 @@
 - Agora 계약 1단계 8만(4월 납품)·2단계 6만 → 2단계 포기, 뤼카 전액 반납(« je veux que mon restaurant soit jugé dans l'assiette »). 기사: 폴 메나르(5월 초). 윤리위원장 Henri Lavigne, 윤리 담당 Nadira Achour.
 - Agora 윤리 강령 3조(가족 이해관계 서면 신고, « Le doute profite toujours au client », 연 1회 갱신). 리비에르 공개 지지.
 - 마티외 « Tu savais qu'il allait écrire ça ? » → « J'ai douté une seconde. C'est une seconde de trop. » 벌칙: 양파 타르트 한 달에 하나. 소피아에게 공동 대표직 제안(44화).
+
+### 36화 Campagne numérique (2월, 1차 4주 전)
+- 데이터 업체 Sondelys(영업이사 Cyril Aubanel) 유권자 파일 1만 8천 유로 제안 → 거절. 발몽 등록 유권자 약 4만 6천 명. 선대본부장 Romain Lacombe, 디지털 윤리 헌장 4개 약속. 2월 여론조사 메르시에 32%·리비에르 26%(메르시에 18년 3선).
+- 선거 사무소: 직조공 거리(rue des Tisserands) 옛 잡화점. 노동자 주택가 탄느리 지구(quartier des Tanneries). 자원봉사 85명. 인물: Gisèle Perrot(직조공 31년), Inaya(법학 2학년), M. Pagès, Mme Texier. 콘텐츠 « Valmont en vrai ».
+- 루아르 자전거 주말: "한 달에 한 번 일요일은 둘만" 약속(이네스가 초록 마커로 냅킨에). 엘렌 « Bien mal acquis ne profite jamais » / « Un refus sans alternative, c'est un sermon ».
