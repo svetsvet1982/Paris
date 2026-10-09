@@ -7,7 +7,7 @@ D = [
 (H, "J'ai vu. Rungis est bloqué. Et mon livreur de poisson vient de m'appeler.", "봤어. 렁지스도 막혔대. 그리고 생선 납품업자가 방금 전화했어."),
 (J, "Il ne vient pas ?", "안 온대?"),
 (H, "Il ne vient pas. Ni le poisson, ni la crème, ni le beurre de Rungis.", "안 온대. 생선도, 크림도, 렁지스 버터도 없어."),
-(J, "Putain. Un jour de rentrée de mai, avec quarante couverts réservés.", "젠장. 하필 5월 끝물에 예약이 40명인 날에."),
+(J, "Putain. Un mardi de juin, avec quarante couverts réservés.", "젠장. 하필 예약이 40명인 화요일에."),
 (H, "On ne panique pas. Réfléchissons. Qu'est-ce qu'il nous reste en réserve ?", "당황하지 말자. 생각해 보자. 비축분에 뭐가 남았지?"),
 (J, "Des pommes de terre, des oignons, des œufs, un peu de farine, du vin.", "감자, 양파, 달걀, 밀가루 조금, 와인."),
 (H, "Pas de poisson, pas de crème, quatre plaquettes de beurre. C'est maigre.", "생선도 크림도 없고 버터는 네 덩이. 빈약하네."),
@@ -106,6 +106,13 @@ D = [
 (B, "Ma petite Hélène, on n'a pas fait vingt ans de route pour s'arrêter à un barrage.", "엘렌, 우리가 20년 길을 달려온 건 바리케이드 하나 앞에서 멈추려는 게 아니야."),
 (J, "C'est ça, l'esprit. Bastide, tu es notre héros du jour.", "그게 바로 그 정신이죠. 바스티드는 오늘의 영웅이에요."),
 (B, "Un héros avec un tablier plein de poussière, c'est ça ?", "먼지투성이 앞치마를 두른 영웅이라니?"),
+(J, "Hélène, la table six demande d'où vient le poulet.", "엘렌, 6번 테이블에서 닭이 어디서 왔는지 물어요."),
+(H, "Dis-leur la vérité : d'une ferme de l'Eure, à moins de cent kilomètres.", "사실대로 말씀드려. 외르의 농장에서 왔고 100킬로미터도 안 된다고."),
+(B, "Et dis-leur qu'il a vécu heureux. Il courait dans le pré jusqu'à jeudi.", "그리고 행복하게 살았다고도 해. 목요일까지 풀밭을 뛰어다녔다고."),
+(J, "Bastide, pas devant les clients ! Ils vont perdre l'appétit.", "바스티드, 손님 앞에서는 안 돼요! 식욕 떨어지시겠어요."),
+(B, "C'est le prix de la vérité. Un poulet de supermarché, lui, ne court jamais.", "그게 진실의 값이지. 마트 닭은 뛰어다닌 적이 없거든."),
+(H, "Retourne à ton café, poète. Julien, à ta table.", "커피나 마셔요, 시인 양반. 쥘리앵, 네 테이블로 가."),
+(J, "Message de la six : « Bravo au producteur ». Je te l'avais dit, Bastide.", "6번 테이블 메시지예요. « 생산자께 박수를 » 래요. 내가 말했잖아요, 바스티드."),
 (V, "Excusez-moi de vous déranger. Je repasse entre deux services.", "방해해서 미안. 서비스 사이에 잠깐 들렀어."),
 (H, "Victor ? Déjà ? Ta cuisine ?", "빅토르? 벌써? 주방은?"),
 (V, "Mon second a pris le relais pour dix minutes. Je voulais voir comment ça se passait.", "부주방장이 10분만 맡아 줬어. 여기 상황이 어떤지 보고 싶었거든."),
@@ -123,7 +130,7 @@ D = [
 (J, "Demain, la grève continue peut-être. On s'organise comment ?", "내일도 파업이 계속될 수 있어. 어떻게 준비하지?"),
 (H, "On reste en alerte. Julien, appelle Victor. Bastide, tu reviens à l'aube avec tes collègues.", "비상 대기야. 쥘리앵, 빅토르한테 전화해. 바스티드, 새벽에 동료들과 다시 와 줘요."),
 (B, "À six heures, devant la porte de service. Je prends le café, vous prenez les cageots.", "6시에 뒷문 앞에서 봐. 나는 커피를 받고, 너희는 상자를 받는 거지."),
-(H, "Ça marche. Une belle histoire à raconter à Lucien, quand il ira mieux.", "좋아요. 아빠가 좀 나아지면 들려드릴 멋진 이야기가 생겼네."),
+(H, "Ça marche. Une belle histoire à raconter à Papa demain matin.", "좋아요. 내일 아침 아빠께 들려드릴 멋진 이야기가 생겼네."),
 ]
 
 VOCAB = [
