@@ -42,6 +42,7 @@ D = [
 (MA, "Alors on ne décide rien sous le coup de la colère. On écoute Arcane, et ce soir, on en reparle à tête reposée.", "그럼 홧김에 아무것도 결정하지 말자. 아르칸 얘기를 듣고, 오늘 저녁에 차분하게 다시 얘기해."),
 (I, "Tu es en train de repousser la décision, Mathieu. Je te connais. ... Bon. On part séparément, comme d'habitude. Et ne me souris pas devant Martine.",
     "너 결정을 미루고 있는 거야, 마티외. 난 너를 알아. ...좋아. 늘 그렇듯 따로 나가자. 그리고 마르틴 앞에서 나한테 웃지 마."),
+(MA, "Promis. Je ferai ma tête de directeur général très sérieux.", "약속할게. 아주 진지한 대표이사 표정을 하고 있을게."),
 
 # ---------- 2. Arcane au siège ----------
 (None, "10 h. Siège de Verdier Industries, bureau du directeur général.", "오전 10시. Verdier Industries 본사, 대표이사실."),
@@ -90,6 +91,8 @@ D = [
 (I, "Et si Arcane obtenait son vote, ce petit souci disparaîtrait, c'est ça ?", "그리고 아르칸이 원하는 표결을 얻으면 그 작은 걱정거리는 사라지는 거고, 그런 거지?"),
 (B, "Je n'ai jamais dit ça. Je dis seulement qu'à moins que la direction ne devienne plus raisonnable, jeudi risque d'être une longue journée. Bonne journée, Inès.",
     "그런 말 한 적 없어. 다만 경영진이 좀 더 합리적으로 나오지 않는 한, 목요일은 긴 하루가 될 수도 있다는 거지. 좋은 하루 보내, 이네스."),
+(None, "Les portes de l'ascenseur se referment.", "엘리베이터 문이 닫힌다."),
+(I, "... Un sourire de requin. Je ne m'étais pas trompée.", "...상어 같은 미소. 내가 틀리지 않았어."),
 
 # ---------- 3. Analyse : les chiffres et la photo ----------
 (None, "21 h. Bureau du directeur général. Les couloirs sont vides. Sur le tableau blanc, deux colonnes : « Arcane » et « Nous ». Le vieux marqueur vert est posé sur la table.",
@@ -114,11 +117,8 @@ D = [
      "바티스트가 허세를 부리는 걸 수도 있어. 그 사진을 퍼뜨리면 공갈범으로 보이는 건 그 사람이야. 감히 그럴지 지켜볼 수도 있잖아."),
 (I, "Attendre. Évidemment. Et jeudi, en plein débat sur Wrocław, il pose une question innocente sur « l'indépendance de la direction financière », et tout le conseil se tourne vers moi.",
     "기다리자고. 역시. 그러다 목요일에 브로츠와프 토론 한복판에서 그가 '재무 부문의 독립성'에 대해 순진한 척 질문을 던지면, 이사회 전체가 나를 쳐다보겠지."),
-(MA, "Vers nous.", "우리를."),
-(I, "Non, Mathieu. Vers moi. Ce n'est pas toi qu'on soupçonnera d'avoir eu son poste grâce à l'autre. Je refuse que mes chiffres valent moins parce que je suis avec toi.",
-    "아니, 마티외. 나를. 상대 덕분에 자리를 얻었다고 의심받을 사람은 네가 아니야. 내가 너와 사귄다는 이유로 내 숫자가 덜 믿음직해지는 건 용납 못 해."),
-(MA, "C'est Aubry qui nous a recrutés tous les deux, le même jour. Tout le monde le sait.", "오브리가 우리 둘을 같은 날 영입했어. 다들 알잖아."),
-(I, "Les gens retiennent les rumeurs, pas les dates de recrutement.", "사람들은 소문을 기억하지, 영입 날짜를 기억하진 않아."),
+(I, "Pas vers nous, Mathieu. Vers moi. Ce n'est pas toi qu'on soupçonnera d'avoir eu son poste grâce à l'autre. Je refuse que mes chiffres valent moins parce que je suis avec toi.",
+    "우리가 아니라 나를, 마티외. 상대 덕분에 자리를 얻었다고 의심받을 사람은 네가 아니야. 내가 너와 사귄다는 이유로 내 숫자가 덜 믿음직해지는 건 용납 못 해."),
 (MA, "Alors qu'est-ce que tu proposes ? Que l'un de nous démissionne ?", "그럼 뭘 제안하는데? 우리 중 하나가 사표를 내자고?"),
 (I, "Personne ne démissionne. Mais je refuse qu'on vive avec un couteau sous la gorge jusqu'à l'assemblée générale.", "아무도 사표 안 내. 하지만 주주총회 때까지 목에 칼이 들어온 채로 지내는 건 거부할 거야."),
 (None, "La tablette sonne. Appel vidéo : Hélène Vasseur.", "태블릿이 울린다. 영상통화, 엘렌 바쇠르다."),
@@ -236,6 +236,7 @@ D = [
 (None, "La séance est levée. Dans le couloir, Claire Verdier arrête Inès.", "회의가 끝난다. 복도에서 클레르 베르디에가 이네스를 붙잡는다."),
 (CV, "Pour ce que ça vaut : mes parents se sont rencontrés à l'atelier de montage de la Stéphanoise, en 1971. Mon oncle l'a oublié. Moi pas.", "별것 아닐지 모르지만, 우리 부모님은 1971년에 스테파누아즈 조립 작업장에서 만나셨어요. 삼촌은 잊으셨지만 저는 안 잊었죠."),
 (I, "Merci, madame Verdier. Vraiment.", "감사합니다, 베르디에 이사님. 정말로요."),
+(CV, "Ne me remerciez pas. Préparez-moi plutôt un plan de désendettement qui tienne debout, pour le 15 décembre.", "고마워할 것 없어요. 그보다 12월 15일까지 제대로 된 부채 감축 계획이나 준비해 주세요."),
 
 # ---------- 6. Le soir : un avenir à deux ----------
 (None, "22 h 30. Appartement d'Inès. Mathieu revient de l'usine. Inès est assise par terre, contre le canapé, Figaro sur les genoux.",
@@ -265,6 +266,7 @@ D = [
 (MA, "D'accord. Que fait-on lundi ?", "알았어. 월요일엔 뭘 하지?"),
 (I, "Lundi, on arrive ensemble au bureau, par la même rue. Et on dit bonjour à Martine en souriant. D'ici là, on éteint les téléphones tout le week-end.",
     "월요일엔 같은 길로 함께 출근하는 거야. 그리고 웃으면서 마르틴한테 인사하고. 그때까지 주말 내내 휴대폰은 꺼 두는 거고."),
+(MA, "Tous les téléphones. Promis. Pas de conseil, pas d'Arcane, pas de Baptiste. Juste nous trois, avec Figaro.", "휴대폰 전부. 약속해. 이사회도, 아르칸도, 바티스트도 없이. 피가로까지 우리 셋만."),
 (None, "Dimanche, 7 h 12. Sur la table de nuit, le téléphone d'Inès est éteint. Celui de Mathieu, qu'il a oublié d'éteindre, se met à vibrer. À l'écran : « Laure Fontanel — URGENT ».",
        "일요일 오전 7시 12분. 침대 옆 탁자 위, 이네스의 휴대폰은 꺼져 있다. 깜빡 잊고 끄지 않은 마티외의 휴대폰이 진동하기 시작한다. 화면에는 '로르 퐁타넬 — 긴급'."),
 ]
