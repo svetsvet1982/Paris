@@ -10,7 +10,7 @@ META = {
     "title_fr": "Le déficit",
     "title_ko": "적자",
     "place": "11구 오베르캉프 아파트 · 가상 도(département) 오발(Haut-Val)의 도청 소재지 발세른, 도의회 청사(Hôtel du Département)·본회의장 · 8구 쿠르셀 거리 Agora Stratégies 사무실 · 14구 다게르 거리의 매물 아파트 / 11월",
-    "chars": "이네스, 마티외, 소피아, 엘렌(전화), 앙리 마레샬(오발 도의회 의장), 베아트리스 게랭(도 행정 총괄국장), 뱅상 살라윈(재정국장), 파비엔 뒤마(도의회 야당 대표), 모니크 타르디외(방문 요양보호사), 루 부인(부동산 중개인, 2화)",
+    "chars": "이네스, 마티외, 소피아, 엘렌(전화), 앙리 마레샬(오발 도의회 의장), 베아트리스 게랭(도 행정 총괄국장), 뱅상 살라윈(재정국장), 솔랑주 뒤마(도의회 야당 대표), 모니크 타르디외(방문 요양보호사), 루 부인(부동산 중개인, 2화)",
     "work": "가상 도 오발의 재정 위기 — 부동산 취득세(DMTO) 급감과 사회복지 지출 증가의 '가위 효과', 지방회계감사원(CRC) 보고서 해석, 예산 방향 토론(DOB) 방청, 3년 재정 안정화 계획과 주민 공론화·주민참여예산 설계",
     "life": "일요일 아침 둘의 가계부와 대출 시뮬레이션, 오베르캉프냐 14구냐, 우편함의 초록 마커 이름표, 2화의 루 부인과 재회해 함께 보는 첫 집",
     "focus": "지방재정·거시경제 어휘(épargne brute, capacité de désendettement, effet ciseaux, droits de mutation), 문어체(force est de constater, il convient de), 명사화 구문, 문두 부사 도치(Aussi proposerai-je...), 관계절 접속법, il vaut mieux que + 접속법, soit... soit",
@@ -177,7 +177,7 @@ D = [
 (MO, "Sanctuariser... Vous parlez comme eux. Ma petite dame de quatre-vingt-onze ans, elle, elle me demande juste si je viendrai encore le mardi.", "성역화라... 그분들처럼 말씀하시네요. 제가 돌보는 아흔한 살 할머니는 그냥 제가 화요일에도 계속 오느냐고만 물으세요."),
 (MA, "Alors c'est exactement cette phrase-là qu'il faudra entendre dans les réunions publiques. Viendriez-vous la dire ?", "그럼 공청회에서 바로 그 말이 들려야 합니다. 와서 그 말씀을 해 주시겠어요?"),
 (MO, "Si on m'écoute vraiment, oui. Sinon, j'ai mes tournées.", "정말 들어 준다면요. 아니면 전 돌봐야 할 집들이 있어서요."),
-(None, "Reprise de séance. Fabienne Dumas reprend la parole.", "회의 재개. 파비엔 뒤마가 다시 발언한다."),
+(None, "Reprise de séance. Solange Dumas reprend la parole.", "회의 재개. 솔랑주 뒤마가 다시 발언한다."),
 (DU, "Monsieur le Président, mon groupe ne signera pas de chèque en blanc. Mais si vous créez une commission de suivi ouverte à l'opposition, avec des comptes publiés tous les six mois, nous y siégerons. Le Haut-Val vaut mieux que nos querelles.",
      "의장님, 우리 교섭단체는 백지수표에 서명하지 않을 겁니다. 하지만 야당에도 열린 점검위원회를 만들고 6개월마다 결산을 공개한다면, 그 위원회에 참여하겠습니다. 오발은 우리의 다툼보다 소중합니다."),
 (MAR, "J'en prends acte, madame Dumas. Nous en reparlerons. La séance est levée.", "그 말씀 잘 새겨 두겠습니다, 뒤마 의원. 다시 논의하죠. 이것으로 회의를 마칩니다."),
@@ -187,8 +187,8 @@ D = [
 (MA, "Et une question à poser dans chaque réunion : « Qu'est-ce qui compte le plus pour vous ? » Pas : « Qu'est-ce qu'on coupe ? »", "그리고 공청회마다 던질 질문 하나. '여러분에게 가장 중요한 건 무엇입니까?' '무엇을 자를까요?'가 아니라."),
 
 # ---------- 5. Décision : le plan de stabilisation ----------
-(None, "Le lundi suivant, 9 h. Bureau du président, à Valcerne. Autour de la table : Henri Maréchal, Béatrice Guérin, Vincent Salaün... et, à la surprise générale, Fabienne Dumas, invitée à la demande d'Agora.",
-       "다음 주 월요일 오전 9시. 발세른의 의장실. 탁자에 앙리 마레샬, 베아트리스 게랭, 뱅상 살라윈... 그리고 모두의 예상을 깨고, 아고라의 요청으로 초대된 파비엔 뒤마가 둘러앉아 있다."),
+(None, "Le lundi suivant, 9 h. Bureau du président, à Valcerne. Autour de la table : Henri Maréchal, Béatrice Guérin, Vincent Salaün... et, à la surprise générale, Solange Dumas, invitée à la demande d'Agora.",
+       "다음 주 월요일 오전 9시. 발세른의 의장실. 탁자에 앙리 마레샬, 베아트리스 게랭, 뱅상 살라윈... 그리고 모두의 예상을 깨고, 아고라의 요청으로 초대된 솔랑주 뒤마가 둘러앉아 있다."),
 (MAR, "Madame Dumas dans mon bureau. Mes collaborateurs croient que j'ai perdu la tête.", "뒤마 의원이 내 집무실에 있다니. 보좌진은 내가 정신이 나간 줄 알아요."),
 (DU, "Les miens aussi, rassurez-vous. Je suis venue écouter. Je ne m'engage à rien.", "안심하세요, 제 보좌진도 그렇게 생각해요. 듣기만 하러 왔어요. 아무것도 약속하지 않습니다."),
 (MA, "C'est tout ce que nous demandons. Inès, tu commences par les chiffres ?", "저희가 바라는 것도 그게 전부입니다. 이네스, 숫자부터 시작할래?"),

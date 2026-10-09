@@ -2,7 +2,7 @@
 # (speaker, french, korean); speaker None => stage direction (not a turn)
 I, MA, S = "Inès", "Mathieu", "Sofia"
 AG, YA, ME, GA = "Agnès", "Yasmine", "Mercier", "Garrigues"
-FA, MEH, RA, OD = "Fabienne", "Mehdi", "Rachid", "Odile"
+FA, MEH, RA, OD = "Ghislaine", "Mehdi", "Rachid", "Odile"
 
 META = {
     "part": 3, "ep": 38,
@@ -10,7 +10,7 @@ META = {
     "title_fr": "Gouverner, c'est choisir",
     "title_ko": "통치란 선택하는 것",
     "place": "발몽쉬르루아르 시청(개표 집계장·시장 집무실) · 오베르캉프 아파트 · 레 티스랑 시립 수영장 · 시 중앙 급식 조리센터 · 8구 쿠르셀 거리 Agora 새 사무실(르 프티 몽소 위층) · 콜마르 오딜 할머니 댁 / 3월 결선 투표일 밤~4월 부활절",
-    "chars": "이네스, 마티외, 소피아, 아녜스 리비에르(신임 시장), 야스민 카두르(제1부시장), 장클로드 메르시에(전 시장), 리오넬 가리그(시 사무총장 DGS), 파비엔 로셰(수영 클럽 회장), 메디 벤사이드(중앙 급식 조리센터 조리장), 라시드(르 프티 몽소), 오딜 할머니",
+    "chars": "이네스, 마티외, 소피아, 아녜스 리비에르(신임 시장), 야스민 카두르(제1부시장), 장클로드 메르시에(전 시장), 리오넬 가리그(시 사무총장 DGS), 지슬렌 로셰(수영 클럽 회장), 메디 벤사이드(중앙 급식 조리센터 조리장), 라시드(르 프티 몽소), 오딜 할머니",
     "work": "결선 51.8% 당선 뒤 인수인계 — 예산에 잡히지 않은 430만 유로 청구서·에너지 계약 +110만·채무상환능력 13년으로 투자 여력이 1,000만에서 500만으로 반토막, 4월 30일 기한의 첫 본예산, 수영장 보수(480만) vs 학교 급식 조리센터 현대화(340만)의 선택지 보고서, 100일 계획 전달 뒤 원칙대로 물러나는 Agora",
     "life": "개표장의 환호, 이사 상자 위에서 자는 피가로, 르 프티 몽소 바로 위층으로의 사무실 이전, 콜마르의 부활절 — 양 모양 비스킷과 황새, 오딜 할머니가 이네스에게 건넨 할아버지 뤼시앵의 초록 마커",
     "focus": "선거·지방행정 어휘(dépouillement, conseil municipal, délibération, budget primitif, DGS), 책임·권한 표현(il revient à, appartenir à, être à qn), 의사분열문(ce qui..., ce sont...), 허사 ne(plus... qu'elle n'en a l'air), 조건법 가정과 le jour où + 조건법, 사역 faire + 부정사, 독립절 접속법(Que tout le monde sache...), 명사화 문체",
@@ -144,8 +144,8 @@ D = [
     "조용히가 아니라 당당하게. 그리고 서면으로 약속하는 거야. 아고라는 이번 임기 내내 시의 어떤 입찰에도 응하지 않는다."),
 
 # ---------- 4. Terrain : le bassin vide et la cuisine ----------
-(None, "Jeudi, 10 h. Piscine des Tisserands. Le grand bassin est vide ; des étais métalliques soutiennent le plafond. Fabienne Rocher, la soixantaine, porte encore un sifflet autour du cou, par habitude.",
-       "목요일 오전 10시. 레 티스랑 수영장. 큰 수조는 텅 비어 있고 쇠 버팀목들이 천장을 받치고 있다. 60대의 파비엔 로셰는 습관처럼 아직도 호루라기를 목에 걸고 있다."),
+(None, "Jeudi, 10 h. Piscine des Tisserands. Le grand bassin est vide ; des étais métalliques soutiennent le plafond. Ghislaine Rocher, la soixantaine, porte encore un sifflet autour du cou, par habitude.",
+       "목요일 오전 10시. 레 티스랑 수영장. 큰 수조는 텅 비어 있고 쇠 버팀목들이 천장을 받치고 있다. 60대의 지슬렌 로셰는 습관처럼 아직도 호루라기를 목에 걸고 있다."),
 (FA, "Bienvenue dans ma cathédrale. Trente ans que je travaille ici, d'abord comme maître-nageuse, puis au club. Je n'avais jamais entendu ce silence.",
      "제 성당에 오신 걸 환영해요. 여기서 30년을 일했어요. 처음엔 수영 강사로, 그다음엔 클럽에서. 이런 정적은 처음 들어 봐요."),
 (MA, "Ça résonne... Que s'est-il passé exactement, en novembre ?", "울리네요... 11월에 정확히 무슨 일이 있었던 거죠?"),
@@ -180,9 +180,9 @@ D = [
 (I, "La légumerie est comprise dans les trois virgule quatre millions ?", "채소 전처리실이 340만 유로에 포함돼 있나요?"),
 (MEH, "C'est le cœur du projet. Sans légumerie, les produits locaux restent dans les champs : personne n'a les bras pour éplucher deux tonnes de carottes à la main.",
       "그게 사업의 핵심이에요. 전처리실이 없으면 지역 농산물은 밭에 남아 있어요. 당근 2톤을 손으로 깎을 일손은 아무도 없거든요."),
-(MA, "Vous connaissez Fabienne Rocher, de la piscine ?", "수영장의 파비엔 로셰 씨 아세요?"),
-(MEH, "Fabienne ? C'est elle qui m'a appris à nager, à huit ans, aux Tisserands. Vous voyez mon problème : je ne peux même pas être contre la piscine.",
-      "파비엔요? 여덟 살 때 레 티스랑에서 저한테 수영을 가르쳐 준 분이에요. 제 고충이 보이시죠. 수영장에 반대할 수조차 없다니까요."),
+(MA, "Vous connaissez Ghislaine Rocher, de la piscine ?", "수영장의 지슬렌 로셰 씨 아세요?"),
+(MEH, "Ghislaine ? C'est elle qui m'a appris à nager, à huit ans, aux Tisserands. Vous voyez mon problème : je ne peux même pas être contre la piscine.",
+      "지슬렌요? 여덟 살 때 레 티스랑에서 저한테 수영을 가르쳐 준 분이에요. 제 고충이 보이시죠. 수영장에 반대할 수조차 없다니까요."),
 (I, "Tu as remarqué ? Tous les deux ont proposé eux-mêmes une solution moins chère que leur propre projet : le car pour les classes, la montée progressive pour la cuisine.",
     "눈치챘어? 두 사람 다 자기 사업보다 싼 해결책을 스스로 내놨어. 학급용 버스, 그리고 조리센터의 단계적 확대."),
 (MA, "Comme Youssef et ses trois fournées, il y a des années. Ceux qui font le travail ont souvent la réponse. Il suffit de la leur demander.", "몇 년 전 유세프와 하루 세 번 굽기처럼. 일하는 사람들이 답을 가진 경우가 많아. 물어보기만 하면 돼."),
@@ -210,7 +210,7 @@ D = [
      "조금씩 다 하는 겁니다. 수영장은 약간 수리하고, 조리센터엔 장비 몇 개. 모두가 한 조각씩 받지만 누구도 해결책은 못 받죠. 빠짐없이 보여 드리려고 적었습니다. 결과가 스스로 말해 줄 겁니다."),
 (YA, "Pour ma part, je ne vous cache pas ma préférence. La cantine, c'est la loi, ce sont tous les enfants, tous les jours. Et c'est un engagement que j'ai défendu pendant toute la campagne.",
      "저는 제 선호를 숨기지 않겠어요. 급식은 법이고, 모든 아이들이고, 매일이에요. 그리고 제가 선거 내내 지켜 온 약속이기도 하고요."),
-(AG, "Je sais, Yasmine. Et Fabienne Rocher m'a appelée hier soir. Elle ne m'a pas demandé de choisir la piscine. Elle m'a demandé une date.", "알아요, 야스민. 그리고 파비엔 로셰 씨가 어젯밤 전화했어요. 수영장을 골라 달라고 하지 않았어요. 날짜를 달라고 했죠."),
+(AG, "Je sais, Yasmine. Et Ghislaine Rocher m'a appelée hier soir. Elle ne m'a pas demandé de choisir la piscine. Elle m'a demandé une date.", "알아요, 야스민. 그리고 지슬렌 로셰 씨가 어젯밤 전화했어요. 수영장을 골라 달라고 하지 않았어요. 날짜를 달라고 했죠."),
 (MA, "C'est aussi ce qu'elle nous a dit : « Une date, pas une promesse. »", "저희한테도 그렇게 말씀하셨어요. '약속 말고 날짜.'"),
 (AG, "Monsieur Garrigues, si je choisis la cuisine cette année, pouvez-vous me garantir que les travaux de la piscine seront inscrits au budget l'an prochain ?",
      "가리그 씨, 올해 조리센터를 고르면 수영장 공사가 내년 예산에 반드시 편성된다고 보장할 수 있나요?"),
@@ -223,7 +223,7 @@ D = [
 (I, "C'est un choix défendable, madame la maire. Et le calendrier public en fera un engagement, pas une excuse.", "충분히 설명할 수 있는 선택입니다, 시장님. 그리고 공개 일정표가 그걸 핑계가 아닌 약속으로 만들어 줄 겁니다."),
 (AG, "Ne me félicitez pas. Je viens de décevoir six cents nageurs et une partie de mon propre quartier. On m'avait dit que gouverner, c'est choisir. Personne ne m'avait dit que choisir, c'est d'abord décevoir quelqu'un.",
      "축하하지 마요. 방금 수영인 600명과 우리 동네 사람들 일부를 실망시켰어요. 통치란 선택하는 것이라고들 했죠. 선택이란 무엇보다 누군가를 실망시키는 것이라고는 아무도 말해 주지 않았어요."),
-(MA, "Décevoir en expliquant, ce n'est pas trahir, madame. Fabienne Rocher acceptera mieux une mauvaise nouvelle qu'un silence. Voulez-vous que nous préparions la réunion publique avec le club ?",
+(MA, "Décevoir en expliquant, ce n'est pas trahir, madame. Ghislaine Rocher acceptera mieux une mauvaise nouvelle qu'un silence. Voulez-vous que nous préparions la réunion publique avec le club ?",
      "설명하면서 실망시키는 건 배신이 아닙니다. 로셰 씨는 침묵보다 나쁜 소식을 더 잘 받아들이실 거예요. 클럽과의 공개 설명회를 저희가 준비해 드릴까요?"),
 (AG, "Non. Celle-là, je la ferai moi-même. C'est moi qui ai choisi ; c'est à moi d'en répondre.", "아니요. 그건 내가 직접 할게요. 선택한 건 나니까, 책임지는 것도 내 몫이에요."),
 (I, "C'est exactement comme ça que ça doit être. Ce qui nous amène à notre dernier document : le plan des cent jours.", "바로 그래야 합니다. 그래서 마지막 문서로 넘어가죠. 100일 계획입니다."),

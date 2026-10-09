@@ -238,6 +238,12 @@
 
 ### 41화 Le déficit (11월)
 - 집 예산: 저축 15만 + 대출 60만(25년) = 75만, 방 3개 65㎡ 목표. 우편함: 이네스 이름 인쇄, 마티외 이름은 테이프에 초록 펜. 피가로 사료 월 42유로.
-- 가상 도 Haut-Val(도청 소재지 Valcerne): 의장 Henri Maréchal, DGS Béatrice Guérin, 재무국장 Vincent Salaün, 야당 Fabienne Dumas, 요양보호사 Monique Tardieu. 운영 예산 5억 4천만, DMTO 1억 1,200만→7,400만, 부채 4억 1천만(17년). 3년 안정화 계획, 퐁샤랭 우회도로 3년 연기, 추첨 시민 40명, 참여 예산 200만.
+- 가상 도 Haut-Val(도청 소재지 Valcerne): 의장 Henri Maréchal, DGS Béatrice Guérin, 재무국장 Vincent Salaün, 야당 Solange Dumas, 요양보호사 Monique Tardieu. 운영 예산 5억 4천만, DMTO 1억 1,200만→7,400만, 부채 4억 1천만(17년). 3년 안정화 계획, 퐁샤랭 우회도로 3년 연기, 추첨 시민 40명, 참여 예산 200만.
 - 엘렌 « Ne promettez pas qu'ils décideront de tout, promettez qu'ils sauront tout. », « Qui paie ses dettes s'enrichit ».
 - 루 부인(빨간 코트) 재회, 다게르 거리 64㎡ 66만 5천 유로(보리수 마당) → « Pas encore ». 뤼카 봄 개업(42화).
+
+### 38화 Gouverner, c'est choisir (3~4월)
+- 결선: 투표율 58.3%, 리비에르 51.8%(약 900표 차), 53석 중 40석. 메르시에 « Elle est plus fragile qu'elle n'en a l'air. » 카드두르 제1부시장. DGS Lionel Garrigues. 감사: 미예산 지출 430만, 에너지 계약 +110만. 투자 여력 500만.
+- 티스랑 수영장 11월부터 폐쇄(천장 붕괴), 보수 480만. 수영 클럽 회장 Ghislaine Rocher(회원 600명), 중앙 주방장 Mehdi Bensaïd(하루 4,200식, 1987년 설비). 선택 B: 주방 우선, 수영장 연구 60만, 바렌라오트 수영장 버스. « Choisir, c'est d'abord décevoir quelqu'un. » Agora는 100일 계획 후 퇴장, 임기 중 발몽 입찰 불참 서약.
+- 새 사무실(4월 중순): 쿠르셀 거리, 르 프티 몽소 바로 위 2층, 방 3개. 상자 « FIGARO — NE PAS OUVRIR ». 라시드가 그랑 크렘을 위층으로.
+- 콜마르 부활절: 라말라(양 모양 케이크), 황새 둥지. 뤼시앵의 마커 상자에 3개 → 하나를 이네스에게. 오딜 « un jour il y aura une question qu'il n'osera pas écrire tout seul. Tu l'aideras. »(45화)
