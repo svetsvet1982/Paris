@@ -52,8 +52,7 @@ D = [
 (Y, "Justement, ça marche sans téléphone. Le capteur sait exactement quand la cocotte est à pression et vous dit de baisser le feu. Résultat : trente pour cent d'énergie en moins que la Stéphanoise actuelle, sur tous les types de plaques, induction comprise.",
     "바로 그래서 전화기 없이도 작동합니다. 센서가 압력이 언제 올라왔는지 정확히 알고 불을 줄이라고 알려 줍니다. 결과적으로 지금의 Stéphanoise보다 에너지를 30% 덜 씁니다. 인덕션을 포함해 모든 종류의 레인지에서요."),
 (LF, "Trente pour cent, avec les factures d'électricité d'aujourd'hui... Ça, c'est un message que tout le monde comprend.", "30%라니, 요즘 전기 요금을 생각하면... 그건 누구나 알아듣는 메시지네요."),
-(MA, "Mesurés comment, ces trente pour cent ? En laboratoire ou dans une vraie cuisine ?", "그 30%는 어떻게 측정한 거죠? 실험실에서요, 아니면 실제 부엌에서요?"),
-(Y, "Les deux. Je vous montrerai les mesures cet après-midi, si vous venez au labo.", "둘 다입니다. 오후에 연구소에 오시면 측정 결과를 보여 드리겠습니다."),
+(MA, "Ces trente pour cent, Yann, je voudrai les voir mesurés de mes propres yeux.", "그 30%는요, 이얀, 제 눈으로 직접 측정하는 걸 보고 싶습니다."),
 (I, "À quel prix comptez-vous la vendre ?", "얼마에 팔 계획이신가요?"),
 (Y, "Cent soixante-neuf euros. La Stéphanoise classique est à quatre-vingt-neuf. Nous visons quatre-vingt mille unités la première année, cent cinquante mille la deuxième.", "169유로입니다. 기존 Stéphanoise는 89유로고요. 첫해 8만 대, 둘째 해 15만 대를 목표로 합니다."),
 (I, "Et le lancement coûte combien, au total ?", "그럼 출시에는 총 얼마가 드나요?"),
@@ -122,6 +121,7 @@ D = [
 (MA, "Tu vois ? Toi qui ne voulais pas en entendre parler ce matin, tu es en train de sauver ce projet.", "봐. 오늘 아침엔 그 얘기를 듣기도 싫어하던 네가 이 프로젝트를 살리고 있잖아."),
 (I, "Je ne sauve rien du tout. Je mets un parachute à ton enthousiasme. Nuance.", "난 아무것도 살리지 않아. 네 열정에 낙하산을 달아 주는 거야. 차이가 있어."),
 (MA, "Un parachute, c'est déjà une façon de croire qu'on va sauter.", "낙하산을 단다는 건 이미 뛰어내릴 거라고 믿는다는 거야."),
+(I, "Ou de croire qu'on survivra à l'atterrissage. Ce n'est pas pareil.", "아니면 착지하고도 살아남을 거라고 믿는 거지. 그건 다른 얘기야."),
 (I, "Mange ton sandwich, Strasbourg. Et cet après-midi, au comité, ne me regarde pas comme quelqu'un qui sait quel jour on est.", "샌드위치나 먹어, 스트라스부르. 그리고 오후 회의 땐 오늘이 무슨 날인지 아는 사람처럼 날 쳐다보지 마."),
 
 # ---------- 4. Terrain : le laboratoire ----------
@@ -216,8 +216,8 @@ D = [
 (S, "Évidemment ! Tu crois que j'allais te laisser souffler tes bougies toute seule avec ton chat ? Enfin... toute seule, apparemment pas.", "당연하지! 고양이랑 혼자 촛불 끄게 내버려 둘 줄 알았어? 아니... 혼자는 아닌가 보네."),
 (None, "À table. Figaro saute sur les genoux de Mathieu et s'y installe en ronronnant.", "식탁. 피가로가 마티외의 무릎 위로 뛰어올라 가르랑거리며 자리를 잡는다."),
 (S, "Attends. Figaro, le chat qui a griffé ton frère et mordu le plombier ? Sur les genoux de Mathieu ? ... Bon. Je ne pose plus aucune question.", "잠깐. 피가로, 네 동생을 할퀴고 배관공을 문 그 고양이가? 마티외 무릎 위에? ...좋아. 더는 아무것도 안 물어볼게."),
-(I, "Ça vaut mieux. Mais toi, tu n'as jamais su te taire.", "그게 낫지. 하지만 넌 입 다물 줄 모르잖아."),
 (MA, "Figaro est un traître. Je lui ai seulement donné un peu de jambon, une fois.", "피가로는 배신자야. 딱 한 번 햄을 조금 줬을 뿐인데."),
+(I, "Ça vaut mieux. Mais toi, tu n'as jamais su te taire.", "그게 낫지. 하지만 넌 입 다물 줄 모르잖아."),
 (S, "C'est vrai. Alors je vais juste dire une chose : je le savais ! Depuis notre premier apéro au canal Saint-Martin, je le savais ! À vous deux.", "맞아. 그러니까 딱 한마디만 할게. 내가 알았다니까! 생마르탱 운하에서 처음 아페로 했을 때부터 알았어! 두 사람을 위하여."),
 (MA, "Sofia... Personne ne doit le savoir. Ni au bureau, ni chez Vasseur. Pour l'instant, c'est un problème de gouvernance.", "소피아... 아무도 알면 안 돼. 회사에서도, 바쇠르에서도. 지금으로선 지배구조 문제거든."),
 (S, "Je suis une tombe. Une tombe avec du champagne, mais une tombe. Et au fait, la prévente dont Inès m'a parlé tout à l'heure, il vous faut quelqu'un pour analyser les données chaque semaine, non ?",
