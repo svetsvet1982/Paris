@@ -192,14 +192,14 @@
 
 ### 36화 Campagne numérique (2월, 1차 4주 전)
 - 데이터 업체 Sondelys(영업이사 Cyril Aubanel) 유권자 파일 1만 8천 유로 제안 → 거절. 발몽 등록 유권자 약 4만 6천 명. 선대본부장 Romain Lacombe, 디지털 윤리 헌장 4개 약속. 2월 여론조사 메르시에 32%·리비에르 26%(메르시에 18년 3선).
-- 선거 사무소: 나시오날 거리 옛 신발 가게(31화와 통일). 노동자 주택가 탄느리 지구(quartier des Tanneries). 자원봉사 85명. 인물: Gisèle Perrot(직조공 31년), Inaya(법학 2학년), M. Pagès, Mme Texier. 콘텐츠 « Valmont en vrai ».
+- 선거 사무소: 그랑뤼(Grand-Rue)의 옛 잡화점(mercerie) — 3부 전체 통일. 노동자 주택가 탄느리 지구(quartier des Tanneries). 자원봉사 85명. 인물: Gisèle Perrot(직조공 31년), Inaya(법학 2학년), M. Pagès, Mme Texier. 콘텐츠 « Valmont en vrai ».
 - 루아르 자전거 주말: "한 달에 한 번 일요일은 둘만" 약속(이네스가 초록 마커로 냅킨에). 엘렌 « Bien mal acquis ne profite jamais » / « Un refus sans alternative, c'est un sermon ».
 
 ### 31화 Agora (10월 1일 목)
 - 마티외 상자 23개로 이사. 오베르캉프 엘리베이터 없는 4층 42㎡, 거실이 사무실. 이네스가 여벌 열쇠와 배 모양 열쇠고리(아버지 추억 상자), 처음으로 « chez nous ». 피가로가 마티외 베개 차지.
 - Agora Stratégies SAS 자본금 1만 유로(50:50), 이네스 présidente·마티외 DG, 주주 간 협약(교착 시 조정, 이탈 조항). 리비에르 계약 6개월 2만 4천 유로(4만 제안 거절, 선거 예산 7만의 1/3 이하 원칙), « TM » 만년필로 서명.
 - 아녜스: Robinetterie Rivière(140명) 20년 경영 후 매각(일자리 유지 조건), 딸은 낭트 일반의. « Valmont Ensemble » 53명 중 31명 확보. « un travail, un médecin et une raison de rester ». 출마 선언 첫 문장 « Avant de vous dire ce que je ferai, je viens vous demander ce que vous vivez. »
-- 발몽: 나시오날 거리 상점 120곳 중 31곳 공실, 병원 분원 4년 전 폐쇄, 지난 투표율 42%. 선거 사무소 나시오날 거리 옛 신발 가게. Filature Bellanger(1975년 1,400명, 2011년 폐쇄, 시가 1유로에 매입, 45화 청년 창업 공간). 인물: Joël Picard(카페 데 알 주인), Odette Charrier(71, 직공 38년, 서양배 타르트 약속).
+- 발몽: 나시오날 거리 상점 120곳 중 31곳 공실, 병원 분원 4년 전 폐쇄, 지난 투표율 42%. 선거 사무소 그랑뤼 옛 잡화점(전 화 통일). Filature Bellanger(1975년 1,400명, 2011년 폐쇄, 시가 1유로에 매입, 45화 청년 창업 공간). 인물: Joël Picard(카페 데 알 주인), Odette Charrier(71, 직공 38년, 서양배 타르트 약속).
 - 화이트보드 « LES ÉLECTEURS. PAS NOUS. »
 
 ### 39화 Au cabinet du ministre (6월)
@@ -208,7 +208,7 @@
 - 마티외 "안에서 바꾼다" vs 이네스 "알리바이용 협의 거부"(44화 예고).
 
 ### 40화 La rue gronde (10월 목·금)
-- 파업 10일째. 장관실 사회 보좌관 Fabienne Ollier, 노조 연대 대변인 Joël Tessandier, 기관사 Cécile Rameau(19년, 디종 공개 회의 참석), 요양보호사 Awa Ndiaye. 합의: 고용 승계 법률 명시, 복귀권 5년, 시범 지역 2곳, 정시율 90% 미만 보상, 파업일 임금 공제 6개월 분할. 64% 파업 중단.
+- 파업 10일째. 장관실 사회 보좌관 Fabienne Ollier, 노조 연대 대변인 Damien Tessandier, 기관사 Cécile Rameau(19년, 디종 공개 회의 참석), 요양보호사 Awa Ndiaye. 합의: 고용 승계 법률 명시, 복귀권 5년, 시범 지역 2곳, 정시율 90% 미만 보상, 파업일 임금 공제 6개월 분할. 64% 파업 중단.
 - 마티외가 오베르캉프에 산 지 1년, 우편함엔 이네스 이름만 → "함께 고른 집"(41화). « Qui décide ? » → « Nous deux. Et un banquier, hélas. »
 
 ### 35화 La rumeur (2월 초 화)
@@ -221,3 +221,23 @@
 - Paul Ancel(46, 전직 엔지니어)의 가상 운동 « Passerelles »(지지율 9%, 1차 투표 4월), 선대본부장 Victor Lhermitte. 제안: 7개월 140만 유로, 독점 + '부록 3'(상업 데이터). 팡탱 우르크 운하 옛 창고 본부. 바티스트는 6월부터 여론조사 책임자.
 - 30화 약속 둘 다 회수. 마티외 타협안(부록 3 보류 + Agora 윤리위원회 거부권) vs 이네스 « vœu pieux », « Si tu signes lundi, Agora, ce sera toi. Plus nous. » 엘렌: 긴 숟가락, 『더러운 손』, 베버.
 - 금요일 밤 각방, 새벽 3시 이네스가 오딜의 마커로 « Qui décide ? » 밑에 « Nous deux. ». 월요일 9시 전 르 프티 몽소 안쪽 테이블에서 그랑 크렘 두 잔(45화).
+
+### 32화 Écouter la ville (11월)
+- 민박 « La Closerie des Saules »(발몽 8km): Simone Chevrier(간호사 30년)·Albert Chevrier(방적 반장 25년). 자원봉사 코디 Noémie Granger(28), 치즈 상인 Maryse, 청소년 센터 « L'Escale »의 Moussa, Kenza(19).
+- 여론조사(600명, ±4): 메르시에 31·리비에르 22·카드두르 14·미정 33. 인지도 리비에르 38%. 우선순위 의료 34·일자리 27. 인터뷰 50건, « avant » 63번·« demain » 4번. 병원 분원(산부인과·야간 응급) 2년 전 폐쇄(31화의 "4년 전"과 차이 — 분원 축소 4년 전, 완전 폐쇄 2년 전으로 해석). 일반의 38→24명. 그랑프레 산업단지 물류창고 150명 구인, 첫 버스 6시 20분. 소책자 « Ce que Valmont nous a dit ».
+- 바티스트는 « Valmont Avenir » 지원, 다시 tu. 마티외 처음으로 « chez nous ».
+
+### 33화 Un programme qui tient (12월 첫 주)
+- 소피아 합류(엘렌 « je ne vous la prête pas, je vous la confie »), 마티외 "2년 뒤 파트너" 약속. 러닝메이트 Bertrand Barreau(은행 30년, 재정 부시장 예정). 전 재무국장 Annick Ferrière(Café du Pont).
+- 발몽 재정: 경상수입 1억 100만, 부채 1억 2천만(상환 13년+), 재산세 3,400만. 공약 7개(보건 센터, 지역 급식, 중재 요원 10명, 도심 상권, 청년 고용, 섬유 공장 재생, 참여 예산 100만), 재원 240만 절감. 섬유 공장 정화 포함 1,100만(시 부담 500만). 빠진 공약 5개(버스 무료화, 트램, 체육관, 재산세 인하, 수영장). 수영장 50년, 균열 → 100일 안에 진단(38화). '우리가 약속하지 않는 것' 페이지.
+- 집안일: "요리한 사람은 설거지 안 함, 고양이 화장실은 마티외 영구 담당". 1월 15일 공약 발표, 1월 말 TV 토론.
+
+### 37화 Entre deux tours (3월)
+- 1차: 투표율 52%, 메르시에 33·리비에르 29·카드두르 16, « Valmont Citoyen » 9.2, « Cap Valmont » 7.6, « Valmont Libre » 5.2. 시의회 53석(1위 27석 + 비례 26석). 카드두르: 티스랑 초등학교 교사, 2번 Raphaël Moinet(간호사). 합병: 공약 7→10(학교 단열, 급식 지역 농산물 50%, 나시오날 거리 토요 보행자 시범), 버스 무료화 거절. 카드두르 3번·학교·생태 부시장 예정. 메르시에 측도 3번 제안, 바티스트가 마티외에게 먼저 알림.
+- 루아르 강변 벤치에서 처음 아이 이야기(둘 다 원함). 꿈: 레스타크 바다가 보이는 집, 마티외 클라리넷, 이네스 아침 수영, 일요일 벨로드롬. 결선 뒤 콜마르행(38화).
+
+### 41화 Le déficit (11월)
+- 집 예산: 저축 15만 + 대출 60만(25년) = 75만, 방 3개 65㎡ 목표. 우편함: 이네스 이름 인쇄, 마티외 이름은 테이프에 초록 펜. 피가로 사료 월 42유로.
+- 가상 도 Haut-Val(도청 소재지 Valcerne): 의장 Henri Maréchal, DGS Béatrice Guérin, 재무국장 Vincent Salaün, 야당 Fabienne Dumas, 요양보호사 Monique Tardieu. 운영 예산 5억 4천만, DMTO 1억 1,200만→7,400만, 부채 4억 1천만(17년). 3년 안정화 계획, 퐁샤랭 우회도로 3년 연기, 추첨 시민 40명, 참여 예산 200만.
+- 엘렌 « Ne promettez pas qu'ils décideront de tout, promettez qu'ils sauront tout. », « Qui paie ses dettes s'enrichit ».
+- 루 부인(빨간 코트) 재회, 다게르 거리 64㎡ 66만 5천 유로(보리수 마당) → « Pas encore ». 뤼카 봄 개업(42화).

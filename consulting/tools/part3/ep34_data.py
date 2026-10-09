@@ -43,8 +43,8 @@ D = [
 (None, "Dix minutes plus tard, Inès croque une fève en porcelaine. Sofia lui pose d'autorité la couronne en carton sur la tête.", "10분 뒤, 이네스가 도자기 페브를 깨문다. 소피아가 다짜고짜 그녀 머리에 종이 왕관을 씌운다."),
 
 # ---------- 2. Client : la permanence de la Grand-Rue ----------
-(None, "Le lendemain, 10 h. Valmont-sur-Loire, permanence de campagne de « Valmont Ensemble », dans une ancienne boutique de chaussures de la Grand-Rue.",
-       "다음 날 오전 10시. 발몽쉬르루아르. 그랑뤼(중심가)의 옛 신발 가게 자리에 차린 « Valmont Ensemble » 선거 사무소."),
+(None, "Le lendemain, 10 h. Valmont-sur-Loire, permanence de campagne de « Valmont Ensemble », dans une ancienne mercerie de la Grand-Rue.",
+       "다음 날 오전 10시. 발몽쉬르루아르. 그랑뤼(중심가)의 옛 잡화점 자리에 차린 « Valmont Ensemble » 선거 사무소."),
 (AG, "Entrez, entrez, il fait un froid de canard. J'ai une nouvelle : Canal Valmont a confirmé le débat. Jeudi en huit, vingt heures trente, en direct. Les trois têtes de liste.",
      "들어오세요, 어서요, 얼어 죽을 추위네요. 소식이 있어요. Canal Valmont이 토론을 확정했어요. 다음 주 목요일 저녁 8시 30분, 생방송. 세 명부의 대표 후보 전원이요."),
 (MA, "Excellent. Combien de temps, et quel format ?", "잘됐네요. 시간은 얼마나, 형식은 어떻게요?"),

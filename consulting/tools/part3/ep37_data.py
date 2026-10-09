@@ -8,7 +8,7 @@ META = {
     "part_label": "제3부 · 정치 컨설턴트 Stratèges",
     "title_fr": "Entre deux tours",
     "title_ko": "결선 투표 사이",
-    "place": "발몽쉬르루아르 플라스 뒤 마르셰의 리비에르 선거 사무소(옛 직물 가게) · 루아르 강변 민박 · 강변 자전거 수리 공방(Valmont Durable 선거 사무소) · 새벽의 루아르 강변 / 3월, 1차 투표 일요일 밤~화요일 새벽",
+    "place": "발몽쉬르루아르 그랑뤼의 리비에르 선거 사무소(옛 잡화점) · 루아르 강변 민박 · 강변 자전거 수리 공방(Valmont Durable 선거 사무소) · 새벽의 루아르 강변 / 3월, 1차 투표 일요일 밤~화요일 새벽",
     "chars": "이네스, 마티외, 소피아, 엘렌(전화), 아녜스 리비에르(« Valmont Ensemble » 대표 후보), 야스민 카두르(« Valmont Durable » 대표 후보), 라파엘 무아네(카두르 명부 2번, 간호사), 바티스트(메르시에 캠프 컨설턴트, 전화), Val TV 앵커",
     "work": "1차 투표 결과(메르시에 33%, 리비에르 29%, 카두르 16%, 군소 명부 3개 합계 22%) — 화요일 18시 결선 명부 제출 마감 전까지 카두르 명부와의 합병 협상: 결선 진출·합병 규칙, 지지 이전 분석, 다섯 가지 요구 중 무엇을 받고 무엇을 거절할지, 명부 순번과 남녀 교대, 공개 합의문",
     "life": "개표 방송 앞 식은 피자와 물어뜯은 손톱, 민박 아침 식탁의 말다툼, 협상이 끝난 새벽 루아르 강변 벤치에서 처음 꺼낸 미래의 꿈(아이, 바다가 보이는 집, 은퇴 후)",
@@ -19,8 +19,8 @@ META = {
 
 D = [
 # ---------- 1. Ouverture : le soir du premier tour ----------
-(None, "Dimanche de mars, premier tour, 19 h 52. Valmont-sur-Loire, la permanence d'Agnès Rivière, une ancienne boutique de tissus place du Marché. Des pizzas froides, une trentaine de bénévoles, tous les yeux rivés sur l'écran de Val TV.",
-       "3월의 일요일, 1차 투표, 저녁 7시 52분. 발몽쉬르루아르, 플라스 뒤 마르셰의 옛 직물 가게를 개조한 아녜스 리비에르의 선거 사무소. 식은 피자, 서른 명 남짓한 자원봉사자, 모두의 눈이 Val TV 화면에 고정되어 있다."),
+(None, "Dimanche de mars, premier tour, 19 h 52. Valmont-sur-Loire, la permanence d'Agnès Rivière, une ancienne mercerie de la Grand-Rue. Des pizzas froides, une trentaine de bénévoles, tous les yeux rivés sur l'écran de Val TV.",
+       "3월의 일요일, 1차 투표, 저녁 7시 52분. 발몽쉬르루아르, 그랑뤼의 옛 잡화점을 개조한 아녜스 리비에르의 선거 사무소. 식은 피자, 서른 명 남짓한 자원봉사자, 모두의 눈이 Val TV 화면에 고정되어 있다."),
 (S, "Huit minutes. Je n'ai plus d'ongles, Inès. Je les ai tous rongés depuis la fermeture des bureaux de vote.", "8분 남았어. 나 손톱이 하나도 안 남았어, 이네스. 투표소 문 닫은 뒤로 다 물어뜯었어."),
 (I, "Mange une part de pizza à la place. Elle est froide, mais au moins elle ne te jugera pas.", "대신 피자나 한 조각 먹어. 식긴 했지만 적어도 널 평가하진 않을 거야."),
 (MA, "Tiens, Sofia, je t'ai gardé la dernière aux quatre fromages. Privilège de la benjamine.", "자, 소피아, 콰트로 포르마지 마지막 조각 남겨 뒀어. 막내의 특권이야."),

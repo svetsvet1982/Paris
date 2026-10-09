@@ -8,7 +8,7 @@ META = {
     "part_label": "제3부 · 정치 컨설턴트 Stratèges",
     "title_fr": "Agora",
     "title_ko": "아고라",
-    "place": "11구 오베르캉프 이네스의 아파트(집 겸 사무실) · 발몽쉬르루아르 나시오날 거리와 카페 데 알 · 루아르 강변 옛 벨랑제 방적 공장 · 아녜스 리비에르의 선거 사무소(옛 신발 가게) / 10월 1일 목요일",
+    "place": "11구 오베르캉프 이네스의 아파트(집 겸 사무실) · 발몽쉬르루아르 나시오날 거리와 카페 데 알 · 루아르 강변 옛 벨랑제 방적 공장 · 아녜스 리비에르의 선거 사무소(그랑뤼의 옛 잡화점) / 10월 1일 목요일",
     "chars": "이네스, 마티외, 엘렌 바쇠르(멘토), 아녜스 리비에르(52, 발몽쉬르루아르 시장 후보·시민 명부 « Valmont Ensemble »), 조엘 피카르(카페 데 알 주인), 오데트 샤리에(71, 옛 방적 공장 직공)",
     "work": "공공정책·선거 컨설팅사 Agora Stratégies 설립 — 회사 이름 짓기, SAS 정관·자본금·공동 지분 50:50과 교착 해소 조항, 세 가지 원칙(독립성·투명성·진실) 헌장, 선거 자금 규칙, 첫 고객 아녜스 리비에르 인터뷰와 계약, 발몽쉬르루아르 첫 방문과 '진짜 적은 기권'이라는 발견",
     "life": "마티외가 상자 스물세 개를 들고 이네스 집으로 이사 오는 날, 피가로의 영역 표시, 옷장 반쪽과 여벌 열쇠, 처음으로 '우리 집'이라고 말하는 이네스, 거실 화이트보드에 쓴 세 가지 질문",
@@ -144,7 +144,7 @@ D = [
 (MA, "Je ne vous demande pas de voter pour Mme Rivière, madame. Je vous demande de voter. Pour qui vous voudrez.", "리비에르 씨를 찍어 달라는 게 아니에요. 투표를 해 주셨으면 하는 거예요. 원하시는 누구에게든요."),
 
 # ---------- 5. Décision : la permanence, le contrat, la déclaration ----------
-(None, "18 h. Une ancienne boutique de chaussures, rue Nationale, qu'Agnès vient de louer pour sa permanence. Des chaises pliantes, une table sur tréteaux, une affiche encore roulée.", "오후 6시. 나시오날 거리의 옛 신발 가게. 아녜스가 선거 사무소로 쓰려고 막 빌린 곳이다. 접이식 의자, 받침대 위에 올린 탁자, 아직 말려 있는 포스터."),
+(None, "18 h. Une ancienne mercerie de la Grand-Rue, qu'Agnès vient de louer pour sa permanence. Des chaises pliantes, une table sur tréteaux, une affiche encore roulée.", "오후 6시. 그랑뤼의 옛 잡화점. 아녜스가 선거 사무소로 쓰려고 막 빌린 곳이다. 접이식 의자, 받침대 위에 올린 탁자, 아직 말려 있는 포스터."),
 (AG, "Ma future permanence. J'ai choisi une vitrine vide exprès. Bon, parlons argent, puisque vous y tenez.", "제 선거 사무소가 될 곳이에요. 일부러 빈 가게를 골랐어요. 자, 돈 얘기 하죠. 두 분이 그렇게 원하시니."),
 (I, "Quel est votre budget de campagne ?", "선거 예산이 얼마인가요?"),
 (AG, "Soixante-dix mille euros. Un apport personnel, un prêt bancaire et des dons, que j'espère nombreux.", "7만 유로요. 개인 출자금, 은행 대출, 그리고 많이 들어오길 바라는 후원금이요."),
