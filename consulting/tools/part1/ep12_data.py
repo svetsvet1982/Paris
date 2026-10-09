@@ -44,8 +44,7 @@ D = [
     "드디어! 안녕하세요. 공유기가 토요일부터 작동을 안 해요. 아니, 공유기 두 대요. 계약이 두 건이거든요."),
 (K, "Ah, deux contrats, ça fait deux dossiers : il faudra rappeler pour le deuxième. Et les pannes de box, c'est le service technique. Je vous transfère, ne quittez pas...",
     "아, 계약 두 건이면 접수도 두 건이라 두 번째는 다시 전화하셔야 해요. 그리고 공유기 고장은 기술 지원팀 담당이에요. 연결해 드릴게요, 끊지 말고 기다려 주세요..."),
-(None, "Bip. Bip. Bip. La communication est coupée.", "뚜. 뚜. 뚜. 전화가 끊긴다."),
-(MA, "Il a raccroché ? Quarante minutes d'attente pour être transférés dans le vide !", "끊은 거야? 40분 기다렸는데 허공으로 연결되다니!"),
+(MA, "Bip, bip, bip... Il a raccroché ? Quarante minutes d'attente pour être transférés dans le vide !", "뚜, 뚜, 뚜... 끊은 거야? 40분 기다렸는데 허공으로 연결되다니!"),
 
 # ---------- 2. Briefing et client ----------
 (None, "Hélène passe la tête par la porte de la cuisine, un dossier à la main.", "엘렌이 서류철을 들고 탕비실 문으로 고개를 들이민다."),
@@ -239,6 +238,7 @@ D = [
 (I, "Merci de m'accueillir. Pichon veut le rapport lundi à huit heures, et chez moi, c'est toujours le désert numérique.", "받아 줘서 고마워. 피숑은 월요일 8시까지 보고서를 원하는데, 우리 집은 여전히 디지털 사막이야."),
 (MA, "Installe-toi à la table. J'ai fait une tarte à l'oignon, la recette de Mamie Odile. On mange, et on finit le rapport.", "식탁에 자리 잡아. 양파 타르트 만들었어, 오딜 할머니 레시피야. 먹고 나서 보고서 끝내자."),
 (I, "Une tarte à l'oignon, un vendredi soir, avec un rapport à finir... Tu sais recevoir, Strasbourg.", "금요일 밤에, 끝내야 할 보고서랑 양파 타르트라... 손님 대접할 줄 아네, 스트라스부르."),
+(None, "Trois heures plus tard. Les assiettes sont vides, le rapport presque fini.", "세 시간 뒤. 접시는 비었고, 보고서는 거의 끝났다."),
 (I, "Page quarante-deux : « Le taux de résolution au premier appel devient l'indicateur principal. » Ça te va ?", "42쪽. '1차 해결률을 핵심 지표로 삼는다.' 이거 괜찮아?"),
 (MA, "Parfait. Et mets la phrase de Mélanie à la fin : « Sur nos tableaux, tout est vert. Pour le client, tout est rouge. »", "완벽해. 그리고 마지막에 멜라니의 말을 넣자. '우리 현황판에선 전부 초록불. 고객에게는 전부 빨간불.'"),
 (I, "C'est fait. On envoie ?", "넣었어. 보낼까?"),
