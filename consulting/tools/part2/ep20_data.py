@@ -80,7 +80,6 @@ D = [
 (KA, "Combien de postes, concrètement ? Les gars, en bas, ils veulent un chiffre, pas des graphiques.", "구체적으로 몇 자리입니까? 아래 현장 사람들은 그래프가 아니라 숫자를 원해요."),
 (MA, "Deux cent cinquante postes supprimés sur les sites français, sur dix-huit mois. Cent soixante à Saint-Étienne, cinquante à Roanne, quarante dans les fonctions support.",
      "18개월에 걸쳐 프랑스 사업장에서 250개 일자리를 줄입니다. 생테티엔 160, 로안 50, 지원 부서 40입니다."),
-(None, "Murmures autour de la table. Quelqu'un repousse sa chaise.", "테이블 주위가 웅성거린다. 누군가 의자를 뒤로 민다."),
 (JF, "Deux cent cinquante. Et vous appelez ça un « projet de réorganisation ». Dites « plan social », monsieur Kessler, ce sera plus honnête.",
      "250명. 그걸 '구조조정안'이라고 부르시네요. '감원 계획'이라고 하세요, 대표님. 그게 더 정직하죠."),
 (MA, "Juridiquement, c'est un plan de sauvegarde de l'emploi, un PSE, et je ne cache pas le mot. Mais nous voulons d'abord des départs volontaires, avant tout licenciement contraint.",
@@ -256,7 +255,6 @@ D = [
      "그럼 회의를 정회할 것을 제안합니다. 다음 주 목요일 9시에 재개하죠. 파브르 서기님, 망수리 위원님, 감사합니다. 합의는 못 했지만, 서로 대화는 했습니다."),
 (JF, "Une dernière chose. Votre directrice financière ne vous a pas contredit, tout à l'heure. Elle en avait envie, pourtant. Ça se voyait. Parlez-vous, tous les deux.",
      "마지막으로 하나만요. 아까 재무이사님이 대표님 말에 반박하지 않으셨죠. 그러고 싶어 하셨는데. 다 보이던데요. 두 분, 대화 좀 하세요."),
-(None, "Elle sort. Inès range ses papiers sans lever les yeux.", "조지안이 나간다. 이네스는 눈을 들지 않은 채 서류를 정리한다."),
 
 # ---------- 6. Le soir : la porte ----------
 (None, "Le soir même, 22 h 30. Appartement d'Inès. Elle mange des pâtes froides devant son ordinateur ; Figaro dort sur la « version 2 ». On frappe à la porte.",

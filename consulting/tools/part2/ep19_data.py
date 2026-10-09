@@ -41,9 +41,8 @@ D = [
 (I, "Si. C'est mon métier, de tout voir. ... Pardon. Je t'ai réveillé juste pour te faire peur.", "아니, 볼 수 있어. 다 보는 게 내 일이야. ...미안. 겁주려고 깨운 것밖에 안 되네."),
 (MA, "Tu m'as réveillé pour qu'on ait peur à deux. C'est beaucoup mieux qu'avoir peur toute seule.", "같이 무서워하려고 깨운 거지. 혼자 무서워하는 것보다 훨씬 낫잖아."),
 (None, "Figaro s'étire et traverse le clavier. Une colonne entière se remplit de 9.", "피가로가 기지개를 켜더니 키보드 위를 가로지른다. 한 열 전체가 9로 채워진다."),
-(I, "Même le chat essaie d'améliorer nos chiffres.", "고양이까지 우리 숫자를 개선해 보려고 하네."),
-(MA, "Il a plus de chances que la banque. Je fais du café. Et à huit heures, Madame Marchetti et Monsieur Kessler arriveront au bureau. Séparément.",
-     "은행보다는 가능성이 있겠지. 커피 내릴게. 그리고 8시에 마르케티 이사님과 케슬레르 대표님은 회사에 도착하실 거야. 따로따로."),
+(MA, "Même Figaro essaie d'améliorer nos chiffres. Il a plus de chances que la banque. Bon, je fais du café. Et à huit heures, Madame Marchetti et Monsieur Kessler arriveront au bureau. Séparément.",
+     "피가로까지 우리 숫자를 개선해 보려고 하네. 은행보다는 가능성이 있겠지. 자, 커피 내릴게. 그리고 8시에 마르케티 이사님과 케슬레르 대표님은 회사에 도착하실 거야. 따로따로."),
 
 # ---------- 2. Le siège, puis la banque ----------
 (None, "8 h. Siège de Verdier Industries. Martine Roche, l'assistante du directeur général, a déjà posé deux cafés et un dossier sur la table.",
@@ -238,6 +237,7 @@ D = [
 (None, "1 h 10. Le téléphone d'Inès vibre. Un message de Baptiste : « Lettre signée par Frédéric, elle est dans ta boîte mail. Bonne chance. Tu vas en avoir besoin. B. »",
        "새벽 1시 10분. 이네스의 휴대폰이 진동한다. 바티스트의 메시지. '프레데리크가 의향서에 서명했어. 네 메일함에 있어. 행운을 빌어. 필요할 거야. B.'"),
 (I, "Il me tutoie encore, par écrit, à une heure du matin. Il sait exactement ce qu'il fait.", "아직도 글로는 나한테 말을 놓네. 새벽 1시에. 자기가 뭘 하는지 정확히 알고 있어."),
+(MA, "Laisse-le. Cette nuit, on a une banque à convaincre, pas un ancien collègue.", "내버려 둬. 오늘 밤 우리가 설득할 건 은행이지, 옛 동료가 아니야."),
 (None, "2 h 10. Serre revient, la veste sur le bras.", "새벽 2시 10분. 세르가 재킷을 팔에 걸친 채 돌아온다."),
 (SE, "Bien. Le comité accepte. Trois mois de délai de grâce, jusqu'au 15 avril : nous renonçons à exiger le remboursement anticipé, et la ligne reste ouverte. Reporting mensuel, commission de 0,25 %, nantissement des créances à hauteur de quarante millions. Pas de nantissement de la marque.",
      "좋습니다. 위원회가 수락했습니다. 4월 15일까지 석 달의 유예 기간입니다. 조기 상환을 요구하지 않고, 신용 한도도 열어 둡니다. 월간 보고, 수수료 0.25%, 매출채권 4,000만 유로 한도 질권. 상표 질권은 없습니다."),

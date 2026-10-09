@@ -218,6 +218,8 @@ D = [
 (I, "Non, monsieur Serre. Je vous propose d'y être associés.", "아니요, 세르 씨. 그 성공에 함께하시자고 제안하는 겁니다."),
 (SE, "... Bien. Sous réserve de l'approbation de nos comités, nous avons un accord. Félicitations, madame. Vous avez été redoutable.", "...좋습니다. 위원회 승인을 조건으로, 합의가 이뤄졌습니다. 축하드립니다, 이사님. 무시무시하셨어요."),
 (I, "Merci. Et vous, vous avez été raisonnable. C'est plus rare.", "감사합니다. 그리고 세르 씨는 합리적이셨죠. 그쪽이 더 드문 일이에요."),
+(MA, "Monsieur Serre, madame Morvan : je signe la lettre d'engagement au nom de Verdier Industries. Et pour mémoire, tous les chiffres sont ceux de madame Marchetti.",
+     "세르 씨, 모르방 씨. Verdier Industries를 대표해 확약서에 서명하겠습니다. 그리고 분명히 해 두자면, 모든 숫자는 마르케티 이사의 것입니다."),
 
 # ---------- 6. Clôture : la première Stéphanoise ----------
 (None, "Le vendredi suivant, 17 h. Atelier de montage de Saint-Étienne. Les adhérents ont validé l'accord à soixante et onze pour cent ; les comités de crédit ont dit oui. Entre deux palettes, on a dressé des tables : pâté en croûte, saint-joseph, gobelets en plastique. Près de quatre cents personnes sont là.",

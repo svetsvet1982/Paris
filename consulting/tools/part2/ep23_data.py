@@ -176,6 +176,8 @@ D = [
 (I, "Une heure et demie. Serre a été parfait : il veut un point chaque soir, rien de plus. Et l'usine ?", "한 시간 반. 세르는 완벽했어. 매일 저녁 보고만 받겠대, 그 이상은 없고. 공장은?"),
 (MA, "Six cocottes sur dix, des tableaux blancs partout, et un homme de soixante et un ans qui fait tourner l'atelier avec un crayon. J'aurais voulu que tu voies ça.",
      "열 개 중 여섯 개, 사방에 화이트보드, 그리고 연필 한 자루로 작업장을 돌리는 예순한 살 아저씨. 네가 이걸 봤으면 좋았을 텐데."),
+(I, "Tu me raconteras ce soir. Et mange quelque chose, toi aussi. Je ne veux pas d'un directeur général qui s'évanouit devant le CSE.", "오늘 밤에 얘기해 줘. 그리고 너도 뭐 좀 먹어. CSE 앞에서 쓰러지는 대표이사는 사양이야."),
+(MA, "Momo m'a déjà donné la moitié de son sandwich. Il dit que je suis trop maigre pour un patron.", "모모 씨가 벌써 샌드위치 반쪽을 줬어. 사장치고 너무 말랐대."),
 
 # ---------- 5. Décision : le conseil et l'atelier ----------
 (None, "Dimanche, 18 h. Salle du conseil. Samia a installé un ordinateur neuf, jamais connecté au réseau de l'entreprise. Conseil d'administration extraordinaire en visioconférence.",
