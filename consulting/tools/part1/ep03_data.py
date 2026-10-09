@@ -8,7 +8,7 @@ META = {
     "part_label": "제1부 · 컨설턴트 Les consultants",
     "title_fr": "Pénurie de puces",
     "title_ko": "반도체 부족",
-    "place": "파리 리옹역 · 리옹행 TGV · Vasseur & Associés · 리옹 베니시외 로다니스 본사·공장 · 비외리옹 생장 거리 부숑 / 10월 말~11월 중순",
+    "place": "파리 리옹역 · 리옹행 TGV · Vasseur & Associés · 리옹 베니시외 로다니스 본사·공장 · 비외리옹 생장 거리 부숑 / 10월, 약 3주간",
     "chars": "이네스, 마티외, 엘렌(전화), 필리프 아르노(로다니스 대표), 나디아 페랑(생산 책임자), 토마 그랑주(설계 엔지니어), 세르주 비알(구매 이사)",
     "work": "자동차 전자 모듈 업체 로다니스 에키프망 — 대만 단일 공급처 반도체 의존, 재고 5일, 공장 주 3일 가동 중단, 독일 완성차 브레너의 일 15만 유로 위약금 위협",
     "life": "리옹행 TGV 마주 보는 4인석의 브레첼과 커피, 서로의 가족 이야기, 리옹 부숑 저녁, 막차 TGV에서 마티외 어깨에 기대 잠든 이네스",
@@ -19,8 +19,8 @@ META = {
 
 D = [
 # ---------- 1. Ouverture : le TGV ----------
-(None, "Un lundi de fin octobre, 7 h 20. Gare de Lyon, à Paris. Sous le grand tableau des départs, Mathieu cherche Inès du regard, un sac en papier à la main.",
-       "10월 말의 어느 월요일 오전 7시 20분. 파리 리옹역. 커다란 출발 안내판 아래에서 마티외가 종이봉투를 손에 들고 이네스를 찾는다."),
+(None, "Un lundi de début octobre, 7 h 20. Gare de Lyon, à Paris. Sous le grand tableau des départs, Mathieu cherche Inès du regard, un sac en papier à la main.",
+       "10월 초의 어느 월요일 오전 7시 20분. 파리 리옹역. 커다란 출발 안내판 아래에서 마티외가 종이봉투를 손에 들고 이네스를 찾는다."),
 (I, "Strasbourg ! Par ici ! Voie K, voiture 14. Et j'ai pris les cafés.", "스트라스부르! 여기야! K 승강장, 14호차. 커피도 샀어."),
 (MA, "Tu as acheté les cafés ? Alors ma dette est annulée ?", "네가 커피를 샀다고? 그럼 내 빚은 없어진 거야?"),
 (I, "Pas du tout. Un café que je paie moi-même ne compte pas. Ta dette, elle, court toujours.", "전혀. 내 돈으로 산 커피는 안 쳐. 네 빚은 여전히 유효해."),

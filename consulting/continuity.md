@@ -62,3 +62,44 @@
 - 이네스: 토요일마다 아버지와 항구에 감, 아버지는 장부 정리하며 모차르트를 부름. 파산 때 아버지의 말 « Les chiffres étaient là, et je ne les ai pas lus. » 회사 사람에게 처음 털어놓음.
 - 마티외: 10세 때 부모 이혼(고함이 가득한 집) → 콜마르 조부모. 어머니는 몬트리올 재혼, 크리스마스·생일에 전화. 아버지는 스트라스부르, 1년에 두 번 만나 날씨 얘기. 할아버지가 학교 앞에서 기다려 줌. 이네스: "너한텐 갈등이 누군가를 잃는 거였구나."
 - 호텔 방 312(마티외)·314(이네스). 이네스가 처음으로 « Bonne nuit... Mathieu ». 집들이는 6화 모나이오 킥오프 직후 토요일.
+
+### 4화 Zéro gaspillage (10월 말~11월 초)
+- 이네스는 6년째 토요일 알리그르 시장, 생선 장수 Jojo는 "ma Marseillaise". 소피아 4화 월요일 합류(할머니가 루베 거주, 프리마베르 단골).
+- Primavert(이브리쉬르센, 매장 180곳, 매출 15억 유로): 대표 Sylvie Moreau, 운영이사 Denis Lacour, 크레테유 매장 Karim. 폐기 연 4,500만 유로. 권고: 매장별 발주(−35%), J-2 −30%/J-1 −50%, 기부 협약 180곳, « Encore bon » 코너.
+- 생마르탱 운하 와인 바 아페로, 소피아 « Vous êtes ensemble ? », 소피아가 세 가지 질문을 처음 들음.
+
+### 6화 Brûler du cash (12월)
+- Monnaio(스타시옹 F, 직원 85명): Léo Garnier(CEO), Aïcha Diallo(CTO), 고객지원 Margaux, 영업 Hugo. 월 손실 120만 → 50만 유로, 브리지 300만, 9개월 뒤 1,200만 유치 계획.
+- 바티스트는 투자 펀드 Kerlan Ventures(가상) 측 실사, 정보 차단벽. 마티외가 처음 맞받아침.
+- 집들이 8명(소피아, 동료 Thomas·Claire, 스트라스부르 옛 동료 둘, 위층 이웃). 다게르 거리 정육점, 베커오프는 오딜 할머니 레시피. 이네스가 리슬링과 방돌 선물. 설거지 중 손이 닿음.
+
+### 9화 L'usine du fils (3월)
+- Conserverie Castagna: 매출 2,800만 유로, 지분 마리우스 60%·올리비에 20%·나탈리 20%. 라인장 Mireille(31년), 정비 Rémi. 일본 수입업체 Hoshino 시범 30만 유로. 3년 승계(올리비에 DG délégué → DG), 마리우스는 매일 7시 시식 유지.
+- 이네스 부모님 집: 레스타크 언덕, 만이 보이는 테라스. 파산 회사 « Transports Marchetti »(직원 12명), 16세 이네스가 서랍에서 은행 편지 발견. 이네스는 프레파 때 파리로. 가족은 OM 팬. 뤼카의 메뉴: 파니스, 꼴뚜기, 농어구이.
+- 마티외 할아버지는 일요일마다 모차르트 클라리넷 협주곡 아다지오를 연주 → 앙투안의 마음을 얻음(« Papa est conquis »). 다니엘 « Il te regarde comme ton père me regardait. »
+
+### 10화 Papier ou pixels
+- 퐁투아즈 수영장, 몽주 거리 빵집에서 크루아상 빚 청산(+팽오쇼콜라 "이자"). 이네스는 8세부터 일요일 수영. 이네스의 빨간 목도리.
+- Le Courrier de Paris(2구 레오뮈르 거리): 편집국장 Marianne Lefort, 대표 Stéphane Biro, 탐사기자 Paul Ménard, 웹기자 Chloé Fournier. 뉴스레터 « Le Réveil du Courrier ». 메나르의 "100% 친환경" 전력사 탐사(15화 복선).
+- 소피아가 이네스에게 바티스트의 데이트 계획을 귀띔.
+
+### 11화 Deux cultures, une entreprise
+- Groupe Fayolle(15구, 6,000명): 부사장 Thierry Masson. Nuvo(보르도 샤르트롱, 교량 센서): 창업자 Clara Benoît, 기술책임 Yanis, 개발자 Léa. 결재 7단계 → 2단계.
+- 바티스트는 작년 Nuvo 인수 실사 담당. 보르도 호텔 바에서 이네스가 거절, 마티외가 목격 후 기차에서 뾰로통 → « Je lui ai dit non. » 회사 머신 커피는 빚 청산 아님.
+
+### 12화 Le client qui part
+- Ondéa(생드니, 가입자 900만): 고객경험이사 Laurent Pichon, 재무이사 Catherine Delattre, 아미앵 콜센터 Mélanie·Franck·Kevin. 해지율 2.1% → 1.4% 목표.
+- 둘 다 옹데아 고객. 이네스 집은 도로 공사로 광케이블 절단(13화 시점에도 미복구, 다음 주 기사 방문). 목요일 밤 마티외 원룸에서 『쉘부르의 우산』(오딜 할머니가 좋아하는 영화), 담요, 손. 마티외의 양파 타르트.
+
+### 13화 Bureaux vides
+- Foncière Lumen(라 데팡스 타워 6동): 대표 Gilles Marchand, 재무이사 Véronique Carvalho, 오리종 타워 시설 책임자 Pascal Berthou(22년). 오리종 타워(1974) 주거 전환, 오레 타워 매각.
+- 예술의 다리에서 « Je n'ai pas lâché ta main » → 엘렌 전화(이네스·바티스트 매니저 후보) → « On en reparle plus tard ».
+
+### 15화 L'offre du client (6월, 1부 끝)
+- Hélior Énergie(오스테를리츠역 근처 본사, 오를레앙 고객센터, 고객 120만): 대표 직무대행 Sandrine Collet, 상담원 Karine Lemoine, CSE 위원 Patrick Vidal. « 100 % vert, 100 % d'ici » 거짓(가스 35%).
+- 엘렌 문자 « Ne dites pas non par loyauté envers moi ». 오브리: "다른 후보 중 하나는 당신네 회사 사람"(바티스트 복선).
+- 몽소 공원 열주 옆 첫 키스 « Il t'a fallu neuf mois, Strasbourg. » → 르 프티 몽소 그랑 크렘으로 커피 빚 청산 → 이네스가 처음 "Mathieu"로 부름 → « Lundi, on dit oui. »
+- **2부 호칭 규칙**: 빚이 끝났으므로 "Strasbourg"는 이제 애칭으로 가끔만(놀릴 때·다정할 때).
+
+## 1부 타임라인
+1화 9월 · 2화 9~10월 · 3화 10월 · 4화 10월 말~11월 초 · 5화 11월~12월 초 · 6화 12월 · 7화 1월 · 8화 2월 · 9화 3월 · 10~14화 3~6월 · 15화 6월

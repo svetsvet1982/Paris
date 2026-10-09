@@ -180,8 +180,8 @@ D = [
 (MA, "Quelle tête ? Je savoure, c'est tout.", "무슨 표정? 그냥 음미하는 중이야."),
 
 # ---------- 5. Recommandations ----------
-(None, "Dix jours plus tard. Siège d'Ondéa, salle du comité exécutif. Laurent Pichon, la directrice financière Catherine Delattre, et Sofia au fond de la salle avec son ordinateur.",
-       "열흘 뒤. 옹데아 본사 경영위원회 회의실. 로랑 피숑, 재무 이사 카트린 들라트르, 그리고 노트북을 든 소피아가 방 뒤편에 있다."),
+(None, "Huit jours plus tard. Siège d'Ondéa, salle du comité exécutif. Laurent Pichon, la directrice financière Catherine Delattre, et Sofia au fond de la salle avec son ordinateur.",
+       "여드레 뒤. 옹데아 본사 경영위원회 회의실. 로랑 피숑, 재무 이사 카트린 들라트르, 그리고 노트북을 든 소피아가 방 뒤편에 있다."),
 (I, "Monsieur Pichon, madame Delattre, merci. Une phrase pour commencer : vos clients ne partent pas parce qu'Ondéa est trop chère. Ils partent parce qu'ils ont appelé trois fois sans obtenir de solution.",
     "피숑 이사님, 들라트르 이사님, 감사합니다. 한 문장으로 시작하겠습니다. 고객들은 옹데아가 비싸서 떠나는 게 아닙니다. 세 번이나 전화했는데 해결책을 얻지 못해서 떠납니다."),
 (DE, "Nos questionnaires de départ disent le contraire. Le prix arrive en premier, à soixante pour cent.", "해지 설문은 반대로 말하는데요. 가격이 60%로 1위예요."),
@@ -232,22 +232,22 @@ D = [
     "마티외 건 이틀 만에 돌아왔어요. 제 건 아니에요. 길거리 공사 때문에 우리 건물 광케이블이 뜯겨 나갔대요. 기사님이 열흘 뒤에 오신대요. 제가 이사님 고객 중에 제일 참을성 있는 고객일 거예요."),
 
 # ---------- 6. Le soir : le studio ----------
-(None, "Vendredi, 19 h. Le studio de Mathieu, rue Raymond-Losserand. Inès arrive avec son ordinateur et une bouteille de vin.",
-       "금요일 저녁 7시. 레몽로스랑 거리의 마티외 원룸. 이네스가 노트북과 와인 한 병을 들고 도착한다."),
+(None, "Jeudi, 19 h. Le studio de Mathieu, rue Raymond-Losserand. Inès arrive avec son ordinateur et une bouteille de vin.",
+       "목요일 저녁 7시. 레몽로스랑 거리의 마티외 원룸. 이네스가 노트북과 와인 한 병을 들고 도착한다."),
 (MA, "Entre. Bienvenue dans le seul endroit du 14e où une box Ondéa fonctionne.", "들어와. 14구에서 옹데아 공유기가 작동하는 유일한 곳에 온 걸 환영해."),
-(I, "Merci de m'accueillir. Pichon veut le rapport lundi à huit heures, et chez moi, c'est toujours le désert numérique.", "받아 줘서 고마워. 피숑은 월요일 8시까지 보고서를 원하는데, 우리 집은 여전히 디지털 사막이야."),
+(I, "Merci de m'accueillir. Pichon veut le rapport demain à huit heures pour préparer son comité de lundi, et chez moi, c'est toujours le désert numérique.", "받아 줘서 고마워. 피숑은 월요일 위원회를 준비하려고 내일 8시까지 보고서를 원하는데, 우리 집은 여전히 디지털 사막이야."),
 (MA, "Installe-toi à la table. J'ai fait une tarte à l'oignon, la recette de Mamie Odile. On mange, et on finit le rapport.", "식탁에 자리 잡아. 양파 타르트 만들었어, 오딜 할머니 레시피야. 먹고 나서 보고서 끝내자."),
-(I, "Une tarte à l'oignon, un vendredi soir, avec un rapport à finir... Tu sais recevoir, Strasbourg.", "금요일 밤에, 끝내야 할 보고서랑 양파 타르트라... 손님 대접할 줄 아네, 스트라스부르."),
+(I, "Une tarte à l'oignon, un jeudi soir, avec un rapport à finir... Tu sais recevoir, Strasbourg.", "목요일 밤에, 끝내야 할 보고서랑 양파 타르트라... 손님 대접할 줄 아네, 스트라스부르."),
 (None, "Trois heures plus tard. Les assiettes sont vides, le rapport presque fini.", "세 시간 뒤. 접시는 비었고, 보고서는 거의 끝났다."),
 (I, "Page quarante-deux : « Le taux de résolution au premier appel devient l'indicateur principal. » Ça te va ?", "42쪽. '1차 해결률을 핵심 지표로 삼는다.' 이거 괜찮아?"),
 (MA, "Parfait. Et mets la phrase de Mélanie à la fin : « Sur nos tableaux, tout est vert. Pour le client, tout est rouge. »", "완벽해. 그리고 마지막에 멜라니의 말을 넣자. '우리 현황판에선 전부 초록불. 고객에게는 전부 빨간불.'"),
 (I, "C'est fait. On envoie ?", "넣었어. 보낼까?"),
-(MA, "On envoie. ... Voilà : envoyé à vingt-trois heures quatorze. Ton dernier métro passe dans vingt minutes.", "보내자. ...됐다. 밤 11시 14분에 전송 완료. 네 막차가 20분 뒤에 와."),
-(I, "Vingt minutes... J'ai encore un peu de temps. Qu'est-ce que tu regardais, avant que j'arrive ?", "20분이라... 아직 시간 좀 있네. 나 오기 전에 뭐 보고 있었어?"),
+(MA, "On envoie. ... Voilà : envoyé à vingt-trois heures quatorze. Ton dernier métro pour Oberkampf passe vers minuit et demi.", "보내자. ...됐다. 밤 11시 14분에 전송 완료. 오베르캉프 가는 네 막차는 12시 반쯤이야."),
+(I, "Minuit et demi... J'ai encore un peu de temps. Qu'est-ce que tu regardais, avant que j'arrive ?", "12시 반이라... 아직 시간 좀 있네. 나 오기 전에 뭐 보고 있었어?"),
 (MA, "Un vieux film que ma grand-mère adore : Les Parapluies de Cherbourg. Tu connais ?", "할머니가 정말 좋아하시는 옛날 영화. '쉘부르의 우산'. 알아?"),
 (I, "Tout le monde le connaît. Ils chantent pendant tout le film, et ça finit mal. Mets-le. Je reste dix minutes.", "모르는 사람이 어딨어. 영화 내내 노래하고, 결말이 슬프지. 틀어 봐. 10분만 있을게."),
-(None, "Une heure plus tard. Le dernier métro est passé depuis longtemps. Ils sont sur le canapé, sous la même couverture ; leurs mains se sont trouvées. À l'écran, une station-service sous la neige.",
-       "한 시간 뒤. 막차는 이미 오래전에 떠났다. 두 사람은 소파에서 담요 하나를 함께 덮고 있다. 두 손이 어느새 맞잡혀 있다. 화면에는 눈 내리는 주유소."),
+(None, "Une heure et demie plus tard. Le dernier métro est passé. Ils sont sur le canapé, sous la même couverture ; leurs mains se sont trouvées. À l'écran, une station-service sous la neige.",
+       "한 시간 반 뒤. 막차는 이미 떠났다. 두 사람은 소파에서 담요 하나를 함께 덮고 있다. 두 손이 어느새 맞잡혀 있다. 화면에는 눈 내리는 주유소."),
 (I, "Je déteste cette fin. Ils s'aimaient, et ils ont laissé la vie décider à leur place.", "이 결말 정말 싫어. 서로 사랑했는데, 삶이 대신 결정하게 내버려 뒀잖아."),
 (MA, "Peut-être qu'ils avaient peur. Ou qu'ils attendaient le bon moment.", "어쩌면 두려웠던 거겠지. 아니면 적당한 때를 기다렸거나."),
 (I, "Mathieu... C'est une mauvaise idée, nous deux. On travaille ensemble.", "마티외... 우리 둘, 좋은 생각이 아니야. 우린 같이 일하잖아."),
@@ -255,9 +255,9 @@ D = [
 (None, "Mais il ne lâche pas sa main. Elle non plus.", "하지만 그는 그녀의 손을 놓지 않는다. 그녀도 마찬가지다."),
 (I, "C'est tout ? Toi qui as toujours trois questions ?", "그게 다야? 늘 질문 세 개를 달고 다니는 사람이?"),
 (MA, "J'en ai une, ce soir. Que fait-on lundi ?", "오늘 밤엔 하나만 있어. 월요일엔 뭘 하지?"),
-(I, "Lundi, Pichon lit notre rapport, et Hélène nous donne un nouveau dossier. Elle m'a écrit tout à l'heure : une foncière avec six tours de bureaux à La Défense, presque un tiers vides.",
-    "월요일엔 피숑이 우리 보고서를 읽고, 엘렌이 새 사건을 줄 거야. 아까 문자가 왔어. 라 데팡스에 오피스 타워 여섯 개를 가진 부동산 회사인데, 거의 3분의 1이 비어 있대."),
-(MA, "Des bureaux vides... Et ce soir ? Le dernier métro est parti depuis longtemps.", "텅 빈 사무실이라... 그럼 오늘 밤은? 막차는 한참 전에 떠났는데."),
+(I, "Lundi, Pichon présente notre plan à son comité, et Hélène nous donne un nouveau dossier. Elle m'a écrit tout à l'heure : une foncière avec six tours de bureaux à La Défense, presque un tiers vides.",
+    "월요일엔 피숑이 위원회에 우리 계획을 올리고, 엘렌이 새 사건을 줄 거야. 아까 문자가 왔어. 라 데팡스에 오피스 타워 여섯 개를 가진 부동산 회사인데, 거의 3분의 1이 비어 있대."),
+(MA, "Des bureaux vides... Et ce soir ? Le dernier métro est parti.", "텅 빈 사무실이라... 그럼 오늘 밤은? 막차는 떠났는데."),
 (I, "Je vais appeler un taxi. ... Dans cinq minutes. Ne bouge pas, Strasbourg.", "택시 부를게. ...5분 뒤에. 움직이지 마, 스트라스부르."),
 (None, "Le film est fini depuis longtemps. Le menu du DVD tourne en boucle. Ni l'un ni l'autre ne bouge.", "영화는 끝난 지 오래다. DVD 메뉴 화면이 계속 반복된다. 두 사람 중 누구도 움직이지 않는다."),
 ]
@@ -287,7 +287,7 @@ VOCAB = [
 ("B1", "Accrochez-vous !", "마음 단단히 먹으세요!", "s'accrocher = 꽉 붙잡다. 놀랄 소식을 전하기 전에 쓰는 구어."),
 ("B2", "C'est dire.", "말 다 했지", "앞의 말이 얼마나 심한 상황인지 보여 줄 때. Je fais de la finance depuis six ans. C'est dire."),
 ("B2", "sur un coup de tête", "홧김에, 충동적으로", "Ils ne partent pas sur un coup de tête. 깊이 생각하지 않은 결정."),
-("B1", "le dernier métro", "막차(지하철)", "파리 메트로는 보통 새벽 1시 전후, 금·토는 더 늦게까지. 트뤼포 영화 제목이기도 하다."),
+("B1", "le dernier métro", "막차(지하철)", "파리 메트로 막차는 보통 밤 12시 반~1시 무렵, 금·토요일은 더 늦게까지 다닌다. 트뤼포 영화 제목이기도 하다."),
 ]
 
 GRAM = [

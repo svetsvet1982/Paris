@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # (speaker, french, korean); speaker None => stage direction (not a turn)
 I, MA, H, S = "Inès", "Mathieu", "Hélène", "Sofia"
-AU, DU, K, V = "Aubry", "Duval", "Karine", "Vidal"
+AU, DU, K, V = "Aubry", "Collet", "Karine", "Vidal"
 
 META = {
     "part": 1, "ep": 15,
@@ -9,7 +9,7 @@ META = {
     "title_fr": "L'offre du client",
     "title_ko": "고객의 제안",
     "place": "14구 레몽로스랑 거리 원룸 · Vasseur & Associés · 오스테를리츠역 근처 엘리오르 에네르지 본사 · 오를레앙 고객센터 · 몽소 공원 / 6월, 약 4주간",
-    "chars": "이네스, 마티외, 엘렌, 소피아, 프레데리크 오브리(아르칸 캐피털 파트너·엘리오르 이사회 의장), 클레르 뒤발(엘리오르 대표 직무대행), 카린 르무안(고객 상담원), 파트리크 비달(CSE 위원)",
+    "chars": "이네스, 마티외, 엘렌, 소피아, 프레데리크 오브리(아르칸 캐피털 파트너·엘리오르 이사회 의장), 상드린 콜레(엘리오르 대표 직무대행), 카린 르무안(고객 상담원), 파트리크 비달(CSE 위원)",
     "work": "재생에너지 공급사 엘리오르 에네르지 — '100% 친환경' 광고의 그린워싱 스캔들, CEO·CFO 사임, 30일 안에 위기 대응·신뢰 회복 계획",
     "life": "새벽 6시의 전화, 매니저와 팀원이 된 두 사람의 어색함, 몽소 공원의 첫 키스, 아홉 달 만에 갚은 커피 한 잔",
     "focus": "위기 커뮤니케이션 어휘, 제안·협상·결정 표현, 접속법(avant que, pour que, à condition que, bien que), 조건법(전언·가정), ce qui... c'est 강조, 비율·배수 표현, 1부 마무리",
@@ -86,8 +86,8 @@ D = [
 (AU, "Heure par heure ? Vous allez y passer des nuits.", "시간대별로요? 밤을 새우셔야 할 텐데요."),
 (S, "J'adore les nuits avec des tableurs. Enfin... professionnellement.", "저 엑셀이랑 보내는 밤 정말 좋아해요. 아니... 업무적으로요."),
 (I, "Nous voudrions aussi rencontrer le service client et les représentants du personnel. Sans la direction dans la pièce.", "고객 서비스팀과 직원 대표들도 만나고 싶습니다. 경영진이 없는 자리에서요."),
-(AU, "Accordé. Notre centre de relation client est à Orléans. Je préviens Claire Duval, la directrice des opérations. Elle assure l'intérim de la direction générale.",
-     "허락하죠. 고객센터는 오를레앙에 있어요. 운영 본부장 클레르 뒤발에게 말해 두겠습니다. 지금 대표 직무를 대행하고 있어요."),
+(AU, "Accordé. Notre centre de relation client est à Orléans. Je préviens Sandrine Collet, la directrice des opérations. Elle assure l'intérim de la direction générale.",
+     "허락하죠. 고객센터는 오를레앙에 있어요. 운영 본부장 상드린 콜레에게 말해 두겠습니다. 지금 대표 직무를 대행하고 있어요."),
 (AU, "Une dernière chose. Je ne veux pas une belle présentation. Je veux un plan que je puisse défendre devant les clients, les salariés et l'État. Dans trente jours.",
      "마지막으로 하나. 멋진 발표는 필요 없습니다. 고객, 직원, 그리고 정부 앞에서 제가 변호할 수 있는 계획을 원해요. 30일 안에."),
 
@@ -176,8 +176,8 @@ D = [
      "모두가 알았는데 아무도 말할 수 없었어. 빵 굽는 횟수 얘기를 하던 유세프처럼... 하지만 이번엔 우리가 그들 대신 말할 거야."),
 
 # ---------- 5. Recommandations ----------
-(None, "Vingt-huit jours après l'article, un vendredi, 14 h. Siège d'Hélior, salle du conseil. Frédéric Aubry préside ; Claire Duval est à sa droite. Hélène est assise au fond de la salle.",
-       "기사가 나온 지 28일째 되는 금요일 오후 2시. 엘리오르 본사 이사회실. 프레데리크 오브리가 의장석에 앉아 있고, 오른쪽에 클레르 뒤발이 있다. 엘렌은 방 뒤편에 앉아 있다."),
+(None, "Vingt-huit jours après l'article, un vendredi, 14 h. Siège d'Hélior, salle du conseil. Frédéric Aubry préside ; Sandrine Collet est à sa droite. Hélène est assise au fond de la salle.",
+       "기사가 나온 지 28일째 되는 금요일 오후 2시. 엘리오르 본사 이사회실. 프레데리크 오브리가 의장석에 앉아 있고, 오른쪽에 상드린 콜레이 있다. 엘렌은 방 뒤편에 앉아 있다."),
 (AU, "Madame Marchetti, vous avez la parole. Vous avez vingt minutes. Et deux jours d'avance sur le délai, je le note.", "마르케티 씨, 말씀하세요. 20분 드리겠습니다. 그리고 기한보다 이틀 빠르군요. 기억해 두죠."),
 (I, "Merci, monsieur le président. Nous commencerons par une phrase : Hélior n'a pas un problème d'électricité. Hélior a un problème de promesse.",
     "감사합니다, 의장님. 한 문장으로 시작하겠습니다. 엘리오르의 문제는 전기가 아닙니다. 엘리오르의 문제는 약속입니다."),
@@ -216,7 +216,7 @@ D = [
 (MA, "Ce n'est pas la question, monsieur le président. La question, c'est pourquoi elle n'est pas arrivée. Nous recommandons un vrai canal d'alerte, indépendant de la direction, qui rende compte directement au comité d'audit. Et chaque trimestre, le conseil rencontre des salariés du terrain, sans leurs managers.",
      "그게 문제가 아닙니다, 의장님. 문제는 왜 닿지 못했느냐입니다. 경영진과 독립적이고 감사위원회에 직접 보고하는 진짜 신고 채널을 권고합니다. 그리고 분기마다 이사회가 관리자 없이 현장 직원들을 만나야 합니다."),
 (AU, "... Bien que ce plan me coûte cher, je le trouve juste. Je mets au vote.", "...이 계획이 제게 비싸게 먹히긴 하지만 정당하다고 봅니다. 표결에 부치겠습니다."),
-(AU, "Adopté à l'unanimité. Madame Duval, le message d'excuses part lundi. Madame Vasseur, vos consultants ne font pas de cadeaux.", "만장일치로 가결됐습니다. 뒤발 대표대행, 사과문은 월요일에 나갑니다. 바쇠르 대표님, 당신네 컨설턴트들은 봐주는 게 없군요."),
+(AU, "Adopté à l'unanimité. Madame Collet, le message d'excuses part lundi. Madame Vasseur, vos consultants ne font pas de cadeaux.", "만장일치로 가결됐습니다. 콜레 대표대행, 사과문은 월요일에 나갑니다. 바쇠르 대표님, 당신네 컨설턴트들은 봐주는 게 없군요."),
 (H, "C'est pour ça que vous les avez appelés, Frédéric.", "그래서 그 둘을 부르신 거잖아요, 프레데리크."),
 (AU, "Madame Marchetti, monsieur Kessler, restez une minute. Arcane détient aussi Verdier Industries, à Saint-Étienne. Fondée en 1874, quatre mille deux cents salariés, de l'électroménager et des petits équipements. Le groupe perd de l'argent depuis trois ans.",
      "마르케티 씨, 케슬레르 씨, 잠깐 남아 주세요. 아르칸은 생테티엔의 베르디에 앵뒤스트리도 갖고 있습니다. 1874년 창업, 직원 4,200명, 가전과 소형 설비를 만드는 회사죠. 그 그룹이 3년째 적자입니다."),

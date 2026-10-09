@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # (speaker, french, korean); speaker None => stage direction (not a turn)
 I, MA, H, S = "Inès", "Mathieu", "Hélène", "Sofia"
-LF, BI, PM, LE = "Lefort", "Biro", "Ménard", "Léa"
+LF, BI, PM, LE = "Lefort", "Biro", "Ménard", "Chloé"
 
 META = {
     "part": 1, "ep": 10,
@@ -9,7 +9,7 @@ META = {
     "title_fr": "Papier ou pixels",
     "title_ko": "종이냐 픽셀이냐",
     "place": "5구 퐁투아즈 수영장 · 몽주 거리 빵집 · Vasseur & Associés · 2구 레오뮈르 거리 Le Courrier de Paris 본사·편집국 · 11구 오베르캉프 카페 / 어느 일요일부터 약 3주간",
-    "chars": "이네스, 마티외, 엘렌, 소피아, 마리안 르포르(편집국장), 스테판 비로(대표이사), 폴 메나르(탐사 기자), 레아 퐁텐(웹 기자)",
+    "chars": "이네스, 마티외, 엘렌, 소피아, 마리안 르포르(편집국장), 스테판 비로(대표이사), 폴 메나르(탐사 기자), 클로에 푸르니에(웹 기자)",
     "work": "일간지 Le Courrier de Paris(1898년 창간) — 종이 판매 매년 −12%, 디지털 구독자 6만 명, 구독 전환율 0.8%, 무료 기사 85%, 클릭 수로 기자를 평가하는 시스템",
     "life": "마티외의 첫 일요일 수영(수영복 규정 소동과 완패), 크루아상 빚 청산, 일요일 저녁 카페에서 함께 신문 읽고 토론하기, 소피아의 귀띔",
     "focus": "수영장·빵집 어휘, 미디어·구독 어휘, 의견·반박 표현(à mon avis, je ne suis pas d'accord, certes... mais), 의견 동사 부정 + 접속법, 사역 faire, 이중 대명사, 비율 표현",
@@ -141,8 +141,8 @@ D = [
 (I, "Laissez-moi deviner : depuis l'arrivée de Stéphane Biro ?", "맞혀 볼게요. 스테판 비로가 온 뒤부터죠?"),
 (PM, "Depuis deux ans, oui. Et depuis deux ans, je suis dernier du classement. Paul Ménard, trente ans de maison. Bonsoir.", "네, 2년 전부터요. 그리고 2년째 제가 꼴찌죠. 폴 메나르, 이 회사에서 30년 일했습니다. 안녕하세요."),
 (I, "Dernier ? Pourquoi ?", "꼴찌요? 왜요?"),
-(PM, "Parce que je fais des enquêtes. Ma dernière, sur les logements insalubres du 18e, m'a pris trois mois. Vingt mille clics. Léa en fait autant en deux heures avec un croissant.",
-     "탐사보도를 하니까요. 지난번 18구 불량 주택 기사는 석 달이 걸렸어요. 클릭은 2만. 레아는 크루아상 하나로 두 시간 만에 그만큼 해내죠."),
+(PM, "Parce que je fais des enquêtes. Ma dernière, sur les logements insalubres du 18e, m'a pris trois mois. Vingt mille clics. Chloé en fait autant en deux heures avec un croissant.",
+     "탐사보도를 하니까요. 지난번 18구 불량 주택 기사는 석 달이 걸렸어요. 클릭은 2만. 클로에는 크루아상 하나로 두 시간 만에 그만큼 해내죠."),
 (MA, "Monsieur Ménard, la direction pense que les journalistes sont contre le mur payant. C'est vrai ?", "메나르 씨, 경영진은 기자들이 유료 장벽에 반대한다고 생각하던데요. 사실인가요?"),
 (PM, "Contre le payant ? Mais on le réclame depuis des années ! Ce qu'on refuse, c'est d'être jugés au clic. On ne fait pas le même métier qu'un site de recettes.",
      "유료화에 반대한다고요? 우린 몇 년째 그걸 요구하고 있어요! 우리가 거부하는 건 클릭 수로 평가받는 거예요. 우린 요리 레시피 사이트랑 같은 일을 하는 게 아니라고요."),

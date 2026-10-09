@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # (speaker, french, korean); speaker None => stage direction (not a turn)
 I, MA, H, S = "Inès", "Mathieu", "Hélène", "Sofia"
-GM, VC, Y = "Marchand", "Carvalho", "Yannick"
+GM, VC, Y = "Marchand", "Carvalho", "Pascal"
 
 META = {
     "part": 1, "ep": 13,
@@ -9,7 +9,7 @@ META = {
     "title_fr": "Bureaux vides",
     "title_ko": "텅 빈 사무실",
     "place": "Vasseur & Associés · 라 데팡스 투르 제니트 30층 · 투르 오리종 32층 · 센 강변(퐁뇌프~예술의 다리) / 약 3주간",
-    "chars": "이네스, 마티외, 소피아, 엘렌, 질 마르샹(포시에르 뤼멘 대표), 베로니크 카르발류(재무이사), 야니크 르고프(투르 오리종 시설 책임자)",
+    "chars": "이네스, 마티외, 소피아, 엘렌, 질 마르샹(포시에르 뤼멘 대표), 베로니크 카르발류(재무이사), 파스칼 베르투(투르 오리종 시설 책임자)",
     "work": "부동산 투자사 포시에르 뤼멘 — 라 데팡스 오피스 타워 6개, 공실률 28%, 재택근무로 줄어드는 임차 면적, 자산 가치 하락과 2년 뒤 만기 부채 11억 유로",
     "life": "12화 소파 장면 뒤의 어색한 월요일, 눈치 빠른 소피아의 커피 배달, 센 강변 밤 산책과 키스 직전에 울린 엘렌의 전화",
     "focus": "추세 설명(de plus en plus, se stabiliser), si + 반과거 → 조건법, 접속법 현재(il faut que, pour que, avant que), 사역 faire, 부동산·부채 어휘",
@@ -24,15 +24,15 @@ D = [
 (MA, "Salut. Tu es déjà là ?", "안녕. 벌써 왔네?"),
 (I, "Comme tous les lundis. Salut.", "월요일마다 그렇듯이. 안녕."),
 (MA, "Au fait, ta box internet... elle remarche ?", "그건 그렇고, 너희 집 인터넷... 이제 돼?"),
-(I, "Depuis samedi matin. Le technicien est enfin passé. Comme ça, plus besoin de travailler... chez l'un ou chez l'autre.", "토요일 아침부터. 드디어 기사가 왔어. 그러니까 이제 일할 필요 없지... 서로의 집에서."),
+(I, "Pas encore. Le technicien passe la semaine prochaine. Mais je travaillerai au bureau. Plus besoin de travailler... chez l'un ou chez l'autre.", "아직. 기사가 다음 주에 와. 그래도 사무실에서 일할 거야. 이제 일할 필요 없지... 서로의 집에서."),
 (MA, "Non. Bien sûr. Plus besoin.", "그렇지. 물론. 이제 필요 없지."),
 (None, "Un silence. Sofia arrive, trois gobelets dans un carton.", "침묵. 소피아가 종이 캐리어에 컵 세 개를 들고 들어온다."),
 (S, "Bonjour, bonjour ! Cafés pour toute l'équipe : un grand crème pour Inès, un allongé pour Mathieu. Euh... il fait froid ici, ou c'est moi ?",
     "안녕, 안녕! 팀 전원 커피 왔어요. 이네스는 그랑 크렘, 마티외는 알롱제. 어... 여기 좀 춥지 않아? 나만 그래?"),
 (I, "Merci, Sofia. Il ne fait pas froid. C'est la clim, peut-être.", "고마워, 소피아. 안 추워. 에어컨 때문인가 보지."),
 (S, "Il n'y a pas de clim dans ce bureau, Inès. Vous vous êtes disputés, tous les deux ?", "이 사무실엔 에어컨이 없어, 이네스. 둘이 싸웠어?"),
-(MA, "Pas du tout. On a fini le rapport Ondéa vendredi, c'est tout. On a terminé tard.", "전혀. 금요일에 옹데아 보고서를 끝냈을 뿐이야. 늦게 끝났거든."),
-(S, "Ah oui, vendredi soir... chez toi, c'est ça ? Puisque Inès n'avait plus internet.", "아, 그렇지, 금요일 밤... 너희 집에서였지? 이네스네 인터넷이 안 됐으니까."),
+(MA, "Pas du tout. On a fini le rapport Ondéa jeudi, c'est tout. On a terminé tard.", "전혀. 목요일에 옹데아 보고서를 끝냈을 뿐이야. 늦게 끝났거든."),
+(S, "Ah oui, jeudi soir... chez toi, c'est ça ? Puisque Inès n'a plus internet.", "아, 그렇지, 목요일 밤... 너희 집에서였지? 이네스네 인터넷이 안 되니까."),
 (I, "Sofia. Tu n'as pas des données à nettoyer, quelque part ?", "소피아. 어디 정리할 데이터 없어?"),
 (S, "Message reçu, je disparais. Ah, Mathieu : c'est moi qui ai payé ton café. Ça compte pour ta dette ?", "알아들었어, 사라질게. 아, 마티외. 네 커피 내가 샀다. 이거 네 빚으로 쳐 줘?"),
 (I, "Sûrement pas. Un café offert par Sofia ne rembourse rien. Tu me dois toujours un café, Strasbourg.", "절대 안 되지. 소피아가 산 커피로는 아무것도 못 갚아. 넌 아직 나한테 커피 한 잔 빚졌어, 스트라스부르."),
@@ -82,8 +82,8 @@ D = [
 (VC, "Nous avons les passages de badges à l'entrée de chaque tour, jour par jour. Personne ne les a jamais vraiment analysés.", "타워마다 출입구 사원증 태그 기록이 날짜별로 있어요. 제대로 분석해 본 사람은 아무도 없지만요."),
 (S, "Si vous me les envoyez aujourd'hui, je vous fais une carte d'occupation pour mercredi.", "오늘 보내 주시면 수요일까지 점유 지도를 만들어 드릴게요."),
 (MA, "Et nous aimerions visiter la tour la plus vide. Pas la plus belle : la plus vide.", "그리고 가장 비어 있는 타워를 보고 싶습니다. 가장 멋진 곳 말고, 가장 빈 곳이요."),
-(GM, "La tour Horizon, alors. La plus ancienne : elle date de 1974, je l'ai rachetée il y a quinze ans. Elle est vide à soixante pour cent. Yannick, notre responsable technique, vous la fera visiter jeudi.",
-     "그럼 오리종 타워군요. 가장 오래된 건물이에요. 1974년에 지어졌고 제가 15년 전에 사들였죠. 60%가 비어 있어요. 시설 책임자 야니크가 목요일에 안내해 드릴 겁니다."),
+(GM, "La tour Horizon, alors. La plus ancienne : elle date de 1974, je l'ai rachetée il y a quinze ans. Elle est vide à soixante pour cent. Pascal, notre responsable technique, vous la fera visiter jeudi.",
+     "그럼 오리종 타워군요. 가장 오래된 건물이에요. 1974년에 지어졌고 제가 15년 전에 사들였죠. 60%가 비어 있어요. 시설 책임자 파스칼가 목요일에 안내해 드릴 겁니다."),
 
 # ---------- 3. Analyse ----------
 (None, "Mercredi, 19 h. Salle Monceau. Sofia projette un graphique plein de couleurs sur l'écran.", "수요일 저녁 7시. 몽소 회의실. 소피아가 알록달록한 그래프를 화면에 띄운다."),
@@ -132,10 +132,10 @@ D = [
 # ---------- 4. Terrain : la tour Horizon ----------
 (None, "Jeudi, 10 h. Tour Horizon. Le hall est immense et silencieux. Un homme en gilet orange les attend près des ascenseurs.",
        "목요일 오전 10시. 오리종 타워. 로비는 거대하고 고요하다. 주황색 조끼를 입은 남자가 엘리베이터 옆에서 두 사람을 기다린다."),
-(Y, "Bonjour ! Yannick Le Goff, responsable technique. Vingt-deux ans dans cette tour. Je vous emmène au trente-deuxième : il est vide depuis trois ans.",
-    "안녕하세요! 시설 책임자 야니크 르고프입니다. 이 타워에서만 22년째예요. 32층으로 모실게요. 3년째 비어 있는 층이에요."),
-(I, "Bonjour Yannick. Merci de nous recevoir.", "안녕하세요, 야니크 씨. 맞아 주셔서 감사해요."),
-(None, "Dans l'ascenseur, Inès et Mathieu se tiennent chacun dans un coin. Yannick les observe avec curiosité.", "엘리베이터 안에서 이네스와 마티외는 각자 구석에 서 있다. 야니크가 신기한 듯 두 사람을 본다."),
+(Y, "Bonjour ! Pascal Berthou, responsable technique. Vingt-deux ans dans cette tour. Je vous emmène au trente-deuxième : il est vide depuis trois ans.",
+    "안녕하세요! 시설 책임자 파스칼 베르투입니다. 이 타워에서만 22년째예요. 32층으로 모실게요. 3년째 비어 있는 층이에요."),
+(I, "Bonjour Pascal. Merci de nous recevoir.", "안녕하세요, 파스칼 씨. 맞아 주셔서 감사해요."),
+(None, "Dans l'ascenseur, Inès et Mathieu se tiennent chacun dans un coin. Pascal les observe avec curiosité.", "엘리베이터 안에서 이네스와 마티외는 각자 구석에 서 있다. 파스칼가 신기한 듯 두 사람을 본다."),
 (Y, "Trente-deux étages, ça prend un peu de temps. Vous pouvez parler, hein. Je ne mords pas.", "32층이면 시간이 좀 걸려요. 말씀 나누셔도 돼요. 저 안 물어요."),
 (MA, "On... réfléchit. C'est notre méthode de travail.", "저희는... 생각 중이에요. 저희 업무 방식이에요."),
 (None, "32e étage. Un plateau entièrement vide. De la poussière, des câbles qui pendent du plafond. Le soleil entre de tous les côtés.",
@@ -163,7 +163,7 @@ D = [
 (I, "La structure le permettrait ? Les planchers, la sécurité incendie ?", "구조적으로 가능할까요? 바닥 슬래브나 소방 안전은요?"),
 (Y, "Les planchers, oui, ils sont solides. Pour la sécurité incendie, il faudrait des travaux, et un bureau d'études devra le confirmer. Mais j'ai déjà fait le calcul dans ma tête plusieurs fois, pendant mes rondes de nuit.",
     "바닥은 문제없어요, 튼튼해요. 소방 안전은 공사가 필요하고 설계 사무소의 확인을 받아야겠죠. 그래도 야간 순찰 돌면서 머릿속으로 여러 번 계산해 봤어요."),
-(MA, "Yannick, vous venez peut-être de sauver cette tour.", "야니크 씨, 방금 이 타워를 구하셨는지도 몰라요."),
+(MA, "Pascal, vous venez peut-être de sauver cette tour.", "파스칼 씨, 방금 이 타워를 구하셨는지도 몰라요."),
 (Y, "Ne dites pas ça trop fort. Monsieur Marchand aime ses bureaux comme ses enfants.", "너무 크게 말하지 마세요. 마르샹 대표님은 사무실을 자식처럼 아끼시거든요."),
 (I, "Des étudiants à La Défense... Marchand va nous jeter par cette fenêtre.", "라 데팡스에 학생들이라... 마르샹이 우리를 이 창문 밖으로 던져 버리겠다."),
 (MA, "Pas si tes chiffres sont solides. Il faut qu'ils soient en béton avant qu'on lui en parle. Et ils le seront : c'est toi qui les fais.", "네 숫자가 탄탄하면 안 그래. 그분께 말하기 전에 숫자를 확실히 다져 둬야 해. 그리고 그렇게 될 거야. 네가 만드는 거니까."),
@@ -189,7 +189,7 @@ D = [
      "바로 그겁니다. 금요일 밤과 주말마다 텅 비는 업무지구죠. 주민이 생기면 빵집이 생기고, 토요일에 문 여는 가게가 생기고, 활기가 생깁니다."),
 (I, "Et la tour s'y prête : un plateau étroit, des fenêtres qui s'ouvrent, et des arrivées d'eau à chaque étage, prévues en 1974 pour un hôtel. Votre responsable technique le sait depuis vingt-deux ans.",
     "그리고 타워가 그 용도에 맞습니다. 좁은 층 바닥, 열리는 창문, 1974년 호텔용으로 깔아 둔 층별 급수관까지요. 시설 책임자분은 22년 전부터 알고 계셨죠."),
-(GM, "Yannick ? Il ne m'en a jamais parlé.", "야니크가요? 나한텐 한 번도 그런 말 안 했는데."),
+(GM, "Pascal ? Il ne m'en a jamais parlé.", "파스칼가요? 나한텐 한 번도 그런 말 안 했는데."),
 (MA, "Vous ne le lui avez jamais demandé. Il nous a montré cette tour comme personne n'aurait pu le faire.", "대표님이 물어보신 적이 없으니까요. 그분은 누구도 못 할 방식으로 그 타워를 보여 주셨습니다."),
 (VC, "Combien coûte une transformation pareille ?", "그런 전환에는 얼마가 드나요?"),
 (I, "Environ cent vingt millions d'euros, sur trois ans. Nous proposons de la faire avec un gestionnaire de résidences étudiantes, à cinquante-cinquante. Votre part serait donc de soixante millions.",
@@ -212,8 +212,8 @@ D = [
      "아버지가 이걸 보신다면... 아버지는 사무실을 지으셨는데, 저는 가장 아름다운 타워를 팔고 다른 타워엔 학생들을 들이게 되는군요."),
 (MA, "Vous ne détruisez rien, monsieur Marchand. Vous construisez autre chose. Avec ce plan, le taux de vacance de vos bureaux passerait sous les quinze pour cent en trois ans.",
      "아무것도 무너뜨리는 게 아닙니다, 대표님. 다른 것을 짓는 거죠. 이 계획대로라면 사무실 공실률은 3년 안에 15% 아래로 내려갈 겁니다."),
-(GM, "... Bon. Il faut que mon conseil d'administration valide, mais vous avez mon accord. Véronique, appelez les banques. Et faites monter Yannick : je crois que je lui dois une conversation.",
-     "...좋아요. 이사회 승인을 받아야 하지만 저는 동의합니다. 베로니크, 은행에 전화해요. 그리고 야니크를 올라오라고 해요. 그 사람이랑 얘기 좀 해야겠어요."),
+(GM, "... Bon. Il faut que mon conseil d'administration valide, mais vous avez mon accord. Véronique, appelez les banques. Et faites monter Pascal : je crois que je lui dois une conversation.",
+     "...좋아요. 이사회 승인을 받아야 하지만 저는 동의합니다. 베로니크, 은행에 전화해요. 그리고 파스칼를 올라오라고 해요. 그 사람이랑 얘기 좀 해야겠어요."),
 (H, "Je vous avais dit qu'ils allaient vous surprendre, Gilles.", "두 사람이 놀라게 해 드릴 거라고 말씀드렸죠, 질."),
 
 # ---------- 6. Le soir : les quais de Seine ----------
@@ -288,7 +288,7 @@ GRAM = [
 ("C1", "où que + 접속법: 양보 표현",
  "« Où que vous soyez, vous êtes à moins de sept mètres d'une fenêtre. » où que(어디에 ~하든), quoi que(무엇을 ~하든), qui que(누가 ~하든) 뒤에는 접속법이 온다. Quoi que tu dises, je ne changerai pas d'avis. 문어적이지만 설명·발표에서 자주 들린다."),
 ("B1", "사역 동사 faire + 부정사",
- "« Yannick vous la fera visiter jeudi. » « Faites monter Yannick. » faire + 부정사는 '~하게 하다'. 목적 대명사는 faire 앞에 온다(vous la fera visiter = 당신들에게 그것을 구경시켜 줄 것이다). faire visiter(안내하다), faire venir(부르다), faire monter(올라오게 하다)는 업무 회화에서 매우 흔하다."),
+ "« Pascal vous la fera visiter jeudi. » « Faites monter Pascal. » faire + 부정사는 '~하게 하다'. 목적 대명사는 faire 앞에 온다(vous la fera visiter = 당신들에게 그것을 구경시켜 줄 것이다). faire visiter(안내하다), faire venir(부르다), faire monter(올라오게 하다)는 업무 회화에서 매우 흔하다."),
 ("B2", "대명동사의 수동적 의미와 soit / autrement dit",
  "« Les tours se vident. » « Elle se vendra bien, même aujourd'hui. » « Quelle tour se vendrait bien ? » 사물 주어 + 대명동사는 수동의 의미(팔리다, 비다)를 갖는다. 또 « Vingt-huit pour cent, soit environ quatre-vingt-dix mille mètres carrés »의 soit는 '즉', « Autrement dit, il suffirait que... »는 '다시 말해'로 숫자와 결론을 바꿔 말할 때 쓴다."),
 ]
