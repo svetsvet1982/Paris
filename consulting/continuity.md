@@ -42,7 +42,7 @@
 
 ### 8화 Le brevet tombe
 - 11월. 이네스 집: 오베르캉프 거리 오래된 건물 4층(프랑스식 3층). 피가로: 덩치 큰 회색 고양이, 뤼카를 할퀴고 배관공을 문 전력 → 마티외 무릎에는 올라감.
-- Laboratoires Vernier(에브리): 매출 6억 2천만 유로. 대표 Dr Bénédicte Laval(심장내과 의사 출신), 재무이사 Patrick Royer, 프로젝트 책임자 Claire Duval, 영업이사 Thomas Mercier. Tensiol 연매출 2억 4,800만 유로, 신제형 Tensiol LP(VR-212) 재개 3,000만 유로·6개월. 권고: LP 재개, 공인 제네릭, 2년 3,500만 유로 비용 절감, 라이선스 도입.
+- Laboratoires Vernier(에브리): 매출 6억 2천만 유로. 대표 Dr Bénédicte Laval(심장내과 의사 출신), 재무이사 Patrick Royer, 프로젝트 책임자 Valérie Duval, 영업이사 Thomas Mercadier. Tensiol 연매출 2억 4,800만 유로, 신제형 Tensiol LP(VR-212) 재개 3,000만 유로·6개월. 권고: LP 재개, 공인 제네릭, 2년 3,500만 유로 비용 절감, 라이선스 도입.
 - 관계: 이네스가 "네가 없는 게 싫었다"고 고백. 이네스가 마르세유식 파스타(어머니 레시피)를 해 줌. 9화 목요일 저녁 부모님 댁 초대, 마티외 수락.
 
 ### 7화 Cinq étoiles, trois fantômes (11월 말~12월 중순)
@@ -257,3 +257,9 @@
 - 뤼카의 식당 « Le Fanal »(르 파니에, 파란 덧창, 32석+테라스 12석), 4월 금요일 개업, 앙투안 건배사 «17년 전 마르케티가 회사를 닫았고, 오늘 마르케티가 회사를 연다», 앙투안이 대출 보증. 43화 단서: 파란 안내 책자, 유리창 초록 스티커(이네스가 유기농 마크로 착각), 건배 « à ceux qui m'ont donné un coup de pouce ».
 - Provence Attractivité(라 졸리에트, 회의실 « Frioul », 직원 38명, 예산 1,400만): 사무총장 Oriane Castelli, 부사무총장 Samir Bouzid. Jeunes Pousses 연 60만. 권고 « Produire, retenir, accueillir ». 인물: 하역반장 Fanfan(François Orsini), 조선소 사장 Giordano, 스타트업 Quaivolt의 Maëlle Rinaldi(캠퍼스 « La Fabrique du Large »).
 - 앙투안은 차를 팔아 직원 12명의 마지막 월급을 지급(이네스 처음 앎). 은행 편지를 이네스가 찾은 걸 알고 있었음. «넌 내 파산을 직업으로 만들었구나». 마티외에게 «앙투안이라고 불러, 말도 놓고».
+
+### 45화 Les trois questions (10월 말 → 1월 → 3월, 1화로부터 4년~4년 반)
+- 44화 다음 월요일 르 프티 몽소: 라시드의 그랑 크렘 두 잔, 이네스가 1화 대사 « je crois que vous buvez mon café »를 재연. 화이트보드: 마티외 « Non à Ancel. Oui à tout le monde. », 이네스(TM 만년필) « Non à l'exclusivité. Oui à quelque chose de plus grand. »
+- « Guide de la campagne loyale »(1월 15일, 약속 10개 + 방법론 60쪽, 10주 만에 다운로드 5만 2천, 앙셀이 첫 서명). 주현절 갈레트: 마티외가 페브, 이네스를 여왕으로.
+- 엘렌 28년 만에 은퇴(3월 마지막 금요일 송별회). 3월 21일 벨랑제 방적 공장 « La Navette » 개관(28개 기업), 켄자의 수선 공방 « Reprise », 지젤(강사). 리비에르 중간 성과: 실업률 11→10.3%, 부채 1억 2천→1억 1,400만, 보건센터(의사 4명).
+- 청혼: 오딜의 에메랄드 반지(1962년 뤼시앵이 준 것, 쪽지 « Il était temps. »). 엘렌 « Pas lundi. Ce soir. » 쿠르셀 거리 화이트보드: « Je ne peux pas vivre sans toi » / « Toi » / « On se marie ? » → 이네스가 오딜의 마커로 초록 줄, « Oui, Strasbourg. » 라시드가 그랑 크렘 두 잔을 들고 올라옴.

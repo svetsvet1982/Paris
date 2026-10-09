@@ -8,13 +8,13 @@ META = {
     "part_label": "제3부 · 정치 컨설턴트 Stratèges",
     "title_fr": "Les trois questions",
     "title_ko": "세 가지 질문",
-    "place": "8구 쿠르셀 거리 카페 Le Petit Monceau와 위층 Agora Stratégies 사무실 · 발몽쉬르루아르 옛 방직 공장 « La Navette » · Vasseur & Associés 회의실 « Monceau » / 44화 다음 월요일(10월 말) ~ 1월 초 주현절 ~ 3월 21일 토요일 ~ 3월 마지막 금요일 밤",
+    "place": "8구 쿠르셀 거리 카페 Le Petit Monceau와 위층 Agora Stratégies 사무실 · 발몽쉬르루아르 옛 벨랑제 방적 공장 « La Navette » · Vasseur & Associés 회의실 « Monceau » / 44화 다음 월요일(10월 말) ~ 1월 초 주현절 ~ 3월 21일 토요일 ~ 3월 마지막 금요일 밤",
     "chars": "이네스, 마티외, 소피아(Agora 파트너), 라시드(카페 Le Petit Monceau), 폴 앙셀(전국 운동 « Passerelles »의 대선 후보), 바티스트(« Passerelles » 여론조사 책임자), 엘렌 바쇠르, 아녜스 리비에르(발몽쉬르루아르 시장), 켄자 페라(청년 창업가), 지젤(옛 방직 공장 직조공)",
     "work": "앙셀의 독점 계약(7개월 140만 유로 + 선거 후 12개월 독점, 데이터 '부록 3') 거절과 Agora 원칙 유지 · 모든 후보에게 공개하는 « Guide de la campagne loyale »(약속 10개) 설계와 발간 · 발몽 옛 방직 공장의 청년 창업 공간 개관과 리비에르 시장의 중간 성과 보고 · 엘렌의 은퇴 송별회 연설",
     "life": "1화처럼 뒤바뀐 그랑 크렘으로 시작하는 화해, 갈레트 데 루아와 페브, 엘렌이 눈치챈 재킷 주머니 속 반지, 사무실 화이트보드 앞 초록 마커와 청혼",
     "focus": "연설체(삼항 구조·반복법), 양보 구문(quel que soit, que... ou non), 문어 도치(à peine, sans doute, aussi), 명사화, 최상급 뒤 접속법, 조건법 과거로 돌아보는 과거, avant que + ne 허사, 세 가지 질문의 의문문 구조 총정리",
     "levelmix": "B1 5% · B2 50% · C1 45%",
-    "next": "없음 — 《Conseil de Paris》 완결. 45화의 월요일을 함께해 주셔서 고맙습니다. Que fait-on lundi ? 이제 여러분이 답할 차례입니다.",
+    "end": "《Conseil de Paris》 완결. 45화의 월요일을 함께해 주셔서 고맙습니다. Que fait-on lundi ? 이제 여러분이 답할 차례입니다.",
 }
 
 D = [
@@ -136,8 +136,8 @@ D = [
 (MA, "Le vingt et un mars, Agnès Rivière inaugure l'ancienne filature à Valmont. Le vendredi suivant, ton pot de départ. Mars va être un grand mois.", "3월 21일엔 아녜스 리비에르가 발몽에서 옛 방직 공장 개관식을 열어. 그다음 금요일엔 엘렌 송별회. 3월은 대단한 달이 되겠어."),
 
 # ---------- 4. Terrain : La Navette ----------
-(None, "Le samedi 21 mars, 10 h. Valmont-sur-Loire. L'ancienne filature, au bord du fleuve. Sur la façade de brique, une enseigne neuve : « La Navette — espace de jeunes entreprises ». Un ruban tricolore, une petite foule, un pupitre.",
-       "3월 21일 토요일, 오전 10시. 발몽쉬르루아르. 강가의 옛 방직 공장. 벽돌 외벽에 새 간판이 걸려 있다. '라 나베트 — 청년 기업 공간'. 삼색 리본, 작은 인파, 연설대."),
+(None, "Le samedi 21 mars, 10 h. Valmont-sur-Loire. L'ancienne filature Bellanger, au bord de la Loire. Sur la façade de brique, une enseigne neuve : « La Navette — espace de jeunes entreprises ». Un ruban tricolore, une petite foule, un pupitre.",
+       "3월 21일 토요일, 오전 10시. 발몽쉬르루아르. 루아르 강가의 옛 벨랑제 방적 공장. 벽돌 외벽에 새 간판이 걸려 있다. '라 나베트 — 청년 기업 공간'. 삼색 리본, 작은 인파, 연설대."),
 (AG, "Madame Marchetti, monsieur Kessler ! Vous êtes venus. Sans vous, je ne serais pas derrière ce pupitre ce matin, au sens propre comme au figuré.", "마르케티 씨, 케슬레르 씨! 와 주셨군요. 두 분이 아니었으면 오늘 아침 제가 이 연설대 뒤에 서 있지 못했을 거예요. 말 그대로든 비유적으로든요."),
 (I, "Madame la Maire, nous n'aurions manqué ça pour rien au monde. La dernière fois que nous sommes entrés ici, il pleuvait à travers le toit.", "시장님, 세상없어도 이건 놓칠 수 없었죠. 저희가 마지막으로 여기 들어왔을 땐 지붕에서 비가 샜었는데요."),
 (AG, "Le toit, à lui seul, a coûté un million huit cent mille euros. Rassurez-vous, la région en a payé la moitié, et nous n'avons pas touché à la taxe foncière.", "지붕 하나에만 180만 유로가 들었어요. 걱정 마세요, 절반은 레지옹(광역 지방자치단체)이 냈고, 재산세는 건드리지 않았어요."),
@@ -153,12 +153,12 @@ D = [
 (G, "Ça me fait drôle. Avant, il y avait deux cents métiers à tisser et un bruit à vous rendre sourd. Aujourd'hui, des ordinateurs, des machines à coudre, et des jeunes qui rient. Le bruit a changé, mais la maison est vivante.",
     "기분이 묘해요. 예전엔 직기가 이백 대 있었고 귀가 먹을 만큼 시끄러웠죠. 지금은 컴퓨터, 재봉틀, 그리고 웃는 젊은이들이 있어요. 소리는 바뀌었지만 이 집은 살아 있어요."),
 (K, "Gisèle nous apprend des points qu'on n'enseigne plus nulle part. En échange, on lui apprend à vendre en ligne.", "지젤은 이제 어디서도 안 가르치는 바느질법을 가르쳐 주세요. 그 대신 우린 온라인 판매를 가르쳐 드리고요."),
-(G, "À soixante-quatorze ans, j'ai une boutique sur Internet. Mon pauvre mari n'en reviendrait pas.", "일흔넷에 인터넷 가게가 생겼다니까요. 돌아가신 우리 남편이 알면 기가 막혀 할 거예요."),
+(G, "À soixante-neuf ans, j'ai une boutique sur Internet. Mon pauvre mari n'en reviendrait pas.", "예순아홉에 인터넷 가게가 생겼다니까요. 돌아가신 우리 남편이 알면 기가 막혀 할 거예요."),
 (MA, "Kenza, pourquoi avoir choisi Valmont plutôt que Paris ou Nantes ?", "켄자 씨, 왜 파리나 낭트가 아니라 발몽을 택했어요?"),
 (K, "Parce qu'ici, le loyer est six fois moins cher et que la mairie a répondu à mon mail en deux jours. Et parce que je suis née ici : on m'a toujours dit qu'il fallait partir pour réussir. J'avais envie de prouver le contraire.",
     "여기는 임대료가 여섯 배나 싸고, 시청이 제 메일에 이틀 만에 답했거든요. 그리고 여기서 태어났으니까요. 성공하려면 떠나야 한다는 말만 듣고 자랐어요. 그 반대를 증명하고 싶었어요."),
-(AG, "Mesdames et messieurs. Pendant un siècle, on a tissé ici du lin et du coton. Pendant quinze ans, on n'y a plus rien tissé du tout. À partir d'aujourd'hui, on y tissera des projets. Je ne vous dirai pas que tout va bien : ce serait faux, et je me suis engagée à ne jamais vous mentir sur les chiffres.",
-     "신사 숙녀 여러분. 한 세기 동안 이곳에서는 아마와 면을 짰습니다. 15년 동안은 아무것도 짜지 못했습니다. 오늘부터 이곳에서는 꿈과 계획을 짤 것입니다. 모든 게 잘되고 있다고 말씀드리지는 않겠습니다. 그건 거짓말이고, 저는 숫자에 관해 결코 거짓말하지 않겠다고 약속했으니까요."),
+(AG, "Mesdames et messieurs. Pendant un siècle, on a tissé ici du lin et du coton. Pendant près de vingt ans, on n'y a plus rien tissé du tout. À partir d'aujourd'hui, on y tissera des projets. Je ne vous dirai pas que tout va bien : ce serait faux, et je me suis engagée à ne jamais vous mentir sur les chiffres.",
+     "신사 숙녀 여러분. 한 세기 동안 이곳에서는 아마와 면을 짰습니다. 20년 가까이는 아무것도 짜지 못했습니다. 오늘부터 이곳에서는 꿈과 계획을 짤 것입니다. 모든 게 잘되고 있다고 말씀드리지는 않겠습니다. 그건 거짓말이고, 저는 숫자에 관해 결코 거짓말하지 않겠다고 약속했으니까요."),
 (AG, "Alors voici les chiffres. Le chômage est passé de onze à dix virgule trois pour cent : c'est un début, pas une victoire, et je ne m'en attribue pas le mérite. La dette de la ville est passée de cent vingt à cent quatorze millions, sans hausse de la taxe foncière. Le centre de santé a ouvert en janvier avec quatre médecins. Et ce matin, vingt-huit jeunes entreprises s'installent ici.",
      "그러니 숫자를 말씀드리겠습니다. 실업률은 11%에서 10.3%가 됐습니다. 시작일 뿐 승리가 아니며, 그 공을 제 것으로 돌리지도 않겠습니다. 시 부채는 재산세 인상 없이 1억 2천만 유로에서 1억 1,400만 유로로 줄었습니다. 보건센터는 1월에 의사 네 명과 함께 문을 열었습니다. 그리고 오늘 아침, 스물여덟 개의 청년 기업이 이곳에 입주합니다."),
 (AG, "Ce bilan d'étape, je le dois aux agents de la ville, aux élus de la majorité comme de l'opposition, aux habitants qui sont venus nous dire leurs colères. Et à deux personnes venues de Paris, qui m'ont appris à poser trois questions avant de décider quoi que ce soit.",
@@ -247,8 +247,8 @@ D = [
      "우리 결혼할까? ...우리 할머니 반지야. 할머니는 때가 됐다고 하셔. 엘렌은 완벽한 순간 같은 건 없다고 하고. 그리고 난 더는 다음 월요일을 기다리고 싶지 않아."),
 (I, "Il t'a fallu quatre ans et demi, deux entreprises, une ville et une galette des rois pour en arriver là.", "여기까지 오는 데 4년 반, 회사 두 개, 도시 하나, 그리고 갈레트 데 루아 하나가 걸렸네."),
 (MA, "Je suis alsacien : on prend le temps de bien faire les choses.", "난 알자스 사람이잖아. 일을 제대로 하려면 시간이 걸려."),
-(None, "Inès sort de son sac un autre marqueur vert, celui que Mamie Odile lui a donné à Colmar. Elle se lève et, sous « On se marie ? », trace un long trait vert.",
-       "이네스가 가방에서 또 다른 초록 마커를 꺼낸다. 콜마르에서 오딜 할머니가 준 마커다. 그녀는 일어나 '우리 결혼할까?' 아래에 길게 초록 줄을 긋는다."),
+(None, "Inès sort de sa poche un autre marqueur vert, celui que Mamie Odile lui a donné à Colmar : « Pas dans un tiroir, dans ta poche. » Elle se lève et, sous « On se marie ? », trace un long trait vert.",
+       "이네스가 주머니에서 또 다른 초록 마커를 꺼낸다. 콜마르에서 오딜 할머니가 준 마커다. '서랍 말고 주머니에 넣어 두렴.' 그녀는 일어나 '우리 결혼할까?' 아래에 길게 초록 줄을 긋는다."),
 (I, "Un trait vert. Tu sais ce que ça veut dire, chez les Kessler : « Pas encore, mais tu vas y arriver. » ... Tu y es arrivé.", "초록 줄. 케슬레르 집안에서 이게 무슨 뜻인지 알지. '아직은 아니지만, 해낼 거다.' ...넌 해냈어."),
 (MA, "Inès... c'est un oui ?", "이네스... 그거 예스야?"),
 (I, "Oui, Strasbourg.", "응, 스트라스부르."),
@@ -286,7 +286,7 @@ VOCAB = [
 
 GRAM = [
 ("C1", "연설체: 삼항 구조·대구·반복법",
- "엘렌과 아녜스의 연설은 프랑스 연설문의 기본 장치를 보여 준다. ① 삼항 구조: « Nos principes, nos refus, nos méthodes », « que votre guide soit lu, que vos clients vous écoutent, et que vous ne vous disputiez jamais après minuit ». ② 시간축 반복(anaphore): « Pendant un siècle, on a tissé ici du lin et du coton. Pendant quinze ans, on n'y a plus rien tissé du tout. À partir d'aujourd'hui, on y tissera des projets. »(과거→부정→미래). ③ 대구(antithèse): « Les chiffres disent ce qui se passe ; les gens disent pourquoi. » 마지막 축원의 que + 접속법은 독립절에서 바람을 나타낸다(Que la fête commence !)."),
+ "엘렌과 아녜스의 연설은 프랑스 연설문의 기본 장치를 보여 준다. ① 삼항 구조: « Nos principes, nos refus, nos méthodes », « que votre guide soit lu, que vos clients vous écoutent, et que vous ne vous disputiez jamais après minuit ». ② 시간축 반복(anaphore): « Pendant un siècle, on a tissé ici du lin et du coton. Pendant près de vingt ans, on n'y a plus rien tissé du tout. À partir d'aujourd'hui, on y tissera des projets. »(과거→부정→미래). ③ 대구(antithèse): « Les chiffres disent ce qui se passe ; les gens disent pourquoi. » 마지막 축원의 que + 접속법은 독립절에서 바람을 나타낸다(Que la fête commence !)."),
 ("C1", "양보 구문: quel que soit / que... ou non / quoi que",
  "« ouvert à tous les candidats, quel que soit leur camp » « Reconnaître le résultat du scrutin, quel qu'il soit » — quel que + être(접속법) + 주어, quel은 주어에 성·수 일치(quelle que soit l'issue). « qu'ils le fassent ou non, nous ne le ferons pas » — que + 접속법 + ou non = '~하든 안 하든'. « avant de décider quoi que ce soit » — quoi que ce soit = 무엇이든(부정·조건 문맥). 한 단어 quoique(비록 ~지만)와 혼동하지 말 것."),
 ("C1", "문어 도치: à peine, sans doute / Puis-je ? / Il fut un temps où",

@@ -155,7 +155,7 @@ for s, f, k in d.D:
     if s is None: para(k, 9.5, False, True, GRAY, after=6, before=4)
     else: line(s, k, 10.5)
 
-para("다음 화 예고 — " + M["next"], 10, True, False, NAVY, after=0, before=18)
+para(M["end"] if "end" in M else "다음 화 예고 — " + M["next"], 10, True, False, NAVY, after=0, before=18)
 
 # ---------- Export PDF only ----------
 out = os.path.abspath(sys.argv[1])

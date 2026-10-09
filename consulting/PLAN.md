@@ -175,3 +175,14 @@
 - 빌드: `consulting/tools/build_ep.py` 가 PDF만 생성 (내부적으로 임시 문서를 거쳐 PDF로 변환하고 중간 파일은 남기지 않음)
 - 결과물: `consulting/part1/ep01_Premier_dossier.pdf` … `consulting/part3/ep45_….pdf`
 - 1화를 샘플로 먼저 만들어 형식·난이도·분석 깊이를 확정한 뒤 부 단위로 진행
+
+---
+
+## 11. 제작 현황 — 완결
+
+전 45화 PDF 완성 (각 화 150턴, 총 6,750턴).
+
+- 제1부 `part1/ep01~ep15_*.pdf` · 제2부 `part2/ep16~ep30_*.pdf` · 제3부 `part3/ep31~ep45_*.pdf`
+- 화별 상세 시놉시스: `outline_part1.md`, `outline_part2.md`, `outline_part3.md`
+- 연속성 장부(인물·수치·날짜·관계): `continuity.md`
+- 데이터와 빌드: `tools/partN/epXX_data.py` → `python3 tools/build_ep.py partN/epXX_<Title>.pdf partN.epXX_data`

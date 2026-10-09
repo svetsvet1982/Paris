@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # (speaker, french, korean); speaker None => stage direction (not a turn)
 I, MA, H, SO = "Inès", "Mathieu", "Hélène", "Sofia"
-PH, LA, RO, CL, ME = "Mme Petit", "Dr Laval", "Royer", "Claire", "Mercier"
+PH, LA, RO, CL, ME = "Mme Petit", "Dr Laval", "Royer", "Valérie", "Mercadier"
 
 META = {
     "part": 1, "ep": 8,
@@ -9,7 +9,7 @@ META = {
     "title_fr": "Le brevet tombe",
     "title_ko": "특허가 끝나는 날",
     "place": "11구 오베르캉프 약국·이네스의 아파트 · Vasseur & Associés(영상통화) · 에브리 Laboratoires Vernier 본사·연구소 / 2월, 약 2주간",
-    "chars": "이네스, 마티외, 엘렌, 소피아, 프티 약사, 베네딕트 라발 박사(베르니에 대표), 파트리크 루아예(재무 이사), 클레르 뒤발(텐시올 LP 프로젝트 책임자), 토마 메르시에(영업 이사)",
+    "chars": "이네스, 마티외, 엘렌, 소피아, 프티 약사, 베네딕트 라발 박사(베르니에 대표), 파트리크 루아예(재무 이사), 발레리 뒤발(텐시올 LP 프로젝트 책임자), 토마 메르카디에(영업 이사)",
     "work": "중견 제약사 Laboratoires Vernier — 매출의 40%를 차지하는 고혈압 치료제 텐시올의 특허 만료(18개월 뒤)와 제네릭 공세, 예산 삭감으로 멈춰 선 1일 1회 신제형",
     "life": "이네스의 독감, 약국에서 약 사기, 수프 배달, 처음으로 낯선 사람에게 다가온 피가로, 마르세유식 파스타 저녁과 가족 저녁 초대",
     "focus": "건강·약국 어휘, si + 현재/미래, 미래 계획(futur proche·futur simple, quand + 미래), 조건법 가정, être censé, alors que, 제약 업계 어휘",
@@ -133,8 +133,8 @@ D = [
 # ---------- 4. Terrain : le laboratoire ----------
 (None, "Vendredi, 10 h. Le centre de recherche des Laboratoires Vernier, à Évry. Blouses blanches, paillasses, odeur de produits chimiques. Une femme d'une quarantaine d'années les attend.",
        "금요일 오전 10시. 에브리의 베르니에 제약 연구센터. 흰 가운, 실험대, 화학 약품 냄새. 마흔 살쯤 된 여성이 그들을 기다리고 있다."),
-(CL, "Bonjour. Claire Duval. J'étais cheffe de projet sur le Tensiol LP. Enfin, je le suis toujours... mais je n'ai plus de projet.", "안녕하세요. 클레르 뒤발입니다. 텐시올 LP 프로젝트 책임자였어요. 아니, 지금도 그렇긴 한데... 프로젝트가 없어요."),
-(MA, "Bonjour Claire. Merci de nous recevoir. Pouvez-vous nous expliquer où en était le projet quand il a été arrêté ?", "안녕하세요, 클레르 씨. 맞아 주셔서 감사합니다. 중단될 때 프로젝트가 어디까지 와 있었는지 설명해 주시겠어요?"),
+(CL, "Bonjour. Valérie Duval. J'étais cheffe de projet sur le Tensiol LP. Enfin, je le suis toujours... mais je n'ai plus de projet.", "안녕하세요. 발레리 뒤발입니다. 텐시올 LP 프로젝트 책임자였어요. 아니, 지금도 그렇긴 한데... 프로젝트가 없어요."),
+(MA, "Bonjour Valérie. Merci de nous recevoir. Pouvez-vous nous expliquer où en était le projet quand il a été arrêté ?", "안녕하세요, 발레리 씨. 맞아 주셔서 감사합니다. 중단될 때 프로젝트가 어디까지 와 있었는지 설명해 주시겠어요?"),
 (CL, "Presque au bout. La formulation est prête depuis deux ans : un seul comprimé le matin, et le médicament agit pendant vingt-quatre heures. Les premiers résultats de la phase trois étaient très bons.",
      "거의 끝에요. 제형은 2년 전부터 준비돼 있었어요. 아침에 한 알만 먹으면 약효가 24시간 가요. 3상 초기 결과도 아주 좋았고요."),
 (MA, "Alors pourquoi l'avoir arrêté ?", "그런데 왜 멈춘 거죠?"),
@@ -152,8 +152,8 @@ D = [
 (MA, "Et si on attend encore ?", "더 기다리면요?"),
 (CL, "Si on attend trois mois de plus, les centres partiront sur d'autres études et il faudra tout recommencer. Ce serait trop tard pour le brevet.", "석 달만 더 기다리면 기관들이 다른 연구로 넘어가고, 처음부터 다시 해야 해요. 특허 시한에는 너무 늦죠."),
 (MA, "Est-ce que les commerciaux connaissent ce projet ?", "영업팀도 이 프로젝트를 알고 있나요?"),
-(CL, "Demandez à Thomas Mercier, le directeur commercial. Son bureau est au bout du couloir.", "영업 이사 토마 메르시에한테 물어보세요. 복도 끝이 그분 사무실이에요."),
-(None, "Un peu plus tard, à l'étage commercial. Thomas Mercier, la cinquantaine, raccroche son téléphone.", "잠시 뒤, 영업부 층. 50대의 토마 메르시에가 전화를 끊는다."),
+(CL, "Demandez à Thomas Mercadier, le directeur commercial. Son bureau est au bout du couloir.", "영업 이사 토마 메르카디에한테 물어보세요. 복도 끝이 그분 사무실이에요."),
+(None, "Un peu plus tard, à l'étage commercial. Thomas Mercadier, la cinquantaine, raccroche son téléphone.", "잠시 뒤, 영업부 층. 50대의 토마 메르카디에가 전화를 끊는다."),
 (ME, "Le Tensiol LP ? Bien sûr que je le connais ! Les cardiologues me le réclament depuis deux ans. Ils me demandent : « Quand est-ce que vous sortez enfin le comprimé unique ? »",
      "텐시올 LP요? 당연히 알죠! 심장내과 의사들이 2년째 그걸 달라고 해요. '그 한 알짜리는 대체 언제 나와요?'라고요."),
 (MA, "Vous en avez parlé à la direction ?", "경영진에게 그 얘기를 하셨나요?"),
@@ -162,18 +162,18 @@ D = [
 (MA, "Et quand les génériques arriveront, que va-t-il se passer ?", "그럼 제네릭이 들어오면 어떻게 될까요?"),
 (ME, "Les pharmaciens remplaceront le Tensiol par le générique, c'est presque automatique. Mes visiteurs médicaux le savent. Certains cherchent déjà un autre emploi.",
      "약사들이 텐시올을 제네릭으로 바꿔 주겠죠. 거의 자동이에요. 저희 영업 담당자들도 알아요. 벌써 다른 일자리를 찾는 사람도 있어요."),
-(SO, "Merci, monsieur Mercier. Vous venez de confirmer notre intuition.", "감사합니다, 메르시에 이사님. 덕분에 저희 직감이 맞다는 걸 확인했습니다."),
+(SO, "Merci, monsieur Mercadier. Vous venez de confirmer notre intuition.", "감사합니다, 메르카디에 이사님. 덕분에 저희 직감이 맞다는 걸 확인했습니다."),
 (None, "Sur le parking, Mathieu appelle Inès en visio. Le soleil de février est bas.", "주차장에서 마티외가 이네스에게 영상통화를 건다. 2월의 해가 낮게 걸려 있다."),
 (MA, "Inès ? Le projet est sérieux. La formulation est prête : trente millions et six mois pour finir. Et les cardiologues le réclament depuis deux ans.",
      "이네스? 프로젝트 진짜야. 제형은 준비돼 있어. 끝내는 데 3,000만 유로와 6개월. 그리고 심장내과 의사들이 2년째 그걸 원하고 있어."),
 (I, "Je le savais ! ... Enfin, je l'espérais. Tu as des chiffres sur l'observance ?", "내 그럴 줄 알았어! ...아니, 그러길 바랐어. 복약 순응도 수치는 있어?"),
-(SO, "Un patient sur trois oublie le comprimé du soir. Claire nous envoie l'étude ce soir.", "환자 세 명 중 한 명이 저녁 약을 잊어. 클레르 씨가 오늘 저녁에 연구 자료를 보내 줄 거야."),
+(SO, "Un patient sur trois oublie le comprimé du soir. Valérie nous envoie l'étude ce soir.", "환자 세 명 중 한 명이 저녁 약을 잊어. 발레리 씨가 오늘 저녁에 연구 자료를 보내 줄 거야."),
 (I, "Alors on tient notre histoire. Merci, tous les deux. Et toi, Strasbourg, tu as fait du très bon travail sans moi. Ne t'y habitue pas.",
     "그럼 스토리가 잡혔네. 둘 다 고마워. 그리고 스트라스부르, 나 없이도 아주 잘했어. 익숙해지진 마."),
 
 # ---------- 5. Recommandations ----------
-(None, "Dix jours plus tard. Siège des Laboratoires Vernier, salle du comité de direction. Inès, guérie, se tient près de l'écran. Autour de la table : Bénédicte Laval, Patrick Royer, Claire Duval et Thomas Mercier.",
-       "열흘 뒤. 베르니에 제약 본사 경영위원회 회의실. 다 나은 이네스가 화면 옆에 서 있다. 테이블에는 베네딕트 라발, 파트리크 루아예, 클레르 뒤발, 토마 메르시에."),
+(None, "Dix jours plus tard. Siège des Laboratoires Vernier, salle du comité de direction. Inès, guérie, se tient près de l'écran. Autour de la table : Bénédicte Laval, Patrick Royer, Valérie Duval et Thomas Mercadier.",
+       "열흘 뒤. 베르니에 제약 본사 경영위원회 회의실. 다 나은 이네스가 화면 옆에 서 있다. 테이블에는 베네딕트 라발, 파트리크 루아예, 발레리 뒤발, 토마 메르카디에."),
 (LA, "Madame Marchetti, en chair et en os ! Vous avez suivi mon ordonnance, je vois.", "마르케티 씨, 직접 오셨군요! 제 처방대로 하셨나 보네요."),
 (I, "À la lettre, docteur. Enfin... presque. Nous allons commencer par une phrase : votre plus grand risque n'est pas le générique du Tensiol. C'est le projet que vous avez arrêté.",
     "글자 그대로요, 박사님. 음... 거의요. 한 문장으로 시작하겠습니다. 가장 큰 위험은 텐시올 제네릭이 아닙니다. 중단하신 프로젝트입니다."),
@@ -211,8 +211,8 @@ D = [
 (MA, "C'est pour ça que nous proposons un point d'étape dans trois mois, avec un critère d'arrêt clair. Si les données ne sont pas bonnes, vous arrêterez avant d'avoir tout dépensé.",
      "그래서 석 달 뒤에 중간 점검을 하고, 명확한 중단 기준을 두자고 제안하는 겁니다. 데이터가 좋지 않으면 돈을 다 쓰기 전에 멈추시면 됩니다."),
 (RO, "Un critère d'arrêt, écrit noir sur blanc ? Là, je peux signer.", "중단 기준을 문서로 분명히요? 그렇다면 서명할 수 있습니다."),
-(LA, "Alors c'est décidé. Je présenterai ce plan au conseil jeudi, et je le défendrai. Claire, vous relancez les centres d'essai dès lundi. Patrick, vous trouvez les trente-cinq millions. Thomas, vous préparez les cardiologues.",
-     "그럼 결정됐습니다. 목요일 이사회에 이 계획을 내놓고 제가 직접 지키겠어요. 클레르, 월요일부터 시험 기관들을 다시 가동하세요. 파트리크는 3,500만 유로를 찾아 주시고요. 토마는 심장내과 의사들을 준비시키세요."),
+(LA, "Alors c'est décidé. Je présenterai ce plan au conseil jeudi, et je le défendrai. Valérie, vous relancez les centres d'essai dès lundi. Patrick, vous trouvez les trente-cinq millions. Thomas, vous préparez les cardiologues.",
+     "그럼 결정됐습니다. 목요일 이사회에 이 계획을 내놓고 제가 직접 지키겠어요. 발레리, 월요일부터 시험 기관들을 다시 가동하세요. 파트리크는 3,500만 유로를 찾아 주시고요. 토마는 심장내과 의사들을 준비시키세요."),
 (CL, "Dès lundi. Merci, docteur.", "월요일부터요. 감사합니다, 박사님."),
 (LA, "Remerciez plutôt vos consultants. Et vous, madame Marchetti, l'année prochaine, faites-vous vacciner contre la grippe. C'est une autre ordonnance.",
      "차라리 컨설턴트들에게 고마워하세요. 그리고 마르케티 씨, 내년엔 독감 예방접종 하세요. 이것도 처방이에요."),
