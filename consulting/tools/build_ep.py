@@ -162,7 +162,8 @@ out = os.path.abspath(sys.argv[1])
 with tempfile.TemporaryDirectory() as tmp:
     base = os.path.splitext(os.path.basename(out))[0]
     src = os.path.join(tmp, base + ".docx"); doc.save(src)
-    subprocess.run(["soffice", "--headless", "--convert-to", "pdf", "--outdir", tmp, src],
+    # private LibreOffice profile so several builds can run at the same time
+    subprocess.run(["soffice", f"-env:UserInstallation=file://{tmp}/lo", "--headless", "--convert-to", "pdf", "--outdir", tmp, src],
                    check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     os.makedirs(os.path.dirname(out), exist_ok=True)
     shutil.move(os.path.join(tmp, base + ".pdf"), out)
