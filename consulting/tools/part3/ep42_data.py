@@ -38,6 +38,8 @@ D = [
      "아무것도 아냐. 오늘 밤은 일 얘기 금지야. 그보다 엄마한테 가서 인사나 해. 오후 5시부터 울고 계셔."),
 (None, "Sur le comptoir, sous une pile de menus, dépasse une brochure bleue frappée d'un logo : « Provence Attractivité ». Personne n'y prête attention.",
        "카운터 위, 메뉴판 더미 아래로 로고가 찍힌 파란 안내 책자가 삐져나와 있다. « Provence Attractivité ». 아무도 눈여겨보지 않는다."),
+(None, "Sur la vitrine, juste à côté de la chaise d'Inès, un petit autocollant vert. Elle y jette un coup d'œil distrait — un label bio, sans doute — et se retourne vers la salle.",
+       "유리창에, 이네스의 의자 바로 옆에 작은 초록색 스티커가 붙어 있다. 이네스는 무심코 힐끗 본다. 유기농 인증 마크겠지. 그리고 다시 홀 쪽으로 몸을 돌린다."),
 (DA, "Ma chérie ! Tu as vu ton frère, en veste blanche ? ... Mathieu, vous avez maigri. Elle ne vous nourrit pas, à Paris ?",
      "우리 딸! 하얀 조리복 입은 네 동생 봤니? ...마티외, 살이 빠졌네요. 파리에서 얘가 밥을 안 해 줘요?"),
 (MA, "C'est moi qui cuisine, madame Marchetti. Elle, elle fait les tableaux.", "요리는 제가 해요, 마르케티 부인. 이네스는 표를 만들고요."),

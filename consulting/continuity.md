@@ -252,3 +252,8 @@
 - Canal Valmont(옛 염색 공장 스튜디오) 생방송 90분, 진행자 Capucine Gaillard. 소피아 예상 질문 40개. 원칙 « À chaque critique, un fait ; à chaque fait, une proposition ». 숫자: 빈 진열창 31개, 보건 센터 40만, 재산세 인상 0. 질문 미리 빼내기 제안 거절.
 - 아녜스 « Je n'ai pas l'expérience d'un mandat ; j'ai l'expérience des fins de mois. » « Je ne promets pas de miracles ; je promets des comptes. » 메르시에 측 근거: 학교 14곳·미디어도서관 리모델링.
 - 엘렌 « On ne gagne presque jamais un débat : on évite de le perdre. » 갈레트 데 루아: 이네스가 페브, 마티외를 왕으로, 종이 왕관은 선반 위 스테파누아즈 옆.
+
+### 42화 Une région qui attire (4월)
+- 뤼카의 식당 « Le Fanal »(르 파니에, 파란 덧창, 32석+테라스 12석), 4월 금요일 개업, 앙투안 건배사 «17년 전 마르케티가 회사를 닫았고, 오늘 마르케티가 회사를 연다», 앙투안이 대출 보증. 43화 단서: 파란 안내 책자, 유리창 초록 스티커(이네스가 유기농 마크로 착각), 건배 « à ceux qui m'ont donné un coup de pouce ».
+- Provence Attractivité(라 졸리에트, 회의실 « Frioul », 직원 38명, 예산 1,400만): 사무총장 Oriane Castelli, 부사무총장 Samir Bouzid. Jeunes Pousses 연 60만. 권고 « Produire, retenir, accueillir ». 인물: 하역반장 Fanfan(François Orsini), 조선소 사장 Giordano, 스타트업 Quaivolt의 Maëlle Rinaldi(캠퍼스 « La Fabrique du Large »).
+- 앙투안은 차를 팔아 직원 12명의 마지막 월급을 지급(이네스 처음 앎). 은행 편지를 이네스가 찾은 걸 알고 있었음. «넌 내 파산을 직업으로 만들었구나». 마티외에게 «앙투안이라고 불러, 말도 놓고».
