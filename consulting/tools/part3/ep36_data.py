@@ -9,7 +9,7 @@ META = {
     "part_label": "제3부 · 정치 컨설턴트 Stratèges",
     "title_fr": "Campagne numérique",
     "title_ko": "디지털 캠페인",
-    "place": "오베르캉프 아파트(Agora Stratégies) · 발몽쉬르루아르 아녜스 리비에르 선거 사무소(옛 잡화점, 직조공 거리) · 탄느리 지구 방문 유세 · 루아르 강변 자전거길과 근교 민박 / 2월, 1차 투표 4주 전",
+    "place": "오베르캉프 아파트(Agora Stratégies) · 발몽쉬르루아르 아녜스 리비에르 선거 사무소(옛 신발 가게, 나시오날 거리) · 탄느리 지구 방문 유세 · 루아르 강변 자전거길과 근교 민박 / 2월, 1차 투표 4주 전",
     "chars": "이네스, 마티외, 소피아(Agora 데이터 담당), 엘렌(전화), 아녜스 리비에르(후보, « Valmont Ensemble »), 로맹 라콤(리비에르 캠프 선거대책본부장), 시릴 오바넬(데이터 업체 Sondelys 영업이사), 지젤 페로(자원봉사자, 옛 섬유 공장 직조공), 이나야(대학생 자원봉사자), 파제스 씨·텍시에 부인(탄느리 지구 주민)",
     "work": "데이터 업체가 '정치 성향 점수'를 붙인 유권자 3만 8천 명 파일과 문자 발송을 1만 8천 유로에 제안 — 마이크로타기팅의 효용과 위험, RGPD 제9조(민감 정보)와 동의, 선거법의 유료 정치 광고 금지, Agora 원칙에 따른 구매 거부, 대안으로 자원봉사자 85명의 방문 유세(1만 5천 가구)와 주민이 직접 말하는 지역 콘텐츠, 캠프의 '디지털 윤리 헌장' 공개",
     "life": "크루아상과 함께 온 소피아의 '딜레마', 비 오는 토요일의 초인종 누르기, 휴대폰을 끈 디지털 디톡스 주말 — 루아르 강변 자전거 여행과 민박의 장작불",
@@ -41,8 +41,8 @@ D = [
 (I, "Alors on y va tous les trois. D'ici là, personne ne signe rien. Figaro, ça vaut pour toi aussi : descends de cette brochure.", "그럼 셋 다 가자. 그때까진 아무도 아무것도 서명하지 않기. 피가로, 너도 마찬가지야. 그 브로슈어에서 내려와."),
 
 # ---------- 2. La permanence : la démonstration ----------
-(None, "Jeudi, 11 h. Valmont-sur-Loire, rue des Tisserands. La permanence d'Agnès Rivière occupe une ancienne mercerie : affiches, cartons de tracts, une machine à café fatiguée.",
-       "목요일 오전 11시. 발몽쉬르루아르, 직조공 거리. 아녜스 리비에르의 선거 사무소는 옛 잡화점 자리다. 포스터, 전단 상자, 지친 커피 머신."),
+(None, "Jeudi, 11 h. Valmont-sur-Loire, rue Nationale. La permanence d'Agnès Rivière occupe un ancien magasin de chaussures : affiches, cartons de tracts, une machine à café fatiguée.",
+       "목요일 오전 11시. 발몽쉬르루아르, 나시오날 거리. 아녜스 리비에르의 선거 사무소는 옛 신발 가게 자리다. 포스터, 전단 상자, 지친 커피 머신."),
 (AG, "Merci d'être venus tous les trois. Je vous préviens : Romain est très enthousiaste, et moi, je suis très perplexe.", "세 분 모두 와 주셔서 고마워요. 미리 말해 두죠. 로맹은 아주 신이 나 있고, 저는 아주 당혹스러워요."),
 (RO, "Enthousiaste, oui. À quatre semaines du premier tour, nous sommes à vingt-six pour cent dans le dernier sondage, et Mercier à trente-deux. Il nous faut un accélérateur.", "신이 났죠. 1차 투표 4주 전인데 최근 여론조사에서 우리는 26%, 메르시에는 32%예요. 가속 장치가 필요합니다."),
 (MA, "Un accélérateur, soit. Encore faut-il savoir ce qu'on met dans le moteur. Écoutons d'abord M. Aubanel.", "가속 장치, 좋아요. 다만 엔진에 뭘 넣는지는 알아야겠죠. 먼저 오바넬 씨 말을 들어 봅시다."),

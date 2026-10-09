@@ -192,5 +192,21 @@
 
 ### 36화 Campagne numérique (2월, 1차 4주 전)
 - 데이터 업체 Sondelys(영업이사 Cyril Aubanel) 유권자 파일 1만 8천 유로 제안 → 거절. 발몽 등록 유권자 약 4만 6천 명. 선대본부장 Romain Lacombe, 디지털 윤리 헌장 4개 약속. 2월 여론조사 메르시에 32%·리비에르 26%(메르시에 18년 3선).
-- 선거 사무소: 직조공 거리(rue des Tisserands) 옛 잡화점. 노동자 주택가 탄느리 지구(quartier des Tanneries). 자원봉사 85명. 인물: Gisèle Perrot(직조공 31년), Inaya(법학 2학년), M. Pagès, Mme Texier. 콘텐츠 « Valmont en vrai ».
+- 선거 사무소: 나시오날 거리 옛 신발 가게(31화와 통일). 노동자 주택가 탄느리 지구(quartier des Tanneries). 자원봉사 85명. 인물: Gisèle Perrot(직조공 31년), Inaya(법학 2학년), M. Pagès, Mme Texier. 콘텐츠 « Valmont en vrai ».
 - 루아르 자전거 주말: "한 달에 한 번 일요일은 둘만" 약속(이네스가 초록 마커로 냅킨에). 엘렌 « Bien mal acquis ne profite jamais » / « Un refus sans alternative, c'est un sermon ».
+
+### 31화 Agora (10월 1일 목)
+- 마티외 상자 23개로 이사. 오베르캉프 엘리베이터 없는 4층 42㎡, 거실이 사무실. 이네스가 여벌 열쇠와 배 모양 열쇠고리(아버지 추억 상자), 처음으로 « chez nous ». 피가로가 마티외 베개 차지.
+- Agora Stratégies SAS 자본금 1만 유로(50:50), 이네스 présidente·마티외 DG, 주주 간 협약(교착 시 조정, 이탈 조항). 리비에르 계약 6개월 2만 4천 유로(4만 제안 거절, 선거 예산 7만의 1/3 이하 원칙), « TM » 만년필로 서명.
+- 아녜스: Robinetterie Rivière(140명) 20년 경영 후 매각(일자리 유지 조건), 딸은 낭트 일반의. « Valmont Ensemble » 53명 중 31명 확보. « un travail, un médecin et une raison de rester ». 출마 선언 첫 문장 « Avant de vous dire ce que je ferai, je viens vous demander ce que vous vivez. »
+- 발몽: 나시오날 거리 상점 120곳 중 31곳 공실, 병원 분원 4년 전 폐쇄, 지난 투표율 42%. 선거 사무소 나시오날 거리 옛 신발 가게. Filature Bellanger(1975년 1,400명, 2011년 폐쇄, 시가 1유로에 매입, 45화 청년 창업 공간). 인물: Joël Picard(카페 데 알 주인), Odette Charrier(71, 직공 38년, 서양배 타르트 약속).
+- 화이트보드 « LES ÉLECTEURS. PAS NOUS. »
+
+### 39화 Au cabinet du ministre (6월)
+- 첫 키스 기념일 6월 14일로 확정(30화 총회는 그 뒤). 마티외가 잊고 18일 몽소 공원 '우리 벤치'에서 그랑 크렘 두 잔으로 사과. 새 규칙: 일주일에 하루 저녁은 일 없음, 6월 14일은 모든 다이어리에 초록색.
+- 가상 산업이행부(7구): 장관 Isabelle Faucheux, 비서실장 Grégoire Lestrade(엘렌 지인). 「지역 철도 이동성 법안」: 소규모 노선 38개(2,300km), 철도원 9,000명, 열차 다섯 대 중 한 대 지연·취소. 인물: 노조 Bruno Kervella, 지역 부의장 Monique Abadie, 이용자 단체 Hervé Mallet, 민간 운영사 Railexa의 Victoire Sorel, 하원의원 Corinne Vidalenc. 영향평가서 42항이 Railexa 입장문 복사 → 입법 발자국 공개. 3개월 협의(12회 공개 회의).
+- 마티외 "안에서 바꾼다" vs 이네스 "알리바이용 협의 거부"(44화 예고).
+
+### 40화 La rue gronde (10월 목·금)
+- 파업 10일째. 장관실 사회 보좌관 Fabienne Ollier, 노조 연대 대변인 Joël Tessandier, 기관사 Cécile Rameau(19년, 디종 공개 회의 참석), 요양보호사 Awa Ndiaye. 합의: 고용 승계 법률 명시, 복귀권 5년, 시범 지역 2곳, 정시율 90% 미만 보상, 파업일 임금 공제 6개월 분할. 64% 파업 중단.
+- 마티외가 오베르캉프에 산 지 1년, 우편함엔 이네스 이름만 → "함께 고른 집"(41화). « Qui décide ? » → « Nous deux. Et un banquier, hélas. »
