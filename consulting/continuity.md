@@ -210,3 +210,14 @@
 ### 40화 La rue gronde (10월 목·금)
 - 파업 10일째. 장관실 사회 보좌관 Fabienne Ollier, 노조 연대 대변인 Joël Tessandier, 기관사 Cécile Rameau(19년, 디종 공개 회의 참석), 요양보호사 Awa Ndiaye. 합의: 고용 승계 법률 명시, 복귀권 5년, 시범 지역 2곳, 정시율 90% 미만 보상, 파업일 임금 공제 6개월 분할. 64% 파업 중단.
 - 마티외가 오베르캉프에 산 지 1년, 우편함엔 이네스 이름만 → "함께 고른 집"(41화). « Qui décide ? » → « Nous deux. Et un banquier, hélas. »
+
+### 35화 La rumeur (2월 초 화)
+- 익명 계정 « Valmont Vérité »(23시 47분): ①리비에르 회사 미신고 노동자 ②"베르디에에서 150명을 해고한 파리 커플 컨설턴트". 사실: 7년 전 미장 하청업체 적발(6년 전 유죄), 리비에르 회사는 attestation de vigilance 보유·기소 없음. 배후 미상.
+- 아고라 계약 제3조(인신공격·미검증 정보 금지, 위반 시 철수). 지역지 L'Écho de Valmont(퐁 거리) 기자 Solène Tardieu. '사실(Les faits)' 페이지, 명예훼손 고소, 사생활 무대응, 맞불 폭로 거절.
+- 바티스트가 결백 증명(메르시에에게 규탄 권한 메일), 25화 의심을 방치한 것 사과. 이네스 « Merci, Baptiste. Sincèrement. Pas presque. » 선거 뒤 술자리 초대.
+
+### 44화 La campagne nationale (10월, 창업 2년)
+- 소피아 지분 10%·파트너, 명판 « Agora Stratégies — Marchetti, Kessler, Benali, associés », 중요 결정은 만장일치. Agora 작년 매출 110만 유로.
+- Paul Ancel(46, 전직 엔지니어)의 가상 운동 « Passerelles »(지지율 9%, 1차 투표 4월), 선대본부장 Victor Lhermitte. 제안: 7개월 140만 유로, 독점 + '부록 3'(상업 데이터). 팡탱 우르크 운하 옛 창고 본부. 바티스트는 6월부터 여론조사 책임자.
+- 30화 약속 둘 다 회수. 마티외 타협안(부록 3 보류 + Agora 윤리위원회 거부권) vs 이네스 « vœu pieux », « Si tu signes lundi, Agora, ce sera toi. Plus nous. » 엘렌: 긴 숟가락, 『더러운 손』, 베버.
+- 금요일 밤 각방, 새벽 3시 이네스가 오딜의 마커로 « Qui décide ? » 밑에 « Nous deux. ». 월요일 9시 전 르 프티 몽소 안쪽 테이블에서 그랑 크렘 두 잔(45화).
