@@ -27,6 +27,8 @@ D = [
 (H, "Ce soir ? Mais... je n'ai pas de commis, pas de sous-chef !", "오늘 저녁? 그런데... 보조도, 부주방장도 없는데!"),
 (J, "Tu auras Sofiane et Moussa. Et tu feras ce que tu fais le mieux : cuisiner.", "소피안과 무사가 있잖아요. 그리고 가장 잘하는 걸 하면 돼요. 요리요."),
 (H, "Je vais y réfléchir. Mais je ne promets rien du tout.", "생각해 볼게. 하지만 아무것도 약속 못 해."),
+(H, "Et si elle écrit du mal de nous ? Après la critique de juillet, je ne le supporterais pas.", "그 사람이 우리 욕을 쓰면? 이번에 후기 일을 겪고 나서 난 못 견딜 것 같아."),
+(J, "Alors on saurait ce qu'il faut améliorer. Mais je crois qu'elle sera juste.", "그럼 뭘 고쳐야 할지 알게 되겠죠. 하지만 공정한 사람일 거라고 믿어요."),
 (C, "Excusez-moi, j'ai entendu « abonnés ». C'est quoi, exactement ?", "죄송해요, « 아보네 » 라는 말을 들었는데, 정확히 뭐예요?"),
 (J, "Les personnes qui suivent un compte. Sur Instagram, on dit aussi « followers ».", "어떤 계정을 따르는 사람들이야. 인스타그램에서는 « 팔로워 » 라고도 해."),
 (C, "Ah oui ! Et « une story », c'est quoi ? Mon petit frère en fait tout le temps.", "아 맞다! 그럼 « 스토리 » 는 뭐예요? 남동생이 맨날 올리거든요."),
@@ -146,10 +148,10 @@ VOCAB = [
 ("B2", "Se contenter de + 부정사", "~하는 데 그치다 / ~만 하면 되다", "« Contente-toi de servir bien. » 명령형은 se 가 te 로 바뀌고 동사 뒤에 붙는다: Contente-toi de…"),
 ("B2", "Ne mentez pas. / Je n'écris jamais autrement.", "거짓말하지 마세요. / 저는 달리 쓰지 않아요.", "autrement = 다르게. ne… jamais autrement = 늘 그렇게. 진정성(authenticité)이 인플루언서 마케팅의 핵심이라는 점도 보여 준다."),
 ("B2", "Dépendre de quelqu'un", "~에게 의존하다", "« Ça m'inquiète de dépendre d'une inconnue. » dépendre de + 사람/사물. 의존 vs 영향: ça dépend (경우에 따라 다르다)와 구분."),
-("B2", "Mettre en avant", "부각하다, 내세우다", "대화에는 직접 쓰이지 않았지만 마케팅 맥락에서 핵심. 인플루언서가 식당을 « met en avant » 한다."),
+("B2", "Je ne promets rien du tout.", "아무것도 약속하지 않아.", "promettre + rien: ne… rien du tout 으로 부정을 강조. 수락 전 신중한 태도를 보일 때."),
 ("C1", "Je me souviens de…, elle me fait penser à…", "~이 기억난다 / ~이 생각나게 한다", "« Elle me fait penser à mes anciens clients du palace. » faire penser à + 사람 = ~를 떠올리게 하다."),
 ("C1", "Un plat raté / un plat froid", "실패한 요리 / 식은 요리", "« Un plat froid, c'est un plat raté, non ? » 요리사들의 철칙. 사진 때문에 요리가 식는 문제는 인스타그램 시대의 현실."),
-("B1", "Elle a nettoyé l'assiette avec du pain.", "그녀는 빵으로 접시를 깨끗이 닦았다.", "손님이 소스까지 싹 먹었다는 칭찬의 표시. 프랑스에서는 « faire la fine bouche » 의 반대로 호평으로 받아들인다."),
+("B1", "Elle a nettoyé l'assiette avec du pain.", "그녀는 빵으로 접시를 깨끗이 닦았다.", "손님이 소스까지 싹 먹었다는 칭찬의 표시."),
 ]
 
 GRAM = [
