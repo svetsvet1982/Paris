@@ -97,6 +97,7 @@ D = [
 (R, "Alors je prendrai la poule au pot, puis la tarte Tatin. Sans attendre le dessert pour me décider.", "그럼 풀레 오 포 하고 타르트 타탱으로 하겠소. 디저트 때까지 고민하지 않고."),
 (J, "Très bien. Avec un verre de vin ? Un brouilly, peut-être ?", "알겠습니다. 와인 한 잔 곁들이시겠어요? 브루이 어떠세요?"),
 (R, "Brouilly, oui. Le moins cher que vous ayez. Je juge mieux avec un vin simple.", "브루이 좋소. 있는 것 중 가장 싼 걸로. 소박한 와인일 때 더 잘 판단하거든."),
+(J, "Bien, monsieur. Je vous l'apporte tout de suite.", "알겠습니다, 손님. 바로 가져다드리겠습니다."),
 (None, "21 h 30. Le service se calme. Hélène sort de sa cuisine en s'essuyant les mains.", "9시 30분. 영업이 잠잠해진다. 엘렌이 손을 닦으며 주방에서 나온다."),
 (H, "La neuf a tout mangé. Elle n'a presque rien dit, elle a seulement écrit dans son carnet.", "9번 손님이 전부 먹었어. 거의 말도 없이 수첩에 뭘 적기만 했고."),
 (J, "Elle m'a demandé de te féliciter pour la sauce. Mais « sans que ça compte dans l'article ».", "소스가 좋았다고 전해 달래. 그런데 \"기사에는 반영 안 되는 걸로\" 하자면서."),
@@ -151,6 +152,7 @@ VOCAB = [
 ("C1", "incrédule", "믿기지 않는, 반신반의하는", "« Fatiguée. Soulagée. Et un peu incrédule. » 안도와 불신이 섞인 감정을 하나의 형용사로."),
 ("C1", "écrire à chaud", "(사건 직후) 감정이 식기 전에 쓰다", "« Je n'écris jamais à chaud. » 반대: à froid. 비평가의 직업 윤리."),
 ("C1", "mot pour mot", "한 마디도 빠짐없이", "« Je m'en souviens mot pour mot. » 상처가 남은 기억을 말할 때."),
+("C1", "ne pas souhaiter commenter", "논평을 원하지 않다(논평 거부)", "« Elle n'a pas souhaité commenter. » 기사에서 쓰는 점잖은 거부 표현. 직접 « Je ne commente pas. » 보다 훨씬 중립적."),
 ("C1", "Je ne retire rien.", "철회하는 것은 없다", "[구어] ↔ 정중: « Je maintiens mes propos. » 앞서 한 평가를 취소하지 않는다는 뜻."),
 ("C1", "Je suis exact, pas méchant.", "나는 심술궂은 게 아니라 정확한 것이오", "형용사 exact 로 비평의 객관성을 주장. 신랄한 비평가다운 화법."),
 ("C1", "ni plus vite, ni plus lentement", "더 빠르게도 더 느리게도 아니게", "« ni ... ni ... » 구문. 모두에게 똑같이 응대하라는 지시."),
@@ -162,14 +164,14 @@ GRAM = [
 ("B2", "간접화법 — 의문문 (si / ce que / pourquoi)", "예/아니오 질문은 si, 의문사 질문은 의문사를 유지하고 어순을 평서문으로 한다. « Elle m'a demandé si tu étais d'accord. » « Elle voulait savoir pourquoi tu avais refusé de vendre. » « Il a demandé qui avait choisi les vins. » 직접 의문문 Qu'est-ce que... 는 ce que, Qu'est-ce qui... 는 ce qui 가 된다. 물음표는 쓰지 않는다."),
 ("B2", "간접화법 — 명령·요청 (de + 부정사)", "명령문은 « de + 부정사 » 로 바뀐다. « La cheffe m'a demandé de ne rien vous conseiller. » (직접: Ne lui conseille rien.) « Mon apprentie m'a demandé de ne pas le faire. » « Julie m'a dit de te dire qu'elle t'enverrait le texte lundi. » 부정은 ne pas / ne rien 이 부정사 앞에 함께 온다."),
 ("C1", "전달 동사의 뉘앙스 — dire, préciser, prétendre, démentir", "« Elle a juste précisé qu'elle dînerait ensuite » (보충), « Elles prétendent aussi que vous avez refusé » (불신), « Je note : vous ne confirmez pas, vous ne démentez pas » (확인·부인). 동사 선택으로 화자의 태도가 드러난다. 기사에서는 affirmer, reconnaître, avouer, ajouter 도 쓴다."),
-("B2", "조건법 — 정중한 질문과 미래의 과거", "« Comment la définiriez-vous, en une phrase ? » « que voudriez-vous que les lecteurs retiennent ? » 조건법으로 질문을 부드럽게 한다. 또 전달 동사가 과거일 때 미래 사실은 조건법으로: « Il m'a dit qu'il reviendrait "quand on ne l'attendrait plus". »"),
+("B2", "조건법 — 정중한 질문과 미래의 과거", "« Comment la définiriez-vous, en une phrase ? » « que voudriez-vous que les lecteurs retiennent ? » 조건법으로 질문을 부드럽게 한다. 또 전달 동사가 과거일 때 미래 사실은 조건법으로: « Il m'a dit qu'il reviendrait ‹ quand on ne l'attendrait plus ›. »"),
 ("B1", "정정과 부정 — Je n'ai pas dit ça / ni ... ni", "인터뷰에서 오해를 바로잡을 때: « Je n'ai pas dit que j'avais refusé cent quatre-vingt mille euros. J'ai dit que je ne commentais pas les chiffres. » ne ... pas 다음에 대비되는 긍정문을 이어 정정한다. « Ni l'un ni l'autre. » « ni avant ni après » 처럼 ni ... ni 는 양쪽 부정."),
 ("B2", "관계절 — 선행사의 한정(celui d'octobre)", "« Étienne Roux. Le vrai. Celui d'octobre. » 대명사 celui + de/qui 로 이미 언급한 사람이나 사물을 다시 가리킨다. « Je vais lui parler, à celui-là. » 는 구어에서 \"그 양반\"을 가리키는 강조 이중 표현이다."),
 ]
 
 READ = [
 ("억양 — 인터뷰 질문의 올림과 내림", "인터뷰 질문은 정중하고 열려 있어 억양이 올라갔다 부드럽게 내려온다. « D'abord : / comment allez-vous, / quatre jours après la réouverture ? » 에서 comment allez-vous 는 약간 올리고, 마지막 réouverture 에서 올린다. 반대로 « Off, d'accord. » 는 짧고 내려가게."),
-("리에종 — vous_avez, mon_apprentie", "« Vous avez dit "fini". » 의 vous_avez 는 z 연음. « Mon père m'a conseillé de vendre. Mon apprentie m'a demandé de ne pas le faire. » 에서 mon_apprentie 의 n 은 연결되어 [mɔ̃napʀɑ̃ti] 로 이어진다."),
+("리에종 — vous_avez, mon_apprentie", "« Vous avez dit ‹ fini ›. » 의 vous_avez 는 z 연음. « Mon père m'a conseillé de vendre. Mon apprentie m'a demandé de ne pas le faire. » 에서 mon_apprentie 의 n 은 연결되어 [mɔ̃napʀɑ̃ti] 로 이어진다."),
 ("c'est off 의 발음", "off [ɔf] 는 영어에서 온 단어로 f 를 분명히 소리 낸다. « Ça, c'est off. » 는 ça / c'est off 로 끊고 off 에 가볍게 강세. 한 호흡: Il a crié. / Puis il a dit qu'il était fier. / Dans cet ordre. / Ça, c'est off."),
 ("숫자 낭독 — cent quatre-vingt mille", "« cent quatre-vingt mille euros » 는 cent / quatre-vingt / mille / euros 로 끊는다. quatre-vingt 의 t 는 뒤에 mille 가 와도 연음하지 않는다. « mille deux cent trente-sept personnes » 는 천 이백삼십칠 명, 마지막 sept 의 t 는 읽는다."),
 ("r 소리와 비음 — enregistre, insister", "« enregistre » 의 en[ɑ̃] 은 비음, r 두 개를 목구멍에서 가볍게 긁는다. « insister » 의 in[ɛ̃] 과 s 의 무성 소리를 연습한다. « Je préviens : je ne suis pas très bavarde. » 의 préviens 는 [pʀevjɛ̃]."),

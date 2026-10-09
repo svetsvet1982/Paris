@@ -131,6 +131,7 @@ D = [
 (None, "Le téléphone sonne de nouveau, insistant. Hélène regarde l'ardoise, puis la photo de Marthe au-dessus de la caisse.", "전화가 다시 끈질기게 울린다. 엘렌이 칠판을 보고, 계산대 위 마르트의 사진을 바라본다."),
 (H, "Allô ? Le Comptoir de Marthe, bonjour. Oui... oui, c'est bien ici.", "여보세요? 콩투아르 드 마르트입니다. 네... 네, 맞아요 여기예요."),
 (H, "Pour ce soir ? Je regarde... Oui. Pour combien de personnes ?", "오늘 저녁이요? 확인해 볼게요... 네. 몇 분이세요?"),
+(H, "Six personnes, à vingt heures. Avec plaisir. On vous attend.", "여섯 분, 8시요. 기꺼이요. 기다리고 있겠습니다."),
 ]
 
 VOCAB = [
@@ -156,7 +157,7 @@ VOCAB = [
 ("C1", "Les récompenses, c'est pour ceux qui ont le temps.", "상은 시간이 남는 사람들 몫이다", "〈C'est pour + 사람〉 구어 구문. Marthe의 겸손한 철학을 Lucien이 인용한다."),
 ("C1", "Je redescends sur terre.", "현실로 돌아온다", "기쁨에 들뜬 뒤 정신을 차릴 때. 〈être sur un nuage〉(구름 위에 있다)의 반대 이미지. Julien이 두 번 연속 쓰는 비유."),
 ("C1", "porter sur son dos / On l'a porté à plusieurs.", "등에 짊어지다 / 여럿이 함께 짊어졌다", "책임·부담의 은유. 〈à plusieurs〉 = 여럿이서. 승리의 순간 혼자가 아님을 말하는 Hélène의 핵심 대사."),
-("C1", "tenir parole / un restaurateur sincère", "신용을 지키다", "(참고) 〈Il a promis qu'ils seraient aussi beaux que les tiens.〉 의 〈promettre que + 조건법〉 구문. 미래를 약속하되 과거 시점이므로 조건법."),
+("B2", "Fais-moi plaisir.", "부탁이야 (내 기쁨을 위해 해 줘)", "〈faire plaisir à quelqu'un〉 의 명령형. 부드러운 지시를 부탁으로 바꾼다. Hélène이 Chloé에게 칠판을 맡기며 한 말. 〈Ça fait plaisir.〉 는 '기쁘네'."),
 ]
 
 GRAM = [
