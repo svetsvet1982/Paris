@@ -247,3 +247,8 @@
 - 티스랑 수영장 11월부터 폐쇄(천장 붕괴), 보수 480만. 수영 클럽 회장 Ghislaine Rocher(회원 600명), 중앙 주방장 Mehdi Bensaïd(하루 4,200식, 1987년 설비). 선택 B: 주방 우선, 수영장 연구 60만, 바렌라오트 수영장 버스. « Choisir, c'est d'abord décevoir quelqu'un. » Agora는 100일 계획 후 퇴장, 임기 중 발몽 입찰 불참 서약.
 - 새 사무실(4월 중순): 쿠르셀 거리, 르 프티 몽소 바로 위 2층, 방 3개. 상자 « FIGARO — NE PAS OUVRIR ». 라시드가 그랑 크렘을 위층으로.
 - 콜마르 부활절: 라말라(양 모양 케이크), 황새 둥지. 뤼시앵의 마커 상자에 3개 → 하나를 이네스에게. 오딜 « un jour il y aura une question qu'il n'osera pas écrire tout seul. Tu l'aideras. »(45화)
+
+### 34화 Se préparer au débat (1월 말 목요일)
+- Canal Valmont(옛 염색 공장 스튜디오) 생방송 90분, 진행자 Capucine Gaillard. 소피아 예상 질문 40개. 원칙 « À chaque critique, un fait ; à chaque fait, une proposition ». 숫자: 빈 진열창 31개, 보건 센터 40만, 재산세 인상 0. 질문 미리 빼내기 제안 거절.
+- 아녜스 « Je n'ai pas l'expérience d'un mandat ; j'ai l'expérience des fins de mois. » « Je ne promets pas de miracles ; je promets des comptes. » 메르시에 측 근거: 학교 14곳·미디어도서관 리모델링.
+- 엘렌 « On ne gagne presque jamais un débat : on évite de le perdre. » 갈레트 데 루아: 이네스가 페브, 마티외를 왕으로, 종이 왕관은 선반 위 스테파누아즈 옆.
