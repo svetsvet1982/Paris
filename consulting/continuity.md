@@ -181,3 +181,11 @@
 - 모모의 비결: 프레스 20분 예열, 귀로 하는 밸브 조정, 압착 전 시험대, 압착 순서 반대. 파란 바인더(10년간 개선 제안 47장, 12·7·23번 → 불량 40% 감소). 시험대 2대 8만 유로.
 - 모모 가족(타랑테즈 지구 5층): 아내 Zora, 딸 Nawal(33, 간호사), 아들 Bilal(28, 주간 정비), 손자 Iliès(7, ASSE 팬). 모모 아버지는 쿠리오 탄광 광부. 장터 치즈 상인 Dédé.
 - 조라 « 누군가 있네요 »(25화 목격 복선). 이네스 « C'est secret. Nuance. » 뤼카의 문자 « Pour le stylo, c'est bon. »(22화).
+
+## 3부 화별 신규 사실
+
+### 43화 Conflit d'intérêts (4~5월)
+- « Jeunes Pousses de Provence »(Provence Attractivité) 지원금 3만 유로: 뤼카 12/12 신청, Agora 1/15 계약, 뤼카가 1/20 보완 서류에 "누나가 이 기관 전략을 돕는다" 기재, 3/4 심사(64건 중 19곳, 7위). 42화의 놓친 단서: 건배사 « à ceux qui m'ont donné un coup de pouce », 유리창 초록 스티커 « Lauréat Jeunes Pousses de Provence ».
+- Agora 계약 1단계 8만(4월 납품)·2단계 6만 → 2단계 포기, 뤼카 전액 반납(« je veux que mon restaurant soit jugé dans l'assiette »). 기사: 폴 메나르(5월 초). 윤리위원장 Henri Lavigne, 윤리 담당 Nadira Achour.
+- Agora 윤리 강령 3조(가족 이해관계 서면 신고, « Le doute profite toujours au client », 연 1회 갱신). 리비에르 공개 지지.
+- 마티외 « Tu savais qu'il allait écrire ça ? » → « J'ai douté une seconde. C'est une seconde de trop. » 벌칙: 양파 타르트 한 달에 하나. 소피아에게 공동 대표직 제안(44화).
