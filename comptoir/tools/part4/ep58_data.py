@@ -63,8 +63,8 @@ D = [
 (V, "Et combien de personnes ont donné ? Il faut le dire.", "그리고 몇 명이 기부했죠? 그것도 말해야죠."),
 (H, "Mille deux cent trente-sept. C'est le chiffre sur l'ardoise : « Merci à vous 1 237 ».", "1 237명이에요. 칠판에 적힌 숫자죠. « Merci à vous 1 237 »."),
 (L, "Mille deux cent trente-sept personnes qui disent : ce comptoir ne mourra pas.", "1 237명이 이 카운터는 죽지 않는다고 말해 준 거야."),
-(H, "Après les frais de la plateforme, il nous reste environ 40 360 euros.", "플랫폼 수수료를 빼면 약 40 360유로가 남아요."),
-(J, "Ça fait huit pour cent de frais, soit 3 510 euros. Ce n'est pas rien.", "수수료가 8퍼센트, 즉 3 510유로야. 적은 돈은 아니지."),
+(H, "Après les frais de la plateforme, il nous reste environ 40 800 euros.", "플랫폼 수수료를 빼면 약 40 800유로가 남아요."),
+(J, "Ça fait sept pour cent de frais, soit 3 070 euros. Ce n'est pas rien.", "수수료가 7퍼센트, 즉 3 070유로야. 적은 돈은 아니지."),
 (H, "C'est vrai. Mais sans la plateforme, personne ne nous aurait trouvés.", "맞아. 하지만 플랫폼이 없었으면 아무도 우리를 못 찾았을 거야."),
 (L, "Les bons comptes font les bons amis. Et ceux-ci sont très bons.", "계산이 정확해야 친구 사이도 좋은 법이지. 이 계산은 아주 훌륭하구나."),
 (V, "Hélène, moi aussi, je veux dire un mot. Permettez-moi.", "엘렌, 나도 한마디 하고 싶어요. 허락해 줘요."),
@@ -145,7 +145,7 @@ VOCAB = [
 ("B1", "Les meilleurs vœux", "새해 덕담", "« Meilleurs vœux, mes enfants. » 정중한 덕담. 편지 끝에도 쓴다. 연하장은 une carte de vœux."),
 ("B1", "Faire un discours", "연설하다", "« Je ne suis pas très douée pour les discours. » être doué(e) pour = ~에 소질이 있다. 부정형으로 겸손을 표현한다."),
 ("B1", "Dépasser (un objectif)", "(목표를) 넘다", "« On l'a dépassé de 3 870 euros. » dépasser 는 '초과하다'. 목표 40 000 에서 43 870 이므로 3 870 초과."),
-("B1", "Les frais de la plateforme", "플랫폼 수수료", "« Après les frais, il nous reste 40 360 euros. » frais 는 늘 복수. rester = 남다. 8 % 수수료는 « huit pour cent »."),
+("B1", "Les frais de la plateforme", "플랫폼 수수료", "« Après les frais, il nous reste 40 800 euros. » frais 는 늘 복수. rester = 남다. 7 % 수수료는 « sept pour cent »."),
 ("B1", "Avoir le sens de la formule", "말솜씨가 좋다, 명문장을 잘 만든다", "« Il a toujours eu le sens de la formule. » 짧고 기억에 남는 문장으로 말하는 사람을 칭찬할 때. 한 문장 칭찬으로 유용."),
 ("B2", "Faire le modeste", "겸손한 척하다", "[구어] « Ne faites pas le modeste. » ↔ 정중: Ne soyez pas trop modeste. faire le/la + 형용사 = ~인 척하다."),
 ("B2", "Il n'y a pas de fumée sans feu", "아니 땐 굴뚝에 연기 나랴", "속담. 소문에는 이유가 있다는 뜻. Lucien 은 « pas de feu sans bois » 로 비틀어 후원자들에게 감사한다."),
@@ -163,7 +163,7 @@ VOCAB = [
 GRAM = [
 ("B1", "건배·덕담 — que + 접속법으로 소원 말하기", "« Que cette année soit douce avec vous. » « Qu'elle soit pleine de clients, de couverts et de bonnes nouvelles ! » 소원은 que + 접속법(soit). 주절 없이 que 로 시작한다. 격식 있는 덕담에서는 « Je vous souhaite... » 도 가능."),
 ("B2", "avoir failli + 부정사 — ~할 뻔했다", "« J'ai failli te perdre. » « J'ai failli tout lâcher. » 복합과거 + 동사원형. 실제로는 일어나지 않았음을 말할 때 쓰며, 안도나 감정 고백에 잘 어울린다."),
-("B2", "숫자 비교와 계산 — dépasser, soit, il reste", "« On l'a dépassé de 3 870 euros. » « Huit pour cent de frais, soit 3 510 euros. » « Il nous reste environ 40 360 euros. » dépasser de + 금액, soit = 즉, il reste = 남아 있다. 모금 총액 43 870 - 3 510(약) = 약 40 360."),
+("B2", "숫자 비교와 계산 — dépasser, soit, il reste", "« On l'a dépassé de 3 870 euros. » « Sept pour cent de frais, soit 3 070 euros. » « Il nous reste environ 40 800 euros. » dépasser de + 금액, soit = 즉, il reste = 남아 있다. 모금 총액 43 870 - 3 070(약) = 약 40 800."),
 ("B2", "조건법 과거 — j'aurais ri / je l'aurais fait", "« Il y a trois mois, j'aurais ri. » « Sans toi, je l'aurais fait. » 과거에 일어나지 않은 일을 가정한다. 조건: avoir 조건법 + 과거분사. Sans + 명사 로 조건절을 짧게 줄일 수 있다."),
 ("C1", "대명사의 중복 — Y et en", "« Mets-y les jeunes. » « Crois-y. » « Je n'arrive pas à y croire. » y 는 장소(là)뿐 아니라 croire à qqch 의 à + 사물을 대신한다. 명령형에서는 « Mets-y », « Crois-y » 처럼 동사 뒤에 붙는다."),
 ("C1", "속담을 비틀어 쓰기 — il n'y a pas de fumée sans feu", "« Il n'y a pas de feu sans bois. » 원래 속담의 구조(il n'y a pas de A sans B)를 유지하면서 내용만 바꿔 위트를 만든다. 연설에서 청중의 미소를 끌어낸다."),
@@ -180,7 +180,7 @@ READ = [
 
 CULTURE = [
 ("le Réveillon de la Saint-Sylvestre — 프랑스의 송년 저녁", "프랑스에서 12월 31일 저녁은 « Réveillon de la Saint-Sylvestre » 라고 한다. 식당은 푸아그라, 굴, 샴페인을 넣은 고정 가격 « menu de réveillon » 를 내고, 자정에는 « Bonne année ! » 하며 서로 뺨에 입을 맞춘다(la bise). 한국과 달리 종소리 대신 카운트다운을 크게 외치는 것이 흔하다."),
-("le financement participatif — 크라우드펀딩", "프랑스에서는 Ulule, KissKissBankBank 같은 플랫폼에서 작은 가게가 « contreparties(보상) » 를 약속하고 후원을 모은다. 성공하면 수수료(약 5~8 %)를 뗀 금액을 받는다. 동네 단골이 후원자가 되기 때문에, 모금은 돈 이상으로 공동체의 지지 표현이기도 하다."),
+("le financement participatif — 크라우드펀딩", "프랑스에서는 Ulule, KissKissBankBank 같은 플랫폼에서 작은 가게가 « contreparties(보상) » 를 약속하고 후원을 모은다. 성공하면 수수료(약 5~7 %)를 뗀 금액을 받는다. 동네 단골이 후원자가 되기 때문에, 모금은 돈 이상으로 공동체의 지지 표현이기도 하다."),
 ]
 
 META = dict(part=4, ep=58, part_label="제4부 La reconstruction · 늦가을·겨울", title_fr="Réveillon au Comptoir", title_ko="콩투아르의 송년 저녁",
