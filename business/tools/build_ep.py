@@ -6,17 +6,34 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
-import importlib
-d = importlib.import_module(sys.argv[2])
+import importlib, importlib.util, os
+# argv[2]: module name (e.g. part1.ep01_data) or path to a data .py file
+if sys.argv[2].endswith(".py"):
+    _spec = importlib.util.spec_from_file_location("epdata", sys.argv[2]); d = importlib.util.module_from_spec(_spec); _spec.loader.exec_module(d)
+else:
+    d = importlib.import_module(sys.argv[2])
 M = d.META
+LANG = M.get("lang", "fr")
 
 KO = "Malgun Gothic"; LAT = "Calibri"
 WINE = RGBColor(0x1F,0x3A,0x5F); GRAY = RGBColor(0x66,0x66,0x66)
 from collections import defaultdict
-SPK = defaultdict(lambda: RGBColor(0x55,0x3C,0x7A), {"Antoine":RGBColor(0x2E,0x6B,0x3A),"Claire":RGBColor(0x1F,0x5A,0x8C),"Marc":RGBColor(0x8A,0x4B,0x0F),"Karim":RGBColor(0x7A,0x1F,0x3D),"Sophie":RGBColor(0x0F,0x6E,0x6E)})
-LVL = {"A2":"E3F1E3","B1":"DCEBF7","B2":"FFF0D2","C1":"F6DAE4"}
+# speaker colors in order of first appearance
+_PAL = [RGBColor(0x2E,0x6B,0x3A),RGBColor(0x1F,0x5A,0x8C),RGBColor(0x8A,0x4B,0x0F),RGBColor(0x7A,0x1F,0x3D),RGBColor(0x0F,0x6E,0x6E),RGBColor(0x55,0x3C,0x7A),RGBColor(0x6B,0x5B,0x1A),RGBColor(0x3D,0x3D,0x3D)]
+SPK = defaultdict(lambda: RGBColor(0x55,0x3C,0x7A))
+for _s in dict.fromkeys(x[0] for x in d.D if x[0]):
+    SPK[_s] = _PAL[len(SPK) % len(_PAL)]
+# CEFR levels, or JLPT levels for Japanese
+LVL = {"A1":"E3F1E3","A2":"E3F1E3","B1":"DCEBF7","B2":"FFF0D2","C1":"F6DAE4","C2":"F6DAE4",
+       "N5":"E3F1E3","N4":"E3F1E3","N3":"DCEBF7","N2":"FFF0D2","N1":"F6DAE4"}
+LEGEND = M.get("legend", "레벨 색상: A2 초록 · B1 파랑 · B2 노랑 · C1 분홍")
+COLON = " :" if LANG == "fr" else ":"
+SERIES = M.get("series", "Maison Delcourt")
+# east-asian font for target-language text (Japanese dialogue needs a JP font)
+DLG_EA = "Yu Gothic" if LANG == "ja" else "Malgun Gothic"
 
 def fr(t):
+    if LANG != "fr": return t
     t = t.replace("« ", "« ")
     t = re.sub(r" ([?!:;»])", " \\1", t)
     return t
@@ -99,7 +116,7 @@ def table(headers, rows, widths, level_col=None):
 
 # footer page number
 fp = sec.footer.paragraphs[0]; fp.alignment = WD_ALIGN_PARAGRAPH.CENTER
-setfont(fp.add_run(f"Maison Delcourt · Partie {M['part']} · Épisode {M['ep']} · "), 8.5, None, None, GRAY)
+setfont(fp.add_run(f"{SERIES} · {M.get('footer_part', 'Partie')} {M['part']} · {M.get('footer_ep', 'Épisode')} {M['ep']} · "), 8.5, None, None, GRAY)
 r = fp.add_run(); setfont(r, 8.5, None, None, GRAY)
 for t_,txt in (("begin",None),("instr"," PAGE "),("end",None)):
     if t_=="instr":
@@ -116,10 +133,10 @@ para(M["title_ko"], 13, False, True, GRAY, WD_ALIGN_PARAGRAPH.CENTER, 14)
 from collections import Counter
 cnt = Counter(x[0] for x in d.D if x[0])
 turns = sum(cnt.values())
-assert turns == 120, turns
+assert turns == M.get("turns", 120), turns
 cs = " · ".join(f"{k} {v}" for k, v in sorted(cnt.items(), key=lambda kv: -kv[1]))
 meta = [("장소·시간", M["place"]), ("등장인물", M["chars"]), ("비즈니스 주제", M["topic"]), ("학습 포인트", M["focus"]),
-        ("분량·난이도", f"대화 120턴 ({cs}) · {M['levelmix']}")]
+        ("분량·난이도", f"대화 {turns}턴 ({cs}) · {M['levelmix']}")]
 t = doc.add_table(rows=0, cols=2); t.style="Table Grid"; t.autofit=False
 for k,v in meta:
     c = t.add_row().cells
@@ -134,12 +151,12 @@ heading("1. 대화문 Dialogue")
 para("※ 턴 번호 없이 화자 이름으로 구분합니다. 이탤릭 지문은 턴 수에 포함되지 않습니다. 해석은 문서 맨 끝(6장)에 있습니다.", 9, False, True, GRAY, after=8)
 for s, f, k in d.D:
     if s is None:
-        para(fr(f), 9.5, False, True, GRAY, after=6, before=4)
+        setfont(para(after=6, before=4).add_run(fr(f)), 9.5, False, True, GRAY, ko=DLG_EA)
     else:
         p = para(after=3)
         p.paragraph_format.left_indent = Cm(2.4); p.paragraph_format.first_line_indent = Cm(-2.4)
         p.paragraph_format.tab_stops.add_tab_stop(Cm(2.4))
-        setfont(p.add_run(s + " :"), 10.5, True, None, SPK[s]); setfont(p.add_run("\t" + fr(f)), 11)
+        setfont(p.add_run(s + COLON), 10.5, True, None, SPK[s]); setfont(p.add_run("\t" + fr(f)), 11, ko=DLG_EA)
 
 # ---------- Key expressions ----------
 heading("2. 핵심 비즈니스 표현")
@@ -148,7 +165,7 @@ table(["기능","표현","뜻","대화 속 예문"], [(a,b,c,e) for a,b,c,e in d
 
 # ---------- Vocab ----------
 heading("3. 주요 단어·표현 분석")
-para("레벨 색상: A2 초록 · B1 파랑 · B2 노랑 · C1 분홍", 9, False, True, GRAY, after=6)
+para(LEGEND, 9, False, True, GRAY, after=6)
 table(["레벨","표현","뜻","용법·메모"], [(a,b,c,e) for a,b,c,e in d.VOCAB], [1.3,4.2,4.3,7.2], level_col=0)
 
 # ---------- Grammar ----------
@@ -176,7 +193,7 @@ for s, f, k in d.D:
         p = para(after=3)
         p.paragraph_format.left_indent = Cm(2.4); p.paragraph_format.first_line_indent = Cm(-2.4)
         p.paragraph_format.tab_stops.add_tab_stop(Cm(2.4))
-        setfont(p.add_run(s + " :"), 10.5, True, None, SPK[s]); setfont(p.add_run("\t" + k), 10.5)
+        setfont(p.add_run(s + COLON), 10.5, True, None, SPK[s]); setfont(p.add_run("\t" + k), 10.5)
 
 para("다음 화 예고 — " + M["next"], 10, True, False, WINE, after=0, before=18)
 
