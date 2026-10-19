@@ -30,7 +30,7 @@ LEGEND = M.get("legend", "레벨 색상: A2 초록 · B1 파랑 · B2 노랑 · 
 COLON = " :" if LANG == "fr" else ":"
 SERIES = M.get("series", "Maison Delcourt")
 # east-asian font for target-language text (Japanese dialogue needs a JP font)
-DLG_EA = "Yu Gothic" if LANG == "ja" else "Malgun Gothic"
+DLG_EA = "IPAGothic" if LANG == "ja" else "Malgun Gothic"
 
 def fr(t):
     if LANG != "fr": return t
@@ -116,7 +116,8 @@ def table(headers, rows, widths, level_col=None):
 
 # footer page number
 fp = sec.footer.paragraphs[0]; fp.alignment = WD_ALIGN_PARAGRAPH.CENTER
-setfont(fp.add_run(f"{SERIES} · {M.get('footer_part', 'Partie')} {M['part']} · {M.get('footer_ep', 'Épisode')} {M['ep']} · "), 8.5, None, None, GRAY)
+_ff = M.get("footer_fmt") or (SERIES + " · " + M.get("footer_part", "Partie") + " {part} · " + M.get("footer_ep", "Épisode") + " {ep} · ")
+setfont(fp.add_run(_ff.format(series=SERIES, part=M["part"], ep=M["ep"])), 8.5, None, None, GRAY, ko=DLG_EA)
 r = fp.add_run(); setfont(r, 8.5, None, None, GRAY)
 for t_,txt in (("begin",None),("instr"," PAGE "),("end",None)):
     if t_=="instr":
