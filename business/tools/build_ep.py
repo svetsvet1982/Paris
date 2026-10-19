@@ -21,7 +21,7 @@ from collections import defaultdict
 # speaker colors in order of first appearance
 _PAL = [RGBColor(0x2E,0x6B,0x3A),RGBColor(0x1F,0x5A,0x8C),RGBColor(0x8A,0x4B,0x0F),RGBColor(0x7A,0x1F,0x3D),RGBColor(0x0F,0x6E,0x6E),RGBColor(0x55,0x3C,0x7A),RGBColor(0x6B,0x5B,0x1A),RGBColor(0x3D,0x3D,0x3D)]
 SPK = defaultdict(lambda: RGBColor(0x55,0x3C,0x7A))
-for _s in dict.fromkeys(x[0] for x in d.D if x[0]):
+for _s in dict.fromkeys(x[0] for x in d.D if x[0] and x[0] != "#"):
     SPK[_s] = _PAL[len(SPK) % len(_PAL)]
 # CEFR levels, or JLPT levels for Japanese
 LVL = {"A1":"E3F1E3","A2":"E3F1E3","B1":"DCEBF7","B2":"FFF0D2","C1":"F6DAE4","C2":"F6DAE4",
@@ -132,12 +132,12 @@ para(f"제{M['ep']}화  {M['title_fr']}", 24, True, False, WINE, WD_ALIGN_PARAGR
 para(M["title_ko"], 13, False, True, GRAY, WD_ALIGN_PARAGRAPH.CENTER, 14)
 
 from collections import Counter
-cnt = Counter(x[0] for x in d.D if x[0])
+cnt = Counter(x[0] for x in d.D if x[0] and x[0] != "#")
 turns = sum(cnt.values())
 assert turns == M.get("turns", 120), turns
 cs = " · ".join(f"{k} {v}" for k, v in sorted(cnt.items(), key=lambda kv: -kv[1]))
-meta = [("장소·시간", M["place"]), ("등장인물", M["chars"]), ("비즈니스 주제", M["topic"]), ("학습 포인트", M["focus"]),
-        ("분량·난이도", f"대화 {turns}턴 ({cs}) · {M['levelmix']}")]
+meta = [("장소·시간", M["place"]), ("등장인물", M["chars"]), ("비즈니스 주제", M["topic"]), ("학습 포인트", M["focus"])]
+meta = M.get("info", meta) + [("분량·난이도", f"대화 {turns}턴 ({cs}) · {M['levelmix']}")]
 t = doc.add_table(rows=0, cols=2); t.style="Table Grid"; t.autofit=False
 for k,v in meta:
     c = t.add_row().cells
@@ -147,11 +147,52 @@ for k,v in meta:
     shade(c[0], "E6ECF3")
 fixw(t, [3.0, 14.0])
 
+# ---------- Sections ----------
+# Optional d.PRE (before dialogue) and d.SECTIONS (after dialogue) let each series use its own layout:
+#   ("table", title, note, headers, rows, widths, level_col)  ("notes", title, note, [(tag, title, body)])
+#   ("bullets", title, note, [(title, body)])                  ("text", title, note, [paragraph, ...])
+if hasattr(d, "SECTIONS"):
+    POST = d.SECTIONS
+else:
+    POST = [("table", "핵심 비즈니스 표현", "이번 화에서 반복 연습할 기능별 표현입니다.", ["기능","표현","뜻","대화 속 예문"], d.KEY, [2.9,4.6,3.6,5.9], None),
+            ("table", "주요 단어·표현 분석", LEGEND, ["레벨","표현","뜻","용법·메모"], d.VOCAB, [1.3,4.2,4.3,7.2], 0),
+            ("notes", "문법 분석", None, d.GRAM),
+            ("bullets", "비즈니스 문화 메모", None, d.CULTURE)]
+PRE = getattr(d, "PRE", [])
+NUM = iter(range(1, 100))
+
+def section(sec):
+    kind, title, note = sec[0], sec[1], sec[2]
+    heading(f"{next(NUM)}. {title}")
+    if note: para(note, 9, False, True, GRAY, after=6)
+    if kind == "table":
+        _, _, _, headers, rows, widths, lc = sec
+        table(headers, [tuple(r) for r in rows], widths, level_col=lc)
+    elif kind == "notes":
+        for tag, ttl, body in sec[3]:
+            p = para(after=2, before=8, keep=True)
+            if tag: setfont(p.add_run(f"[{tag}] "), 10.5, True, None, WINE)
+            setfont(p.add_run(ttl), 11, True)
+            p2 = para(after=4); p2.paragraph_format.left_indent = Cm(0.6)
+            setfont(p2.add_run(fr(body)), 10)
+    elif kind == "bullets":
+        for ttl, body in sec[3]:
+            p = para(after=1, before=6, keep=True); setfont(p.add_run("• " + ttl), 10.5, True)
+            p2 = para(after=3); p2.paragraph_format.left_indent = Cm(0.6); setfont(p2.add_run(fr(body)), 10)
+    elif kind == "text":
+        for ptxt in sec[3]:
+            setfont(para(after=4).add_run(fr(ptxt)), 10)
+
+for sec in PRE: section(sec)
+
 # ---------- Dialogue ----------
-heading("1. 대화문 Dialogue")
-para("※ 턴 번호 없이 화자 이름으로 구분합니다. 이탤릭 지문은 턴 수에 포함되지 않습니다. 해석은 문서 맨 끝(6장)에 있습니다.", 9, False, True, GRAY, after=8)
+# speaker "#" = scene heading (not a turn), None = stage direction (not a turn)
+heading(f"{next(NUM)}. " + M.get("dialogue_title", "대화문 Dialogue"))
+para(f"※ 턴 번호 없이 화자 이름으로 구분합니다. 이탤릭 지문은 턴 수에 포함되지 않습니다. 해석은 문서 맨 끝({len(PRE) + len(POST) + 2}장)에 있습니다.", 9, False, True, GRAY, after=8)
 for s, f, k in d.D:
-    if s is None:
+    if s == "#":
+        setfont(para(after=4, before=10, keep=True).add_run(fr(f)), 10.5, True, None, WINE, ko=DLG_EA)
+    elif s is None:
         setfont(para(after=6, before=4).add_run(fr(f)), 9.5, False, True, GRAY, ko=DLG_EA)
     else:
         p = para(after=3)
@@ -159,36 +200,16 @@ for s, f, k in d.D:
         p.paragraph_format.tab_stops.add_tab_stop(Cm(2.4))
         setfont(p.add_run(s + COLON), 10.5, True, None, SPK[s]); setfont(p.add_run("\t" + fr(f)), 11, ko=DLG_EA)
 
-# ---------- Key expressions ----------
-heading("2. 핵심 비즈니스 표현")
-para("이번 화에서 반복 연습할 기능별 표현입니다.", 9, False, True, GRAY, after=6)
-table(["기능","표현","뜻","대화 속 예문"], [(a,b,c,e) for a,b,c,e in d.KEY], [2.9,4.6,3.6,5.9])
-
-# ---------- Vocab ----------
-heading("3. 주요 단어·표현 분석")
-para(LEGEND, 9, False, True, GRAY, after=6)
-table(["레벨","표현","뜻","용법·메모"], [(a,b,c,e) for a,b,c,e in d.VOCAB], [1.3,4.2,4.3,7.2], level_col=0)
-
-# ---------- Grammar ----------
-heading("4. 문법 분석")
-for i,(lv,title,body) in enumerate(d.GRAM,1):
-    p = para(after=2, before=8, keep=True)
-    setfont(p.add_run(f"[{lv}] "), 10.5, True, None, WINE); setfont(p.add_run(title), 11, True)
-    p2 = para(after=4); p2.paragraph_format.left_indent = Cm(0.6)
-    setfont(p2.add_run(fr(body)), 10)
-
-# ---------- Culture ----------
-heading("5. 비즈니스 문화 메모")
-for title, body in d.CULTURE:
-    p = para(after=1, before=6, keep=True); setfont(p.add_run("• " + title), 10.5, True)
-    p2 = para(after=3); p2.paragraph_format.left_indent = Cm(0.6); setfont(p2.add_run(body), 10)
+for sec in POST: section(sec)
 
 # ---------- Translation (last) ----------
 doc.add_page_break()
-heading("6. 한글 해석")
+heading(f"{next(NUM)}. 한글 해석")
 para("대화 순서대로 수록했습니다.", 9, False, True, GRAY, after=8)
 for s, f, k in d.D:
-    if s is None:
+    if s == "#":
+        para(k, 10.5, True, False, WINE, after=4, before=10, keep=True)
+    elif s is None:
         para(k, 9.5, False, True, GRAY, after=6, before=4)
     else:
         p = para(after=3)
@@ -196,6 +217,6 @@ for s, f, k in d.D:
         p.paragraph_format.tab_stops.add_tab_stop(Cm(2.4))
         setfont(p.add_run(s + COLON), 10.5, True, None, SPK[s]); setfont(p.add_run("\t" + k), 10.5)
 
-para("다음 화 예고 — " + M["next"], 10, True, False, WINE, after=0, before=18)
+para(M.get("next_label", "다음 화 예고") + " — " + M["next"], 10, True, False, WINE, after=0, before=18)
 
 doc.save(sys.argv[1])
