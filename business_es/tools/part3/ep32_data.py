@@ -3,7 +3,7 @@
 L, A, D_, Y, RE, O, N, GA = "Lucas", "Amparo", "Daniel", "Yusimí", "Rebeca", "Orestes", "Nuria", "Gaby"
 D = [
 ("#", "Escena 1 · 9:15 · Showroom de Ruiz-Walker Tile & Stone, Doral", "장면 1 · 오전 9시 15분 · 도랄, 루이스-워커 타일 & 스톤 쇼룸"),
-(None, "Jueves 23 de julio. Doral, al oeste de Miami: naves industriales, palmeras y un calor que ya aprieta a las nueve de la mañana. El showroom de Daniel ocupa un antiguo almacén pintado de blanco, con un letrero azul: «Ruiz-Walker Tile & Stone — Since 1973». Lucas y Amparo bajan del coche de alquiler con una caja de muestras.", "7월 23일 목요일. 마이애미 서쪽의 도랄. 공장 건물과 야자수, 그리고 아침 9시인데도 벌써 숨이 막히는 더위. 대니얼의 쇼룸은 하얗게 칠한 옛 창고 건물에 있고, 파란 간판이 걸려 있다. '루이스-워커 타일 & 스톤 — 1987년 창업'. 루카스와 암파로가 샘플 상자를 들고 렌터카에서 내린다."),
+(None, "Jueves 23 de julio. Doral, al oeste de Miami: naves industriales, palmeras y un calor que ya aprieta a las nueve de la mañana. El showroom de Daniel ocupa un antiguo almacén pintado de blanco, con un letrero azul: «Ruiz-Walker Tile & Stone — Since 1973». Lucas y Amparo bajan del coche de alquiler con una caja de muestras.", "7월 23일 목요일. 마이애미 서쪽의 도랄. 공장 건물과 야자수, 그리고 아침 9시인데도 벌써 숨이 막히는 더위. 대니얼의 쇼룸은 하얗게 칠한 옛 창고 건물에 있고, 파란 간판이 걸려 있다. '루이스-워커 타일 & 스톤 — 1973년 창업'. 루카스와 암파로가 샘플 상자를 들고 렌터카에서 내린다."),
 (D_, "¡Llegaron los gallegos! Pasen, pasen, que afuera se derrite hasta el asfalto.", "갈레고들이 왔네! 들어와요, 들어와. 밖에선 아스팔트까지 녹아내려요."),
 (L, "Buenos días, Daniel. Perdona el retraso. Había un tráfico tremendo en la autopista.", "안녕하세요, 대니얼. 늦어서 미안해요. 고속도로가 엄청 막혔어요."),
 (D_, "¿Retraso? Son las nueve y cuarto. Para Miami, eso es puntualidad británica, chico.", "늦었다고요? 9시 15분이에요. 마이애미에선 이 정도면 영국식 칼같은 시간이에요."),
@@ -17,7 +17,7 @@ D = [
 (None, "Yusimí desaparece detrás de un mostrador. Daniel los guía por los pasillos: baños montados, cocinas de exposición, suelos de madera que no son de madera.", "유시미가 카운터 뒤로 사라진다. 대니얼이 두 사람을 통로로 안내한다. 꾸며 놓은 욕실, 전시용 주방, 나무가 아닌 나무 바닥들."),
 (D_, "Mira, Lucas. Aquí entran tres tipos de clientes: los contractors, los designers y la gente normal que está remodelando la casa.", "봐요, 루카스. 여기 오는 손님은 세 종류예요. 시공업자, 디자이너, 그리고 집을 리모델링하는 보통 사람들."),
 (L, "¿Y qué es lo primero que preguntan?", "그 사람들이 제일 먼저 묻는 건 뭐예요?"),
-(D_, "El precio. Pero no por metro, ¿eh? Aquí todo va por pie cuadrado. Si tú le dices «metro cuadrado» a un cliente, te mira como si le hablaras en chino.", "가격이요. 그런데 미터 단위가 아니에요, 알죠? 여기선 전부 평방피트 단위예요. 손님한테 '제곱미터'라고 하면 중국어라도 들은 것처럼 쳐다봐요."),
+(D_, "El precio. Pero no por metro, ¿eh? Ya lo viste el martes en la obra: aquí todo va por pie cuadrado. Si tú le dices «metro cuadrado» a un cliente, te mira como si le hablaras en chino.", "가격이요. 그런데 미터 단위가 아니에요, 알죠? 화요일에 현장에서 봤잖아요. 여기선 전부 평방피트 단위예요. 손님한테 '제곱미터'라고 하면 중국어라도 들은 것처럼 쳐다봐요."),
 (L, "Un metro cuadrado equivale a diez coma setenta y seis pies cuadrados, ¿no?", "1제곱미터가 10.76평방피트죠?"),
 (D_, "¡Eso! Ya estás chequeando los números. Entonces, si una losa sale a quince dólares el metro, ¿a cuánto sale el pie?", "그거예요! 벌써 숫자를 체크하고 있네. 그럼 타일이 제곱미터당 15달러면, 평방피트당은 얼마예요?"),
 (L, "Quince dividido entre diez coma setenta y seis... Un dólar con cuarenta, más o menos.", "15를 10.76으로 나누면… 대략 1달러 40센트요."),
@@ -133,7 +133,7 @@ D = [
 (L, "El lunes, entonces. Llevaremos las tres versiones.", "그럼 월요일에요. 세 가지 버전을 다 가져갈게요."),
 (GA, "Y una cosa más: no le digan a mi papá que se lo dije yo primero. (sonríe) A él le gusta dar las malas noticias en persona.", "그리고 하나 더. 제가 먼저 말했다고 아빠한테는 말하지 마세요. (미소 지으며) 아빠는 나쁜 소식을 직접 전하는 걸 좋아하거든요."),
 (None, "Gaby se aleja hacia su coche. Lucas y Amparo se quedan un momento junto al suyo, sin abrir la puerta, mirando la caja de muestras.", "가비가 자기 차 쪽으로 멀어진다. 루카스와 암파로는 문도 열지 않은 채 잠시 차 옆에 서서 샘플 상자를 바라본다."),
-(L, "Cero coma cuarenta y dos. ¿Pasará el pulido?", "0.42. 폴리싱이 통과할까요?"),
+(L, "Cero coma cuarenta y dos. ¿Pasará el semipulido? Es el favorito de Daniel.", "0.42. 반광택이 통과할까요? 대니얼이 제일 좋아하는 건데."),
 (A, "Mojado, no lo creo. El mate, seguramente. Pero aquí «seguramente» no vale. Vale el papel del laboratorio.", "젖은 상태로는 안 될 것 같아요. 매트는 아마 될 거고요. 그런데 여기선 '아마'는 안 통해요. 시험소 종이만 통하죠."),
 (L, "Entonces el lunes sabremos si el «Blanco Biscayne» existe o solo es un nombre bonito.", "그럼 월요일에 '블랑코 비스케인'이 진짜 있는 건지, 그냥 예쁜 이름일 뿐인지 알게 되겠네요."),
 ]
@@ -232,4 +232,4 @@ META = dict(part=3, ep=32, lang="es", series="Cerámicas Albalat",
        ("학습 포인트", "단위 변환 표현, superior/inferior a, 영어 차용과 calco, 카리브식 의문문, 형용사의 위치")],
  place="", chars="", topic="", focus="",
  levelmix="A2 10% / B1 35% / B2 40% / C1 15% 목표",
- next="제33화 « Normas y resbalones » — 월요일 아침, 메들리의 시험소. 콜롬비아 출신 기술자 파트리시아 오초아가 타일에 물을 붓고 기계를 올린다. 화면에 뜬 숫자는 0.28. 기준은 0.42다. 암파로는 온다의 마리벨에게 전화를 건다.")
+ next="제33화 « Normas y resbalones » — 월요일 아침, 메들리의 시험소. 콜롬비아 출신 기술자 파트리시아 오초아가 타일에 물을 붓고 기계를 올린다. 화면에 뜬 숫자는 0.36. 기준은 0.42다. 암파로는 온다의 마리벨에게 전화를 건다.")
