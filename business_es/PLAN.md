@@ -104,19 +104,19 @@
 *외지인의 첫 두 달. 공장의 언어를 배우고, 첫 해외 문의를 잡기 위해 사내를 설득한다.*
 
 1. Primer día — 첫 출근 ✅
-2. El idioma de la fábrica — 공장의 언어
-3. Amparo — 대표의 딸
-4. En el coche de Ramón — 라몬의 차 안에서 (은행 가는 길의 재무 브리핑)
-5. Videollamada con Monterrey — 몬테레이와의 화상 통화
-6. Muestras que viajan — 여행하는 샘플
-7. La Magdalena — 카스테욘 축제의 밤, 비공식 대화
-8. El catálogo de 2009 — 낡은 카탈로그
-9. Precio puesto en destino — 도착지 기준 가격 (인코텀즈)
-10. Amparo dice no — 암파로의 반대
-11. Sobremesa en casa de Vicente — 대표 집에서의 일요일 점심
-12. La oferta de Alejandra — 알레한드라의 독점 제안
-13. Billete de ida — 편도 항공권 (루카스와 암파로, 함께 멕시코로)
-14. Aeropuerto de Manises — 마니세스 공항 *(클리프행어: 알레한드라가 이탈리아 업체와 가계약을 맺었다는 메일)*
+2. El idioma de la fábrica — 공장의 언어 ✅
+3. Amparo — 대표의 딸 ✅
+4. En el coche de Ramón — 라몬의 차 안에서 (은행 가는 길의 재무 브리핑) ✅
+5. Videollamada con Monterrey — 몬테레이와의 화상 통화 ✅
+6. Muestras que viajan — 여행하는 샘플 ✅
+7. La Magdalena — 카스테욘 축제의 밤, 비공식 대화 ✅
+8. El catálogo de 2009 — 낡은 카탈로그 ✅
+9. Precio puesto en destino — 도착지 기준 가격 (인코텀즈) ✅
+10. Amparo dice no — 암파로의 반대 ✅
+11. Sobremesa en casa de Vicente — 대표 집에서의 일요일 점심 ✅
+12. La oferta de Alejandra — 알레한드라의 독점 제안 ✅
+13. Billete de ida — 편도 항공권 (루카스와 암파로, 함께 멕시코로) ✅
+14. Aeropuerto de Manises — 마니세스 공항 ✅ *(클리프행어: 알레한드라가 이탈리아 업체와 가계약을 맺었다는 메일)*
 
 ### 제2부. Mismo idioma, otro país (같은 언어, 다른 나라) — 15~28화
 *멕시코와 콜롬비아. 말은 통하는데 일은 안 통한다.*
