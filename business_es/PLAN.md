@@ -139,20 +139,20 @@
 ### 제3부. El sueño americano (아메리칸 드림) — 29~42화
 *마이애미와 텍사스. 히스패닉 시장, 대형 유통, 미국식 속도.*
 
-29. Miami, treinta y cinco grados — 마이애미, 35도
-30. Daniel Ruiz-Walker — 쿠바계 유통업자
-31. Spanglish en la mesa — 식탁 위의 스팽글리시
-32. El showroom de Doral — 도랄의 쇼룸
-33. Normas y resbalones — 미국 규격과 미끄럼 저항 시험
-34. ¿Volumen o margen? — 물량이냐 마진이냐
-35. Texas: Sandra Villarreal — 텍사스의 산드라
-36. Casas en serie — 분양 주택 단지
-37. La gran cadena — 대형 체인 바이어 미팅
-38. Rumores de aranceles — 관세 소문
-39. Solo en Houston — 휴스턴에 홀로
-40. La contraoferta — 역제안
-41. Vicente cruza el Atlántico — 대표가 대서양을 건너다
-42. Un sobre de Riad — 리야드에서 온 봉투 *(클리프행어: 3주 안에 마감되는 사우디 메가프로젝트 입찰 초청)*
+29. Miami, treinta y cinco grados — 마이애미, 35도 ✅
+30. Daniel Ruiz-Walker — 쿠바계 유통업자 ✅
+31. Spanglish en la mesa — 식탁 위의 스팽글리시 ✅
+32. El showroom de Doral — 도랄의 쇼룸 ✅
+33. Normas y resbalones — 미국 규격과 미끄럼 저항 시험 ✅
+34. ¿Volumen o margen? — 물량이냐 마진이냐 ✅
+35. Texas: Sandra Villarreal — 텍사스의 산드라 ✅
+36. Casas en serie — 분양 주택 단지 ✅
+37. La gran cadena — 대형 체인 바이어 미팅 ✅
+38. Rumores de aranceles — 관세 소문 ✅
+39. Solo en Houston — 휴스턴에 홀로 ✅
+40. La contraoferta — 역제안 ✅
+41. Vicente cruza el Atlántico — 대표가 대서양을 건너다 ✅
+42. Un sobre de Riad — 리야드에서 온 봉투 ✅ *(클리프행어: 3주 안에 마감되는 사우디 메가프로젝트 입찰 초청)*
 
 ### 제4부. Arena y porcelánico (모래와 자기질 타일) — 43~56화
 *사우디 메가프로젝트 입찰. 공장의 한계와 루카스의 리더십이 시험대에 오른다.*
