@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # (speaker, spanish, korean); speaker None => stage direction, "#" => scene heading (neither is a turn)
-L, A, B, V = "Lucas", "Amparo", "Beto", "Vicente"
+L, A, B, V = "Lucas", "Amparo", "Rolo", "Vicente"
 D = [
 ("#", "Escena 1 · 21:30 · Azotea del hotel, San Pedro Garza García", "장면 1 · 오후 9시 30분 · 산페드로 가르사 가르시아, 호텔 옥상"),
 (None, "Sábado 26 de abril. Abajo, las luces de la avenida; enfrente, la silueta oscura del Cerro de la Silla. Todavía hace veintiocho grados. Lucas está solo en la barra, con una cerveza sin empezar.", "4월 26일 토요일. 아래로는 대로의 불빛, 정면에는 세로 데 라 시야의 어두운 실루엣. 아직도 28도다. 루카스가 바에 혼자 앉아 있다. 맥주에는 손도 대지 않았다."),
@@ -22,7 +22,7 @@ D = [
 (B, "Agua mineral, señorita. Aquí le decimos así. Agua mineral de Monterrey, la mejor del mundo. Ahorita se la traigo.", "아과 미네랄이요, 아가씨. 여기선 그렇게 불러요. 몬테레이 탄산수, 세계 최고죠. 금방 갖다 드릴게요."),
 (A, "(se sienta, mirando el cerro) ¿Ahorita de verdad o ahorita de Monterrey?", "(산을 바라보며 앉는다) 진짜 '금방'이에요, 몬테레이식 '금방'이에요?"),
 (B, "Ahorita de bar, señorita. Ese sí es rápido.", "바의 '금방'이요, 아가씨. 그건 진짜 빨라요."),
-(None, "Beto se aleja. Silencio.", "베토가 자리를 뜬다. 침묵."),
+(None, "Rolo se aleja. Silencio.", "롤로가 자리를 뜬다. 침묵."),
 (L, "Amparo, antes de que digas nada, quiero pedirte disculpas. Por Bogotá.", "암파로, 당신이 뭐라고 하기 전에 사과하고 싶어요. 보고타 일이요."),
 (A, "¿Por ir a Bogotá?", "보고타에 간 거요?"),
 (L, "No. Por no contártelo. Por dejar que te enteraras delante de Alejandra.", "아뇨. 말하지 않은 거요. 알레한드라 앞에서 알게 만든 거요."),
@@ -68,7 +68,7 @@ D = [
 (A, "Te lo merecías.", "그럴 만했어요."),
 
 ("#", "Escena 2 · 22:40 · La misma azotea (6:40 en Onda)", "장면 2 · 오후 10시 40분 · 같은 옥상 (온다 오전 6시 40분)"),
-(None, "En la otra punta de la azotea, un grupo de ejecutivos celebra algo. Beto pone música norteña muy bajita. Vibra el móvil de Amparo. En la pantalla: «Papá».", "옥상 반대편 끝에서 한 무리의 직장인들이 뭔가를 축하하고 있다. 베토가 노르테냐 음악을 아주 작게 튼다. 암파로의 휴대폰이 진동한다. 화면에 '아빠'."),
+(None, "En la otra punta de la azotea, un grupo de ejecutivos celebra algo. Rolo pone música norteña muy bajita. Vibra el móvil de Amparo. En la pantalla: «Papá».", "옥상 반대편 끝에서 한 무리의 직장인들이 뭔가를 축하하고 있다. 롤로가 노르테냐 음악을 아주 작게 튼다. 암파로의 휴대폰이 진동한다. 화면에 '아빠'."),
 (A, "Es mi padre. Allí son casi las siete de la mañana. (contesta y pone el altavoz) Hola, papá. ¿Ya estás despierto?", "아빠예요. 거긴 아침 7시가 다 됐을 텐데. (전화를 받아 스피커로 돌린다) 아빠. 벌써 일어났어요?"),
 (V, "Despierto desde las cinco. A mi edad, se duerme poco. ¿Está Lucas contigo?", "5시부터 깨어 있었다. 이 나이엔 잠이 없어. 루카스 같이 있니?"),
 (L, "Aquí estoy, Vicente. Buenos días.", "여기 있어요, 비센테. 좋은 아침이에요."),
@@ -90,13 +90,13 @@ D = [
 (A, "¿Eso es una promesa de consultor?", "그거 컨설턴트식 약속이에요?"),
 (L, "Es una promesa de alguien que ya hizo ese Excel una vez y no quiere hacerlo otra.", "그 엑셀을 한 번 만들어 봤고, 다시는 만들고 싶지 않은 사람의 약속이에요."),
 (B, "Perdón que me meta, joven. ¿Ya hicieron las paces?", "끼어들어서 죄송한데요, 손님. 화해하셨어요?"),
-(A, "(sonríe) Casi, Beto. Estamos negociando.", "(미소 지으며) 거의요, 베토. 협상 중이에요."),
+(A, "(sonríe) Casi, Rolo. Estamos negociando.", "(미소 지으며) 거의요, 롤로. 협상 중이에요."),
 (B, "Ah, eso aquí es deporte nacional. ¿Les traigo algo para cerrar el trato? Tengo un mezcal de Oaxaca que hace milagros.", "아, 그건 여기 국민 스포츠죠. 거래 마무리용으로 뭐 좀 갖다 드릴까요? 기적을 부르는 오악사카 메스칼이 있어요."),
 (L, "¿Mezcal? ¿Ese no es el que lleva un gusano?", "메스칼이요? 그거 벌레 들어 있는 거 아니에요?"),
 (B, "Eso dicen los gringos. El bueno no lleva gusano, joven. Lleva paciencia.", "그건 미국 사람들 얘기고요. 좋은 건 벌레가 아니라 인내가 들어 있어요, 손님."),
 (A, "Dos, por favor. Pequeños.", "두 잔 주세요. 작은 걸로요."),
 (B, "Pequeños, pero de los buenos. Ahorita.", "작지만 좋은 걸로요. 금방 갑니다."),
-(None, "Beto sirve dos copitas, con rodajas de naranja y un platito de sal rojiza.", "베토가 오렌지 조각과 붉은 소금 한 접시를 곁들여 작은 잔 두 개를 내놓는다."),
+(None, "Rolo sirve dos copitas, con rodajas de naranja y un platito de sal rojiza.", "롤로가 오렌지 조각과 붉은 소금 한 접시를 곁들여 작은 잔 두 개를 내놓는다."),
 (L, "(señala la sal) ¿Y esto?", "(소금을 가리키며) 이건요?"),
 (B, "Sal de gusano. Ese sí va aparte. (se ríe y se aleja)", "벌레 소금이요. 벌레는 그쪽에 따로 들어 있어요. (웃으며 자리를 뜬다)"),
 (A, "(riendo) Bienvenido a México, licenciado.", "(웃으며) 멕시코에 온 걸 환영해요, 선생님."),
@@ -106,7 +106,7 @@ D = [
 (A, "Eso está mejor.", "그게 낫네요."),
 
 ("#", "Escena 3 · 0:15 · La azotea, casi vacía", "장면 3 · 오전 0시 15분 · 거의 텅 빈 옥상"),
-(None, "Los ejecutivos se han ido. Beto recoge vasos. Sobre la barra, el borrador del contrato con los comentarios en rojo de Ramón, que Amparo ha sacado del bolso.", "직장인들은 떠났다. 베토가 잔을 치운다. 바 위에는 암파로가 가방에서 꺼낸 계약서 초안이 놓여 있다. 라몬의 빨간 메모가 가득하다."),
+(None, "Los ejecutivos se han ido. Rolo recoge vasos. Sobre la barra, el borrador del contrato con los comentarios en rojo de Ramón, que Amparo ha sacado del bolso.", "직장인들은 떠났다. 롤로가 잔을 치운다. 바 위에는 암파로가 가방에서 꺼낸 계약서 초안이 놓여 있다. 라몬의 빨간 메모가 가득하다."),
 (A, "Antes de irnos, quiero decirte algo yo también. Te pido perdón por lo del aparcamiento. Te hablé como si fueras mi empleado.", "가기 전에 나도 할 말이 있어요. 주차장에서 일 미안해요. 당신을 내 직원처럼 대했어요."),
 (L, "Me hablaste como alguien que tenía razón.", "옳은 말을 하는 사람처럼 말했죠."),
 (A, "Ya estamos otra vez dándome la razón.", "또 내가 맞다고 하네요."),
@@ -133,14 +133,14 @@ D = [
 (B, "¡Eso es! Así se cierran los tratos en Monterrey, joven. Con la mano y sin abogado.", "그렇죠! 몬테레이에선 거래를 그렇게 맺어요, 손님. 변호사 없이 악수로."),
 (L, "Mejor no se lo diga al licenciado Treviño. El lunes nos espera con el contrato definitivo.", "트레비뇨 변호사님한테는 말하지 마세요. 월요일에 최종 계약서 들고 기다리고 계시니까요."),
 (B, "Mis labios están sellados. Que les vaya bonito el lunes.", "입 꾹 다물게요. 월요일 잘 되시길 바라요."),
-(A, "Gracias, Beto. Buenas noches.", "고마워요, 베토. 안녕히 주무세요."),
+(A, "Gracias, Rolo. Buenas noches.", "고마워요, 롤로. 안녕히 주무세요."),
 (L, "(mirando el cerro una última vez) Buenas noches, Cerro de la Silla. Nos vemos el lunes.", "(마지막으로 산을 바라보며) 잘 자, 세로 데 라 시야. 월요일에 보자."),
 (None, "Bajan en el ascensor sin hablar. Esta vez, el silencio es cómodo. En el bolso de Amparo, el borrador lleno de rojo. En la cartera de Lucas, el trozo de baldosa de 1958.", "두 사람은 말없이 엘리베이터로 내려간다. 이번 침묵은 편안하다. 암파로의 가방에는 빨간 메모로 가득한 초안이, 루카스의 서류 가방에는 1958년 타일 조각이 들어 있다."),
 ]
 
 PRE = [
 ("text", "장면 미리보기", "대화문을 읽기 전에 줄거리를 확인하고, 아래 질문의 답을 찾으며 읽어 보세요.", [
- "목요일 주차장에서의 다툼 이후 이틀. 토요일 밤, 루카스는 호텔 옥상 바에서 암파로를 기다린다. 올지 안 올지 모른다. 바텐더 베토는 몬테레이식 충고를 건넨다. '돌려 말하지 말고 사과하세요.' 세로 데 라 시야를 마주하고, 두 사람은 처음으로 하고 싶은 말을 다 한다. 보고타 일의 진짜 상처, 루카스가 마드리드를 떠난 이유, 그리고 암파로가 공항에서 털어놓았던 아버지의 비밀. 새벽 6시 40분의 온다에서 걸려 온 비센테의 전화가 대화를 한 번 더 흔든다. 월요일 서명 전에 풀어야 할 것은 계약서가 아니었다.",
+ "목요일 주차장에서의 다툼 이후 이틀. 토요일 밤, 루카스는 호텔 옥상 바에서 암파로를 기다린다. 올지 안 올지 모른다. 바텐더 롤로는 몬테레이식 충고를 건넨다. '돌려 말하지 말고 사과하세요.' 세로 데 라 시야를 마주하고, 두 사람은 처음으로 하고 싶은 말을 다 한다. 보고타 일의 진짜 상처, 루카스가 마드리드를 떠난 이유, 그리고 암파로가 공항에서 털어놓았던 아버지의 비밀. 새벽 6시 40분의 온다에서 걸려 온 비센테의 전화가 대화를 한 번 더 흔든다. 월요일 서명 전에 풀어야 할 것은 계약서가 아니었다.",
  "듣기 질문 ① 루카스가 마드리드의 컨설팅 회사를 떠난 이유는?",
  "듣기 질문 ② 암파로가 목요일에 그렇게까지 화가 났던 진짜 이유는?",
  "듣기 질문 ③ 루카스가 제안한 '규칙'과 암파로가 붙인 조건은?",
@@ -148,7 +148,7 @@ PRE = [
 ]
 
 SECTIONS = [
-("table", "스페인 vs 멕시코 표현 비교", "옥상 바의 바텐더 베토는 몬테레이 토박이입니다. 밤의 구어 표현을 비교해 봅시다.",
+("table", "스페인 vs 멕시코 표현 비교", "옥상 바의 바텐더 롤로는 몬테레이 토박이입니다. 밤의 구어 표현을 비교해 봅시다.",
  ["상황","스페인","멕시코","메모"], [
  ("맥주", "una caña / una cerveza", "una chela", "« ¿Otra chela, joven? » 비격식 구어"),
  ("실수하다, 사고 치다", "meter la pata / cagarla(속어)", "regarla", "« ¿La regó? » 루카스도 따라 한다: « La regué. »"),
@@ -226,7 +226,7 @@ META = dict(part=2, ep=25, lang="es", series="Cerámicas Albalat",
  next_label="다음 화 예고 · Próximo episodio",
  info=[("여정", "제2부 · 몬테레이 — 라이벌에서 동료로"),
        ("장면", "① 21:30 호텔 옥상 바 → ② 22:40 같은 곳, 비센테의 전화 (온다 오전 6:40) → ③ 0:15 문 닫기 직전 (4월 26일 토요일)"),
-       ("등장인물", "Lucas Ferrer (수출 책임자) · Amparo Albalat (국내영업 책임자) · Beto (옥상 바 바텐더) · Vicente Albalat (대표, 전화)"),
+       ("등장인물", "Lucas Ferrer (수출 책임자) · Amparo Albalat (국내영업 책임자) · Rolo (옥상 바 바텐더) · Vicente Albalat (대표, 전화)"),
        ("비즈니스 주제", "팀 안의 신뢰 회복, 정보 공유 규칙, 가족 기업 매각의 그림자, 공동 책임의 분담"),
        ("학습 포인트", "si + 접속법 과거완료 → 조건법 완료, ojalá + 접속법 과거, 감정 동사의 과거, 사과·인정 표현, 상호 재귀")],
  place="", chars="", topic="", focus="",
