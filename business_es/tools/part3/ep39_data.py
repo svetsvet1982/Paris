@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # (speaker, spanish, korean); speaker None => stage direction, "#" => scene heading (neither is a turn)
-L, Y, S, A, X = "Lucas", "Roy", "Sandra", "Amparo", "Lalo"
+L, Y, S, A, X = "Lucas", "Roy", "Sandra", "Amparo", "Neto"
 D = [
 ("#", "Escena 1 · Martes 1 · 8:55 · Lone Oak Homes, oficina central, Houston", "장면 1 · 1일 화요일 · 오전 8시 55분 · 휴스턴, 론오크 홈스 본사"),
 (None, "Martes 1 de septiembre. Treinta y tres grados a las nueve de la mañana y una humedad que pega la camisa a la espalda. Sandra ha venido desde San Antonio en su troca: tres horas de carretera. Espera a Lucas en el vestíbulo.", "9월 1일 화요일. 아침 9시인데 33도, 셔츠가 등에 달라붙는 습도. 산드라는 샌안토니오에서 픽업트럭을 몰고 왔다. 세 시간 운전. 로비에서 루카스를 기다린다."),
@@ -19,7 +19,7 @@ D = [
 (Y, "Lo leí, Sandra. Menos roturas no pagan un arancel.", "읽었어요, 산드라. 덜 깨진다고 관세가 해결되진 않아요."),
 (L, "¿Puedo enseñarle las cifras?", "숫자를 보여 드려도 될까요?"),
 (Y, "Para eso vino.", "그러려고 온 거잖아요."),
-(L, "Página uno: precio puesto en su almacén de Houston, un dólar con setenta el pie cuadrado. Página dos: su proveedor actual, según Sandra, un dólar con sesenta y cinco.", "첫 장: 휴스턴 창고 도착 가격, 평방피트당 1달러 70센트. 둘째 장: 산드라 말로는 지금 공급업체가 1달러 65센트."),
+(L, "Página uno: precio puesto en su almacén de Houston, un dólar con noventa el pie cuadrado. Página dos: su proveedor actual, según Sandra, un dólar con ochenta y cinco.", "첫 장: 휴스턴 창고 도착 가격, 평방피트당 1달러 90센트. 둘째 장: 산드라 말로는 지금 공급업체가 1달러 85센트."),
 (Y, "Más caro.", "더 비싸네요."),
 (L, "Cinco centavos más caro. Y con un tres por ciento menos de roturas. Página tres: lo que le cuesta cada pieza rota, con mano de obra incluida.", "5센트 비싸죠. 그리고 파손율은 3% 낮고요. 셋째 장: 깨진 타일 한 장이 인건비까지 포함해 얼마를 잡아먹는지요."),
 (Y, "(hojea) ¿Quién hizo esto?", "(넘겨 보며) 이거 누가 만들었어요?"),
@@ -46,7 +46,7 @@ D = [
 (Y, "Sandra, acompáñalo.", "산드라, 배웅해 드려."),
 
 ("#", "Escena 2 · Martes 1 · 22:10 · Bar del hotel, Houston", "장면 2 · 1일 화요일 · 오후 10시 10분 · 휴스턴, 호텔 바"),
-(None, "Un hotel de negocios junto a la autopista. Lucas cena una hamburguesa en la barra. El bartender, Lalo, lleva una camiseta de los Astros.", "고속도로 옆 비즈니스호텔. 루카스가 바에서 햄버거로 저녁을 먹는다. 바텐더 랄로는 애스트로스 티셔츠를 입고 있다."),
+(None, "Un hotel de negocios junto a la autopista. Lucas cena una hamburguesa en la barra. El bartender, Neto, lleva una camiseta de los Astros.", "고속도로 옆 비즈니스호텔. 루카스가 바에서 햄버거로 저녁을 먹는다. 바텐더 네토는 애스트로스 티셔츠를 입고 있다."),
 (X, "¿Otra, compa? Esa ya se quedó sin hielo.", "한 잔 더 할래요, 친구? 그건 얼음이 다 녹았는데."),
 (L, "No, gracias. ¿Siempre hace este calor en septiembre?", "아뇨, 괜찮아요. 9월엔 늘 이렇게 더워요?"),
 (X, "Esto es fresco. En agosto se derrite la troca. ¿De dónde es usted?", "이 정도면 선선한 거예요. 8월엔 트럭이 녹아요. 어디서 왔어요?"),
@@ -151,7 +151,7 @@ PRE = [
 ]
 
 SECTIONS = [
-("table", "스페인 vs 텍사스 표현 비교", "휴스턴의 로이, 샌안토니오의 산드라, 호텔 바의 랄로는 텍사스 멕시코계 스페인어(Tex-Mex)를 씁니다.",
+("table", "스페인 vs 텍사스 표현 비교", "휴스턴의 로이, 샌안토니오의 산드라, 호텔 바의 네토는 텍사스 멕시코계 스페인어(Tex-Mex)를 씁니다.",
  ["상황","스페인","텍사스","메모"], [
  ("픽업트럭", "la camioneta / la furgoneta", "la troca", "영어 truck에서. « Sandra abre la troca. »"),
  ("주차하다", "aparcar", "parquear", "영어 park에서. « Empezó parqueando trocas. »"),
@@ -230,7 +230,7 @@ META = dict(part=3, ep=39, lang="es", series="Cerámicas Albalat",
  next_label="다음 화 예고 · Próximo episodio",
  info=[("여정", "제3부 · 휴스턴 — 혼자 앉은 첫 협상 테이블"),
        ("장면", "① 9월 1일 화 8:55 론오크 홈스 본사, 로이의 사무실 → ② 같은 날 22:10 호텔 바, 이어서 암파로와 화상 통화 (온다 5:40) → ③ 9월 2일 수 16:20 본사 주차장, 산드라의 트럭 → ④ 9월 3일 목 9:00 로이의 사무실 (온다 16:00 통화)"),
-       ("등장인물", "Lucas Ferrer (수출 책임자) · Roy Delgado (론오크 홈스 구매 부사장) · Sandra Villarreal (론오크 홈스 구매 담당) · Amparo Albalat (국내영업 책임자, 화상·전화) · Lalo (호텔 바텐더)"),
+       ("등장인물", "Lucas Ferrer (수출 책임자) · Roy Delgado (론오크 홈스 구매 부사장) · Sandra Villarreal (론오크 홈스 구매 담당) · Amparo Albalat (국내영업 책임자, 화상·전화) · Neto (호텔 바텐더)"),
        ("비즈니스 주제", "가격 고정 기간과 관세 변동 조항, 숫자 대신 보장으로 협상하기, 안전 재고, 양방향 가격 재검토, 혼자 하는 협상과 파트너와의 사전 상의"),
        ("학습 포인트", "llevar / hace … que 시간 경과, echar de menos · sentirse · sentar bien, 혼합 가정문, pase lo que pase, 전보 문체")],
  place="", chars="", topic="", focus="",
