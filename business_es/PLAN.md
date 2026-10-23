@@ -121,20 +121,20 @@
 ### 제2부. Mismo idioma, otro país (같은 언어, 다른 나라) — 15~28화
 *멕시코와 콜롬비아. 말은 통하는데 일은 안 통한다.*
 
-15. Llegada a Monterrey — 몬테레이 도착
-16. «Ahorita» — '아오리타'의 시간
-17. Una comida que dura toda la tarde — 오후 내내 이어지는 점심
-18. El licenciado Treviño — 트레비뇨 변호사
-19. Visita a obra en San Pedro — 산페드로 공사 현장 방문
-20. Los italianos — 이탈리아 경쟁사
-21. Aranceles y pedimentos — 관세와 수입 신고서
-22. Una palabra que no se dice — 멕시코에서 하면 안 되는 말 (어휘 오해 사건)
-23. Escala en Bogotá — 예정에 없던 보고타 경유
-24. Exclusividad, sí, pero... — 독점권은 좋지만…
-25. Amparo y Lucas, a solas — 둘만의 밤 (라이벌에서 동료로)
-26. Firma en Monterrey — 몬테레이에서의 서명
-27. El primer contenedor — 첫 컨테이너
-28. Huracán en el Golfo — 멕시코만의 허리케인 *(클리프행어: 베라크루스 항에 묶인 컨테이너, 그리고 마이애미에서 걸려 온 전화)*
+15. Llegada a Monterrey — 몬테레이 도착 ✅
+16. «Ahorita» — '아오리타'의 시간 ✅
+17. Una comida que dura toda la tarde — 오후 내내 이어지는 점심 ✅
+18. El licenciado Treviño — 트레비뇨 변호사 ✅
+19. Visita a obra en San Pedro — 산페드로 공사 현장 방문 ✅
+20. Los italianos — 이탈리아 경쟁사 ✅
+21. Aranceles y pedimentos — 관세와 수입 신고서 ✅
+22. Una palabra que no se dice — 멕시코에서 하면 안 되는 말 (어휘 오해 사건) ✅
+23. Escala en Bogotá — 예정에 없던 보고타 경유 ✅
+24. Exclusividad, sí, pero... — 독점권은 좋지만… ✅
+25. Amparo y Lucas, a solas — 둘만의 밤 (라이벌에서 동료로) ✅
+26. Firma en Monterrey — 몬테레이에서의 서명 ✅
+27. El primer contenedor — 첫 컨테이너 ✅
+28. Huracán en el Golfo — 멕시코만의 허리케인 ✅ *(클리프행어: 베라크루스 항에 묶인 컨테이너, 그리고 마이애미에서 걸려 온 전화)*
 
 ### 제3부. El sueño americano (아메리칸 드림) — 29~42화
 *마이애미와 텍사스. 히스패닉 시장, 대형 유통, 미국식 속도.*
