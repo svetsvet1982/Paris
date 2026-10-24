@@ -157,20 +157,20 @@
 ### 제4부. Arena y porcelánico (모래와 자기질 타일) — 43~56화
 *사우디 메가프로젝트 입찰. 공장의 한계와 루카스의 리더십이 시험대에 오른다.*
 
-43. El pliego de condiciones — 입찰 사양서
-44. Tres semanas — 3주
-45. El consorcio español — 스페인 컨소시엄
-46. Llegada a Riad — 리야드 도착
-47. Faisal Al-Harbi — 파이살 알하르비
-48. Café, dátiles y paciencia — 커피, 대추야자, 그리고 인내
-49. La certificación — 현지 인증
-50. Gran formato a cincuenta grados — 50도에서의 대형 슬래브
-51. La fábrica no da abasto — 공장이 감당하지 못한다
-52. Pepe dice basta — 페페의 반발 (3번 가마 재가동 논쟁)
-53. El precio final — 최종 가격
-54. Ramadán — 라마단의 시간표
-55. Adjudicación — 낙찰 발표
-56. Una llamada de Seúl — 서울에서 온 전화 *(클리프행어: 일부 낙찰의 기쁨 속에, 한국 바이어 김민서가 대형 제안을 들고 온다)*
+43. El pliego de condiciones — 입찰 사양서 ✅
+44. Tres semanas — 3주 ✅
+45. El consorcio español — 스페인 컨소시엄 ✅
+46. Llegada a Riad — 리야드 도착 ✅
+47. Faisal Al-Harbi — 파이살 알하르비 ✅
+48. Café, dátiles y paciencia — 커피, 대추야자, 그리고 인내 ✅
+49. La certificación — 현지 인증 ✅
+50. Gran formato a cincuenta grados — 50도에서의 대형 슬래브 ✅
+51. La fábrica no da abasto — 공장이 감당하지 못한다 ✅
+52. Pepe dice basta — 페페의 반발 (3번 가마 재가동 논쟁) ✅
+53. El precio final — 최종 가격 ✅
+54. Ramadán — 라마단의 시간표 ✅
+55. Adjudicación — 낙찰 발표 ✅
+56. Una llamada de Seúl — 서울에서 온 전화 ✅ *(클리프행어: 일부 낙찰의 기쁨 속에, 한국 바이어 김민서가 대형 제안을 들고 온다)*
 
 ### 제5부. Vuelta a casa (귀환) — 57~70화
 *서울과 아시아, 그리고 온다로의 귀환. 외지인이었던 루카스가 회사의 다음 세대를 결정한다.*
