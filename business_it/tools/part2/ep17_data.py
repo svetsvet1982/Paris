@@ -115,7 +115,7 @@ D = [
 (M, "E a Seul, come le pronunceranno?", "근데 서울에선 어떻게 발음할까?"),
 (C, "Male, come noi pronunciamo i loro nomi. È giusto così.", "엉터리로 하겠지, 우리가 그쪽 이름을 그렇게 하듯이. 그게 공평해."),
 (M, "E le altre sette?", "나머지 일곱 개는?"),
-(C, "« Greve », « Mosciano », « Giogoli », « Torri », « Ponte », « Olmo » e « Lastra ». Fiumi, frazioni e strade qui intorno.", "'그레베', '모시아노', '조골리', '토리', '폰테', '올모', 그리고 '라스트라'. 이 근처 강, 마을, 길 이름들이야."),
+(C, "« Greve », « Mosciano », « Giogoli », « Torri », « Ponte » e « Olmo »: fiumi, frazioni e strade qui intorno. E la borsa a spalla resta « Scandicci », come l'ha sempre chiamata il babbo.", "'그레베', '모시아노', '조골리', '토리', '폰테', '올모'. 이 근처 강, 마을, 길 이름이야. 그리고 숄더백은 아빠가 늘 부르던 대로 '스칸디치'로 남겨 둬."),
 (M, "« Olmo »? C'è una frazione che si chiama Olmo?", "'올모'? 올모라는 마을이 있어?"),
 (C, "No. C'è l'olmo davanti alla casa del nonno. Una me la concedo.", "아니. 할아버지 집 앞에 느릅나무가 있지. 하나쯤은 나한테 허락할래."),
 (M, "Concessa. Il nonno sarebbe d'accordo.", "허락할게. 할아버지도 찬성하셨을 거야."),
