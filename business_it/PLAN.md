@@ -164,20 +164,20 @@
 
 | 화 | 제목 | 한국어 | 시점 |
 |---|---|---|---|
-| 57 | La vendemmia degli ordini | 주문의 수확철 | M |
-| 58 | Un socio da Dubai | 두바이에서 온 동업 제안 | F |
-| 59 | New York, Rebecca | 뉴욕, 레베카 | M |
-| 60 | Prato e la signora Zhou | 프라토와 저우 씨 | M |
-| 61 | La scuola di Renzo | 렌초의 공방 학교 | C |
-| 62 | Il bilancio di sostenibilità | 지속가능성 보고서 | M |
-| 63 | Il negozio in via Tornabuoni | 토르나부오니 거리의 매장 | C |
-| 64 | Il patto di famiglia | 가족 협약 | G |
-| 65 | Chi sarà il presidente? | 누가 회장이 될까 | F |
-| 66 | L'ultima borsa di Renzo | 렌초의 마지막 가방 | C |
-| 67 | La Vigilia | 크리스마스이브 | M |
-| 68 | Il pranzo di Natale | 성탄절 점심 | G |
-| 69 | Il passaggio delle chiavi | 열쇠를 넘겨주다 | M |
-| 70 | Di nuovo domenica | 다시, 일요일 | M |
+| 57 | La vendemmia degli ordini ✅ | 주문의 수확철 | M |
+| 58 | Un socio da Dubai ✅ | 두바이에서 온 동업 제안 | F |
+| 59 | New York, Rebecca ✅ | 뉴욕, 레베카 | M |
+| 60 | Prato e la signora Zhou ✅ | 프라토와 저우 씨 | M |
+| 61 | La scuola di Renzo ✅ | 렌초의 공방 학교 | C |
+| 62 | Il bilancio di sostenibilità ✅ | 지속가능성 보고서 | M |
+| 63 | Il negozio in via Tornabuoni ✅ | 토르나부오니 거리의 매장 | C |
+| 64 | Il patto di famiglia ✅ | 가족 협약 | G |
+| 65 | Chi sarà il presidente? ✅ | 누가 회장이 될까 | F |
+| 66 | L'ultima borsa di Renzo ✅ | 렌초의 마지막 가방 | C |
+| 67 | La Vigilia ✅ | 크리스마스이브 | M |
+| 68 | Il pranzo di Natale ✅ | 성탄절 점심 | G |
+| 69 | Il passaggio delle chiavi ✅ | 열쇠를 넘겨주다 | M |
+| 70 | Di nuovo domenica ✅ | 다시, 일요일 | M |
 
 수미상관: 1화 '일요일 점심'의 식탁에서 시작해 70화 '다시, 일요일'의 같은 식탁에서 끝난다. 1화에서 마테오가 '보내기' 버튼에서 손가락을 떼고 형에게 전화를 건 순간은, 70화에서 마테오 자신의 시점으로 회사 첫 해외 매출의 출발점으로 회상된다.
 
