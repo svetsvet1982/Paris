@@ -105,7 +105,7 @@ D = [
 (L, "Amparo, ¿y la obra de Marc? ¿Ya sabe el papel?", "암파로, 마르크 연극은요? 대사 다 외웠대요?"),
 (A, "Es un árbol, Lucas. No tiene texto. Solo tiene que estar quieto. Y le cuesta muchísimo.", "나무예요, 루카스. 대사가 없어요. 가만히 서 있기만 하면 돼요. 그게 엄청 어렵대요."),
 (L, "(sonríe) Que aguante, que es lo más difícil. Volviendo a lo nuestro: treinta mil al año y, si no se cumplen, se acaba. Me parece razonable.", "(웃으며) 잘 버티라고 해요, 그게 제일 어려운 거니까. 다시 우리 얘기로 돌아가면, 연 3만㎡, 못 채우면 종료. 합리적이라고 생각해요."),
-(A, "A mí también. Y una cosa más, que aprendimos en Monterrey: el diseño para Hanul. Nuria tiene una idea, «Blanco Lumière». Que sea solo para Hanul en Corea, tres años.", "저도요. 그리고 하나 더, 몬테레이에서 배운 거예요. 한울용 디자인이요. 누리아한테 'Blanco Lumière'라는 아이디어가 있어요. 한국에선 3년간 한울 전용으로 해요."),
+(A, "A mí también. Y una cosa más, que aprendimos en Monterrey: el diseño para Hanul. Nuria tiene una idea para cambiar el nombre de trabajo, «Blanco Hangang»: «Blanco Lumière». Que sea solo para Hanul en Corea, tres años.", "저도요. 그리고 하나 더, 몬테레이에서 배운 거예요. 한울용 디자인이요. 누리아가 가제 'Blanco Hangang' 대신 'Blanco Lumière'라는 아이디어를 냈어요. 한국에선 3년간 한울 전용으로 해요."),
 (K, "¿Un diseño exclusivo para Hanul? (abre mucho los ojos) Eso al director Park le va a encantar. Y a su jefe, más.", "한울 전용 디자인이요? (눈을 크게 뜨며) 박 상무님이 정말 좋아하시겠네요. 윗분은 더하고요."),
 (Y, "Es el tipo de cosa que se cuenta en la presentación a los compradores. «Un diseño que solo tiene Hanul.»", "분양 설명회에서 얘기하는 그런 거예요. '한울만 가진 디자인.'"),
 (A, "Lucas, ¿lo cerramos así? Cinco años, mínimos desde el tercero, «Blanco Lumière» tres años para Hanul.", "루카스, 이렇게 마무리할까요? 5년, 3년 차부터 최소 물량, 'Blanco Lumière'는 3년간 한울 전용."),
