@@ -66,7 +66,7 @@ D = [
 (C, "E la dogana coreana?", "한국 통관은?"),
 (M, "Hye-rin ha già i documenti. Le etichette coreane le rileggo io una per una, stasera, come ho promesso a Seul.", "혜린 씨가 서류를 이미 갖고 있어. 한국어 라벨은 오늘 저녁 내가 하나씩 다시 읽을게. 서울에서 약속한 대로."),
 (C, "Quanto costa l'aereo?", "비행기는 얼마야?"),
-(M, "Milleottocento euro. Metà la paga la signora Kim, come avevamo deciso ad agosto. Con la nave sarebbero stati trecento.", "1,800유로. 8월에 정한 대로 절반은 김서연 대표가 내. 배였으면 300유로였을 거야."),
+(M, "Milleottocento euro. Metà la paga la signora Kim, come avevamo deciso ad agosto. Con la nave sarebbero stati trecento.", "1,800유로. 8월에 정한 대로 절반은 김 차장님이 내. 배였으면 300유로였을 거야."),
 (C, "Milleottocento... Filippo avrebbe fatto una faccia.", "1,800… 필리포가 봤으면 표정이 볼만했겠다."),
 (M, "Filippo avrebbe firmato e poi avrebbe fatto la faccia. In quest'ordine.", "필리포는 서명부터 하고 그다음에 표정을 지었겠지. 그 순서로."),
 (GI, "Mangiate, tutti e due. Il babbo dice che chi non mangia sbaglia i conti.", "드세요, 두 분 다. 아빠가 그러는데 밥 안 먹는 사람은 계산을 틀린대요."),
