@@ -107,20 +107,20 @@
 
 | 화 | 제목 | 한국어 | 시점 |
 |---|---|---|---|
-| 15 | Un nome da ripensare | 다시 생각하는 이름 | C |
-| 16 | L'agenzia di comunicazione | 홍보 대행사 | M |
-| 17 | Il servizio fotografico | 룩북 촬영 | C |
-| 18 | Lo stand al MIPEL | 미펠 부스 | M |
-| 19 | Il primo buyer | 첫 바이어 | M |
-| 20 | Un'influencer in laboratorio | 공방에 온 인플루언서 | C |
-| 21 | Il sito che non vende | 팔리지 않는 사이트 | M |
-| 22 | La sfilata degli altri | 남의 패션쇼 | C |
-| 23 | Aperitivo in Brera | 브레라의 아페리티보 | M |
-| 24 | La recensione | 리뷰 기사 | M |
-| 25 | Gli ordini che non arrivano | 오지 않는 주문 | F |
-| 26 | Litigio in autostrada | 고속도로 위의 말다툼 | M |
-| 27 | La mamma in fiera | 박람회장에 온 어머니 | G |
-| 28 | Il lancio | 런칭 | M |
+| 15 | Un nome da ripensare ✅ | 다시 생각하는 이름 | C |
+| 16 | L'agenzia di comunicazione ✅ | 홍보 대행사 | M |
+| 17 | Il servizio fotografico ✅ | 룩북 촬영 | C |
+| 18 | Lo stand al MIPEL ✅ | 미펠 부스 | M |
+| 19 | Il primo buyer ✅ | 첫 바이어 | M |
+| 20 | Un'influencer in laboratorio ✅ | 공방에 온 인플루언서 | C |
+| 21 | Il sito che non vende ✅ | 팔리지 않는 사이트 | M |
+| 22 | La sfilata degli altri ✅ | 남의 패션쇼 | C |
+| 23 | Aperitivo in Brera ✅ | 브레라의 아페리티보 | M |
+| 24 | La recensione ✅ | 리뷰 기사 | M |
+| 25 | Gli ordini che non arrivano ✅ | 오지 않는 주문 | F |
+| 26 | Litigio in autostrada ✅ | 고속도로 위의 말다툼 | M |
+| 27 | La mamma in fiera ✅ | 박람회장에 온 어머니 | G |
+| 28 | Il lancio ✅ | 런칭 | M |
 
 ### 제3부. Primavera · Seul e Tokyo — 봄: 아시아 쇼룸과 바이어 (29~42화)
 

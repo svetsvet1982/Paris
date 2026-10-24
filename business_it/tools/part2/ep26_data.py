@@ -6,7 +6,7 @@ D = [
 (None, "La Golf grigia di Filippo. Filippo guida, Matteo è seduto accanto con il portatile sulle ginocchia. Sul sedile dietro, due borse campione avvolte in un panno di flanella. Fuori piove sottile.", "필리포의 회색 골프. 필리포가 운전하고, 마테오는 조수석에서 무릎에 노트북을 올려 두었다. 뒷좌석엔 플란넬 천에 싼 샘플 가방 두 개. 밖엔 가는 비가 내린다."),
 (M, "Ci vogliono tre ore. Alle dieci e mezza siamo in via Tortona. Galbiati ci riceve alle undici.", "세 시간 걸려. 10시 반이면 토르토나 거리에 도착해. 갈비아티는 11시에 우릴 만나."),
 (F, "Se non c'è coda a Barberino. Con questa pioggia, c'è sempre coda a Barberino.", "바르베리노에서 안 막히면. 이런 비에는 바르베리노는 늘 막혀."),
-(M, "Allora parliamo di strategia, così il tempo passa. Galbiati ha ventidue marchi nel suo showroom. Se ci prende, siamo in vetrina davanti a tutti i buyer di Milano.", "그럼 전략 얘기나 하자, 시간도 갈 겸. 갈비아티 쇼룸엔 브랜드가 스물두 개 있어. 우리를 받아 주면 밀라노 바이어들 앞에서 진열되는 거야."),
+(M, "Allora parliamo di strategia, così il tempo passa. Ottavio Brambilla, quello di Brera, ha lo showroom pieno e ci ha mandati dal suo amico Galbiati. Galbiati ha ventidue marchi. Se ci prende, siamo in vetrina davanti a tutti i buyer di Milano.", "그럼 전략 얘기나 하자, 시간도 갈 겸. 브레라에서 만난 오타비오 브람빌라 씨는 쇼룸이 꽉 차서 친구 갈비아티한테 우리를 보냈어. 갈비아티 쇼룸엔 브랜드가 스물두 개 있어. 우리를 받아 주면 밀라노 바이어들 앞에서 진열되는 거야."),
 (F, "E quanto vuole, il signor Galbiati, per metterci in vetrina?", "그래서 갈비아티 씨는 우리를 진열해 주는 대가로 얼마를 원하는데?"),
 (M, "Una provvigione sulle vendite. Il quindici per cento, credo. Più un fisso a stagione.", "판매 수수료. 15%일 거야. 거기에 시즌마다 고정비."),
 (F, "Credo. Matteo, stai andando a Milano a trattare con uno di cui non conosci nemmeno il prezzo?", "'일 거야'라. 마테오, 가격도 모르는 사람이랑 협상하러 밀라노에 가는 거야?"),
