@@ -126,20 +126,20 @@
 
 | 화 | 제목 | 한국어 | 시점 |
 |---|---|---|---|
-| 29 | Il volo per Seul | 서울행 비행기 | M |
-| 30 | Al grande magazzino | 백화점에서 | M |
-| 31 | Cena coreana, regole italiane | 한국식 저녁, 이탈리아식 규칙 | M |
-| 32 | Il pop-up store | 팝업 스토어 | C |
-| 33 | Esclusiva o no? | 독점이냐 아니냐 | M |
-| 34 | Tokyo, il signor Watanabe | 도쿄, 와타나베 씨 | M |
-| 35 | Un difetto di due millimetri | 2밀리미터의 결함 | C |
-| 36 | Renzo al telefono | 전화 너머의 렌초 | C |
-| 37 | Il contratto di distribuzione | 유통 계약 | M |
-| 38 | Dazi, dogane e certificati | 관세·통관·인증 | M |
-| 39 | Filippo arriva a Seul | 서울에 온 필리포 | F |
-| 40 | Il prezzo al pubblico | 소비자 가격 | F |
-| 41 | La firma | 서명 | M |
-| 42 | Il ritorno con la valigia piena | 가득 찬 가방을 들고 귀국 | G |
+| 29 | Il volo per Seul ✅ | 서울행 비행기 | M |
+| 30 | Al grande magazzino ✅ | 백화점에서 | M |
+| 31 | Cena coreana, regole italiane ✅ | 한국식 저녁, 이탈리아식 규칙 | M |
+| 32 | Il pop-up store ✅ | 팝업 스토어 | C |
+| 33 | Esclusiva o no? ✅ | 독점이냐 아니냐 | M |
+| 34 | Tokyo, il signor Watanabe ✅ | 도쿄, 와타나베 씨 | M |
+| 35 | Un difetto di due millimetri ✅ | 2밀리미터의 결함 | C |
+| 36 | Renzo al telefono ✅ | 전화 너머의 렌초 | C |
+| 37 | Il contratto di distribuzione ✅ | 유통 계약 | M |
+| 38 | Dazi, dogane e certificati ✅ | 관세·통관·인증 | M |
+| 39 | Filippo arriva a Seul ✅ | 서울에 온 필리포 | F |
+| 40 | Il prezzo al pubblico ✅ | 소비자 가격 | F |
+| 41 | La firma ✅ | 서명 | M |
+| 42 | Il ritorno con la valigia piena ✅ | 가득 찬 가방을 들고 귀국 | G |
 
 ### 제4부. Estate · La crepa — 여름: 위조품, 가죽 수급, 가족의 파열 (43~56화)
 
