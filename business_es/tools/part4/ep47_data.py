@@ -69,7 +69,7 @@ D = [
 (F, "¿Y el dos-B?", "그럼 2B는요?"),
 (L, "El dos-B pide seis mil doscientos cincuenta al mes. Con el horno tres solo, no llegamos. No le voy a engañar.", "2B는 한 달에 6,250㎡가 필요합니다. 3호기만으로는 못 맞춥니다. 속이지 않겠습니다."),
 (F, "Pero ustedes han presentado oferta para el dos-B.", "그런데 2B에 응찰하셨지요."),
-(L, "Sí, con dos condiciones que están en la oferta. Primera: rehabilitar nuestro horno uno, parado desde hace años. El presupuesto es de ochocientos cincuenta mil euros y seis semanas de obra. Segunda: un vecino de Onda, Cerámicas Monfort, fabricaría hasta tres mil metros al mes bajo nuestro control de calidad.", "네, 응찰서에 적은 두 가지 조건으로요. 첫째, 몇 년째 멈춰 있는 1호기를 개보수하는 것입니다. 견적은 85만 유로, 공사 6주입니다. 둘째, 온다의 이웃 회사인 세라미카스 몬포르트가 저희 품질관리 아래 한 달에 최대 3천㎡를 생산합니다."),
+(L, "Sí, con dos condiciones que están en la oferta. Primera: rehabilitar nuestro horno uno, el más antiguo, que hoy trabaja a medio gas con formatos pequeños. El presupuesto es de ochocientos cincuenta mil euros y seis semanas de obra. Segunda: un vecino de Onda, Cerámicas Monfort, fabricaría hasta tres mil metros al mes bajo nuestro control de calidad.", "네, 응찰서에 적은 두 가지 조건으로요. 첫째, 지금은 소형 규격으로 절반만 돌고 있는 가장 오래된 1호기를 개보수하는 것입니다. 견적은 85만 유로, 공사 6주입니다. 둘째, 온다의 이웃 회사인 세라미카스 몬포르트가 저희 품질관리 아래 한 달에 최대 3천㎡를 생산합니다."),
 (F, "¿Y el horno uno está ya en obras?", "그럼 1호기는 벌써 공사 중입니까?"),
 (L, "Todavía no. No lo arrancaremos hasta tener una adjudicación. Si empezáramos la obra hoy, el dos-B podría empezar en mayo. En marzo, no.", "아직 아닙니다. 낙찰을 받기 전에는 시작하지 않을 겁니다. 오늘 공사를 시작한다고 해도 2B는 5월부터 가능합니다. 3월은 안 됩니다."),
 (F, "(toma un sorbo de café, en silencio) Mayo...", "(말없이 커피를 한 모금 마신다) 5월이라…"),

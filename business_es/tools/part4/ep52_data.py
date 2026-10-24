@@ -24,7 +24,7 @@ D = [
 (L, "Lo sé, Encarna. Por eso hoy no traigo ningún papel para firmar. Solo una pregunta.", "알아요, 엔카르나. 그래서 오늘은 서명할 서류를 하나도 안 가져왔어요. 질문 하나뿐이에요."),
 (K, "Si es una pregunta, yo tengo otra. ¿Por qué doce semanas? ¿Por qué no seis?", "질문이라면 저도 하나 있어요. 왜 12주예요? 왜 6주는 안 돼요?"),
 (L, "Porque en doce semanas hacemos el colchón de stock que necesitamos hasta que el horno uno esté listo.", "12주면 1호기가 준비될 때까지 필요한 재고 완충분을 만들 수 있으니까요."),
-(P, "El horno uno. El uno lleva quince años parado y tú lo quieres listo en marzo.", "1호기라. 15년 동안 서 있던 1호기를 3월까지 준비시키겠다고."),
+(P, "El horno uno. El uno lleva quince años a medio gas, con media línea parada, y tú lo quieres listo en marzo.", "1호기라. 15년째 라인 절반을 세워 둔 채 반쪽으로 돌던 1호기를 3월까지 준비시키겠다고."),
 (L, "Lo quiero listo cuando se pueda. Por eso pregunto.", "될 수 있을 때 준비되길 바라는 거예요. 그래서 묻는 거고요."),
 (E, "Pues la pregunta ya tiene respuesta, me parece. (mira a los trabajadores) ¿O alguien quiere decir otra cosa?", "그럼 그 질문엔 벌써 답이 나온 것 같은데요. (노동자들을 보며) 아니면 다른 말 하고 싶은 사람 있어요?"),
 (None, "Nadie habla. Un hombre de unos cuarenta años, al fondo, mira a Pepe y luego al suelo. Le faltan dos dedos de la mano izquierda.", "아무도 말하지 않는다. 뒤쪽의 마흔 살쯤 된 남자가 페페를 보다가 바닥을 본다. 그의 왼손에는 손가락이 두 개 없다."),
@@ -90,7 +90,7 @@ D = [
 (V, "Lucas, los números te dicen cuánto. Pepe te dice a qué precio. Yo tardé veinte años en entenderlo.", "루카스, 숫자는 얼마인지 말해 주지. 페페는 그게 어떤 대가를 치르는지 말해 주고. 나는 그걸 이해하는 데 20년이 걸렸어."),
 
 ("#", "Escena 3 · 18:30 · Nave del horno uno", "장면 3 · 오후 6시 30분 · 1호기 작업동"),
-(None, "La nave del horno uno lleva años medio a oscuras. Polvo sobre los rodillos, un calendario de 2011 todavía en la pared. Lucas entra con una linterna. Pepe ya está dentro, sentado en una caja de herramientas.", "1호기 작업동은 몇 년째 반쯤 어둠에 잠겨 있다. 롤러 위엔 먼지가 쌓였고, 벽엔 아직 2011년 달력이 걸려 있다. 루카스가 손전등을 들고 들어온다. 페페는 벌써 안에서 공구 상자에 앉아 있다."),
+(None, "La nave del horno uno, el más viejo de la fábrica. Solo funciona la primera mitad de la línea, con baldosa pequeña para el mercado nacional; la otra mitad lleva años a oscuras. Polvo sobre los rodillos, un calendario de 2011 todavía en la pared. Lucas entra con una linterna. Pepe ya está dentro, sentado en una caja de herramientas.", "공장에서 가장 오래된 1호기 작업동. 라인 앞쪽 절반만 국내용 소형 타일을 굽고, 나머지 절반은 몇 년째 어둠에 잠겨 있다. 롤러 위엔 먼지가 쌓였고, 벽엔 아직 2011년 달력이 걸려 있다. 루카스가 손전등을 들고 들어온다. 페페는 벌써 안에서 공구 상자에 앉아 있다."),
 (P, "Sabía que vendrías. Todos los que quieren arreglar algo acaban viniendo a mirar el horno viejo.", "올 줄 알았어. 뭔가 고치고 싶은 사람은 다들 결국 이 낡은 가마를 보러 오거든."),
 (L, "Quería pedirte perdón sin público.", "사람들 없는 데서 사과하고 싶었어요."),
 (P, "Ya me lo has pedido en el despacho. Con una vez basta.", "사무실에서 이미 했잖아. 한 번이면 충분해."),
@@ -136,7 +136,7 @@ D = [
 (P, "Para nada. Para que te conozca. Y para que tú lo conozcas a él. Lo demás ya lo sabes hacer.", "아무것도 아니야. 그 친구가 너를 알게, 그리고 네가 그 친구를 알게. 나머지는 넌 이미 할 줄 알잖아."),
 (A, "(desde la puerta) ¿Lo ves, Lucas? Tenías razón esta mañana: no venías a presentar un plan. Venías a pedir permiso.", "(문가에서) 봐요, 루카스? 오늘 아침 당신 말이 맞았어요. 계획을 발표하러 온 게 아니었어요. 허락을 구하러 온 거였죠."),
 (L, "Y me lo han dado. Pero no el que yo pedía.", "그리고 허락을 받았어요. 내가 구한 허락은 아니었지만요."),
-(P, "Es que el que pedías no era bueno. (apaga la luz de la nave) Venga, que el uno lleva quince años esperando. Puede esperar hasta mañana.", "네가 구한 건 좋은 게 아니었으니까. (작업동 불을 끄며) 가자. 1호기는 15년이나 기다렸어. 내일까지는 기다릴 수 있어."),
+(P, "Es que el que pedías no era bueno. (apaga la luz de la nave) Venga, que la otra mitad del uno lleva quince años esperando. Puede esperar hasta mañana.", "네가 구한 건 좋은 게 아니었으니까. (작업동 불을 끄며) 가자. 1호기 나머지 절반은 15년이나 기다렸어. 내일까지는 기다릴 수 있어."),
 ]
 
 PRE = [
