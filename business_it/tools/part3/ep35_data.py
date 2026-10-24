@@ -3,7 +3,7 @@
 C, MT, W, S = "Chiara", "Matteo", "Watanabe", "Sato"
 D = [
 ("#", "Scena 1 — Venerdì 2 maggio, ore 9. Tokyo, Daikanyama. Il retro del negozio « Kōbō ».", "장면 1 — 5월 2일 금요일 오전 9시. 도쿄 다이칸야마. 가게 « Kōbō »의 뒷방."),
-(None, "Una stanza bianca, senza finestre, dietro il negozio. Un tavolo luminoso, un calibro, un righello d'acciaio, una lente. Sulle mensole, in fila, le quaranta borse arrivate da Scandicci per il controllo, ognuna con il suo cartellino scritto a mano. Sato Misaki, guanti bianchi di cotone, aspetta in piedi. Watanabe è seduto in un angolo, le mani sulle ginocchia.", "가게 뒤편의 창 없는 하얀 방. 라이트 테이블, 캘리퍼, 강철 자, 확대경. 선반 위에는 검품을 위해 스칸디치에서 도착한 가방 마흔 개가 줄지어 있다. 가방마다 손글씨 택이 달려 있다. 흰 면장갑을 낀 사토 미사키가 서서 기다린다. 와타나베는 구석에 앉아 두 손을 무릎에 올려놓고 있다."),
+(None, "Una stanza bianca dietro il negozio, con un'unica finestra a nord: luce fredda, senza ombre. Un tavolo luminoso, un calibro, un righello d'acciaio, una lente. Sulle mensole, in fila, le quaranta borse vere di produzione, il « lotto del quattordici », arrivate ieri sera da Scandicci nella scatola su cui Filippo ha scritto « Come sono. F. », ognuna con il suo cartellino scritto a mano. Sato Misaki, guanti bianchi di cotone, aspetta in piedi. Watanabe è seduto in un angolo, le mani sulle ginocchia.", "가게 뒤편의 하얀 방. 북쪽으로 난 창 하나뿐이라 그림자 없는 차가운 빛이 든다. 라이트 테이블, 캘리퍼, 강철 자, 확대경. 선반 위에는 어젯밤 스칸디치에서 도착한 실제 생산품 가방 마흔 개, '14일 로트'가 줄지어 있다. 필리포가 상자에 '있는 그대로. F.'라고 써 보낸 것이다. 가방마다 손글씨 택이 달려 있다. 흰 면장갑을 낀 사토 미사키가 서서 기다린다. 와타나베는 구석에 앉아 두 손을 무릎에 올려놓고 있다."),
 (S, "Buongiorno. Prima di cominciare, una domanda: preferite restare durante il controllo o aspettare in negozio?", "안녕하세요. 시작하기 전에 하나 여쭐게요. 검품하는 동안 여기 계시겠어요, 아니면 매장에서 기다리시겠어요?"),
 (C, "Restiamo, se non disturbiamo. Mi piace vedere come lavorano gli altri.", "방해가 안 된다면 있을게요. 다른 사람들이 어떻게 일하는지 보는 게 좋아요."),
 (S, "Non disturbate. Ma vi chiedo di non toccare le borse finché non ho finito.", "방해 안 돼요. 다만 제가 끝날 때까지 가방은 만지지 말아 주세요."),
@@ -81,7 +81,7 @@ D = [
 (W, "Voglio sapere chi le guarda dopo chi le ha fatte. Qui si è pazienti con le persone e severi con le cose.", "만든 사람 다음에 누가 보는지 알고 싶어요. 여기서는 사람에게는 너그럽고 물건에는 엄격하거든요."),
 (MT, "Ci dà qualche giorno?", "며칠 주시겠어요?"),
 (W, "Vi do il tempo che serve. In Giappone, la fretta costa più del ritardo.", "필요한 만큼 드리죠. 일본에서는 서두름이 지연보다 비싸요."),
-(S, "Le sei borse ve le restituisco, con i cartellini. Le altre trentaquattro restano qui, se siete d'accordo.", "여섯 개는 택과 함께 돌려드릴게요. 나머지 서른네 개는 동의하시면 여기 남겨 두고요."),
+(S, "Le sei borse tornano in Italia, a vostre spese, come dice l'accordo. Con i cartellini. Le altre trentaquattro restano qui, se siete d'accordo.", "여섯 개는 합의대로 그쪽 비용으로 이탈리아에 돌아갑니다. 택도 함께요. 나머지 서른네 개는 동의하시면 여기 남겨 두고요."),
 (C, "Siamo d'accordo. E La ringrazio, Sato. Davvero.", "동의해요. 그리고 고마워요, 사토 씨. 진심이에요."),
 (S, "Non c'è di che. Il mio lavoro è trovare le cose prima delle clienti.", "별말씀을요. 제 일은 손님들보다 먼저 찾아내는 거예요."),
 (W, "(si alza e si inchina leggermente) Grazie a voi. Oggi è stata una buona giornata.", "(일어나서 살짝 고개를 숙이며) 감사합니다. 오늘은 좋은 하루였어요."),
@@ -103,8 +103,8 @@ D = [
 (MT, "Da noi si guardano a dozzine. In fila, sulle mensole del laboratorio.", "우리 쪽에선 열두 개씩 보지. 공방 선반 위에 줄지어서."),
 (C, "Ecco il problema. Sato ha guardato quaranta borse come se fossero quaranta tazze.", "바로 그게 문제야. 사토 씨는 가방 마흔 개를 찻잔 마흔 개처럼 봤어."),
 (MT, "E noi le abbiamo fatte come se fossero una borsa sola, ripetuta quaranta volte.", "그리고 우린 가방 하나를 마흔 번 반복하듯 만들었고."),
-(C, "No. Noi le abbiamo fatte di corsa. Ti ricordi marzo? Le sessanta di Seul, il prototipo di Parigi, le ragazze che tagliavano fino alle sette.", "아니. 우린 급하게 만들었어. 3월 기억나? 서울용 예순 개, 파리 시제품, 일곱 시까지 재단하던 사람들."),
-(MT, "Mi ricordo. E Renzo che faceva il prototipo con la porta chiusa.", "기억나. 그리고 문 닫아 놓고 시제품 만들던 렌초 씨."),
+(C, "No. Noi le abbiamo fatte di corsa. Ti ricordi la settimana del quattordici aprile? Le sessanta di Seul da imballare, la spedizione, le borse del sito da finire, le ragazze che lavoravano fino alle sette.", "아니. 우린 급하게 만들었어. 4월 14일 주 기억나? 포장해야 할 서울용 예순 개, 선적, 마무리해야 할 사이트용 가방들, 일곱 시까지 일하던 사람들."),
+(MT, "Mi ricordo. E Renzo che controllava le borse di Seul una per una, al banco dell'imballaggio.", "기억나. 그리고 포장대에서 서울용 가방을 하나하나 검사하던 렌초 씨."),
 (C, "E Simone da solo al tavolo dei bordi, con la tinta e il pennellino.", "그리고 가장자리 작업대에 혼자 있던 시모네. 염료랑 작은 붓 들고."),
 (MT, "Pensi che Renzo non l'abbia controllato?", "렌초 씨가 확인을 안 했다고 생각해?"),
 (C, "Penso che nessuno abbia controllato niente. Neanch'io. Ero io a dire: « Spediamole, sono perfette ».", "아무도 아무것도 확인 안 했다고 생각해. 나도. '보내자, 완벽해'라고 한 게 나였어."),
@@ -147,9 +147,9 @@ PRE = [
 ("text", "가계도·인물 관계", "이번 화의 시점 인물은 디자이너 키아라입니다. 도쿄 다이칸야마의 편집숍 « Kōbō »에서 검품을 받는 날, 가방 마흔 개 중 여섯 개가 왼쪽 선반으로 갑니다.", [
 "[3대] Chiara Corsini (키아라, 40) — ★이번 화 시점. 디자이너. 가방을 직접 꿰매진 않지만 '자기 이름을 거는' 사람. 3월의 바쁜 생산을 스스로 '완벽하다'며 내보냈다.",
 "[3대] Matteo Corsini (마테오, 31) — 시리즈 주인공. 누나의 감정을 읽고 식사를 챙긴다. 일본어는 세 단어.",
-"[공방, 이름만] Renzo Paoli (렌초, 72) — 장인. 3월엔 메종 바렌 시제품을 만드느라 문을 닫고 일했다. / Simone (시모네, 19) — 1년 차 견습생. 가장자리 칠을 혼자 맡았던 주가 있었다. / Loredana (로레다나) — 재봉 라인 베테랑.",
+"[공방, 이름만] Renzo Paoli (렌초, 72) — 장인. 4월 14일 주에는 서울 선적분을 하나하나 검사하느라 포장대에 붙어 있었다. / Simone (시모네, 19) — 1년 차 견습생. 그 주에 사이트용 가방('14일 로트')의 가장자리 칠을 혼자 맡았다. / Loredana (로레다나) — 재봉 라인 베테랑.",
 "[사외] Watanabe Kenji (와타나베 겐지, 58) — 다이칸야마 편집숍 « Kōbō »('공방'이라는 뜻) 대표. 종합상사 로마 주재 10년. 정중하고 엄격하며 침묵을 아낀다.",
-"[사외] Sato Misaki (사토 미사키) — « Kōbō »의 검품 담당이자 이탈리아 브랜드 담당. 볼로냐에서 1년 공부했다. 흰 면장갑과 캘리퍼로 2밀리미터를 찾아내는 사람.",
+"[사외] Sato Misaki (사토 미사키) — « Kōbō »의 검품 담당이자 이탈리아 브랜드 담당. 피렌체에서 2년 동안 종이 복원을 공부했다. 샘플이 아니라 한 점 한 점, 북쪽 창의 빛 아래서 검품한다. 흰 면장갑과 캘리퍼로 2밀리미터를 찾아내는 사람.",
 "[관계] 키아라·마테오 ⟷ 와타나베·사토: 서로 Lei. 와타나베는 직원인 사토에게도 Lei를 쓴다. 키아라와 마테오는 남매라 tu.",
 ]),
 ]
