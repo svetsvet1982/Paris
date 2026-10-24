@@ -138,7 +138,7 @@ D = [
 (C, "Cos'ha il sito?", "사이트가 왜?"),
 (M, "Duemila persone collegate nello stesso momento. Si è bloccato due volte. Nora sta chiamando il tecnico.", "동시 접속자 2천 명. 두 번 멈췄어. 노라가 기술자한테 전화하고 있어."),
 (C, "E quante borse abbiamo venduto?", "그래서 가방은 몇 개 팔았는데?"),
-(M, "(una pausa lunga) Tre. Due Domenica e un portadocumenti.", "(긴 침묵) 세 개. '도메니카' 두 개랑 서류 가방 하나."),
+(M, "(una pausa lunga) Tre. Due Domenica e una Torri.", "(긴 침묵) 세 개. '도메니카' 두 개랑 서류 가방 '토리' 하나."),
 (C, "Tre. Su duemila persone.", "세 개. 2천 명 중에."),
 (M, "Su duemila persone che non sanno dove spediamo, che non trovano il prezzo in dollari e che non capiscono la pagina in italiano. Domani mattina, alle otto, in ufficio. Tutti.", "어디로 배송하는지 모르고, 달러 가격도 못 찾고, 이탈리아어 페이지도 못 읽는 2천 명 중에. 내일 아침 8시, 사무실로. 다 모여."),
 (C, "Anche Giulia?", "줄리아도?"),
