@@ -145,20 +145,20 @@
 
 | 화 | 제목 | 한국어 | 시점 |
 |---|---|---|---|
-| 43 | Una Corsini a dieci euro | 10유로짜리 코르시니 | M |
-| 44 | La Guardia di Finanza | 재무경찰 | F |
-| 45 | Il pellame che manca | 모자라는 가죽 | C |
-| 46 | La conceria vuole l'anticipo | 선금을 요구하는 무두질 공장 | F |
-| 47 | Ferragosto in laboratorio | 공방의 페라고스토 | M |
-| 48 | La Maison ritorna | 돌아온 메종 | F |
-| 49 | Due offerte, un laboratorio | 두 개의 제안, 하나의 공방 | G |
-| 50 | La lite | 다툼 | M |
-| 51 | Filippo se ne va | 떠나는 필리포 | F |
-| 52 | Le dimissioni di Renzo | 렌초의 사직서 | C |
-| 53 | Il marchio in tribunale | 법정에 선 상표 | M |
-| 54 | Chiara da sola | 혼자 남은 키아라 | C |
-| 55 | La lettera del nonno | 할아버지의 편지 | G |
-| 56 | Il ritorno di Filippo | 돌아온 필리포 | M |
+| 43 | Una Corsini a dieci euro ✅ | 10유로짜리 코르시니 | M |
+| 44 | La Guardia di Finanza ✅ | 재무경찰 | F |
+| 45 | Il pellame che manca ✅ | 모자라는 가죽 | C |
+| 46 | La conceria vuole l'anticipo ✅ | 선금을 요구하는 무두질 공장 | F |
+| 47 | Ferragosto in laboratorio ✅ | 공방의 페라고스토 | M |
+| 48 | La Maison ritorna ✅ | 돌아온 메종 | F |
+| 49 | Due offerte, un laboratorio ✅ | 두 개의 제안, 하나의 공방 | G |
+| 50 | La lite ✅ | 다툼 | M |
+| 51 | Filippo se ne va ✅ | 떠나는 필리포 | F |
+| 52 | Le dimissioni di Renzo ✅ | 렌초의 사직서 | C |
+| 53 | Il marchio in tribunale ✅ | 법정에 선 상표 | M |
+| 54 | Chiara da sola ✅ | 혼자 남은 키아라 | C |
+| 55 | La lettera del nonno ✅ | 할아버지의 편지 | G |
+| 56 | Il ritorno di Filippo ✅ | 돌아온 필리포 | M |
 
 ### 제5부. Autunno–Natale · Il passaggio — 가을과 성탄: 승계 (57~70화)
 
