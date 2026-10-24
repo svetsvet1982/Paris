@@ -35,7 +35,8 @@ def build_front(start_pages):
     p(M0["part_label"], 15, color=GRAY, after=40)
     p(f"제{part}부 · 제{eps[0][0]}화 – 제{eps[-1][0]}화", 13, after=4)
     p(f"{len(eps)}화 · 화당 120턴 · 총 {120*len(eps):,}턴", 11, color=GRAY, after=4)
-    p("비즈니스 스페인어 연속 대화문 · 한글 해석 포함", 11, italic=True, color=GRAY)
+    LANGS = {"fr": "프랑스어", "es": "스페인어", "it": "이탈리아어", "de": "독일어", "nl": "네덜란드어", "ja": "일본어"}
+    p(f"비즈니스 {LANGS.get(M0.get('lang', 'fr'), '')} 연속 대화문 · 한글 해석 포함", 11, italic=True, color=GRAY)
     doc.add_page_break()
     # contents
     p("목차 · Índice", 18, True, color=NAVY, align=WD_ALIGN_PARAGRAPH.LEFT, after=14)

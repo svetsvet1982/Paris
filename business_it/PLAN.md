@@ -89,19 +89,19 @@
 | 화 | 제목 | 한국어 | 시점 |
 |---|---|---|---|
 | 1 | Il pranzo della domenica ✅ | 일요일 점심 | M |
-| 2 | Pitti, in tre in una macchina | 셋이 한 차로, 피티 | F |
-| 3 | La lettera a Seul | 서울로 보내는 편지 | M |
-| 4 | La telefonata a Parigi | 파리와의 통화 | F |
-| 5 | Il cassetto di Chiara | 키아라의 서랍 | C |
-| 6 | La cena del giovedì | 목요일 저녁 식사 | G |
-| 7 | In conceria a Santa Croce | 산타크로체의 무두질 공장 | M |
-| 8 | I numeri della banca | 은행의 숫자 | F |
-| 9 | Le RSU in laboratorio | 공방의 노조 대표들 | F |
-| 10 | Il prezzo giusto | 적정 가격 | M |
-| 11 | Videochiamata con Seul | 서울과의 화상 통화 | M |
-| 12 | L'accordo con la Maison | 메종과의 합의 | F |
-| 13 | Una firma su tre | 셋 중 하나의 서명 | G |
-| 14 | Il primo campionario | 첫 샘플 컬렉션 | M |
+| 2 | Pitti, in tre in una macchina ✅ | 셋이 한 차로, 피티 | F |
+| 3 | La lettera a Seul ✅ | 서울로 보내는 편지 | M |
+| 4 | La telefonata a Parigi ✅ | 파리와의 통화 | F |
+| 5 | Il cassetto di Chiara ✅ | 키아라의 서랍 | C |
+| 6 | La cena del giovedì ✅ | 목요일 저녁 식사 | G |
+| 7 | In conceria a Santa Croce ✅ | 산타크로체의 무두질 공장 | M |
+| 8 | I numeri della banca ✅ | 은행의 숫자 | F |
+| 9 | Le RSU in laboratorio ✅ | 공방의 노조 대표들 | F |
+| 10 | Il prezzo giusto ✅ | 적정 가격 | M |
+| 11 | Videochiamata con Seul ✅ | 서울과의 화상 통화 | M |
+| 12 | L'accordo con la Maison ✅ | 메종과의 합의 | F |
+| 13 | Una firma su tre ✅ | 셋 중 하나의 서명 | G |
+| 14 | Il primo campionario ✅ | 첫 샘플 컬렉션 | M |
 
 ### 제2부. Febbraio–Marzo · Milano — 밀라노 패션위크와 MIPEL: 자체 브랜드 런칭 (15~28화)
 
