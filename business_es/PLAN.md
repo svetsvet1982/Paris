@@ -182,10 +182,10 @@
 61. «Ppalli, ppalli» — 빨리빨리
 62. Cena de empresa — 회식
 63. Escala en Singapur — 싱가포르 경유
-64. El horno tres — 3번 가마, 다시 불을 켜다
+64. El horno uno — 1번 가마, 다시 불을 켜다 (개보수 후 재점화)
 65. El relevo — 세대 교체 (비센테의 은퇴 선언)
 66. La oferta de Madrid — 마드리드의 스카우트 제안
-67. Lo que aprendí de Pepe — 페페에게 배운 것 (페페의 퇴직)
+67. Lo que aprendí de Pepe — 페페에게 배운 것 (페페의 공장장 이임)
 68. Junta familiar — 가족 주주총회
 69. La decisión de Lucas — 루카스의 결정
 70. Primer día, otra vez — 다시, 첫날 (새로 온 외지인에게 루카스가 공장을 안내한다. 1화와 수미상관)
