@@ -4,7 +4,7 @@ E, K, EN, AV, C = "Étienne", "Karim", "Enzo", "Avocate", "Céline"
 D = [
 (None, "— Scène 1 : Cité du Grand-Pin, quartiers nord de Marseille, lundi 19 octobre, 6 h 45 —", "— 1장: 마르세유 북부 지구 그랑팽 단지, 10월 19일 월요일, 오전 6시 45분 —"),
 (None, "Le jour se lève à peine sur les tours. Une voiture banalisée est garée au pied du bâtiment C, moteur coupé. Karim boit un café dans un gobelet en carton ; Étienne regarde les fenêtres encore éteintes.", "고층 아파트 위로 겨우 날이 밝아 온다. 표시 없는 경찰차 한 대가 C동 앞에 시동을 끈 채 서 있다. 카림은 종이컵에 든 커피를 마시고, 에티엔은 아직 불이 꺼진 창문들을 올려다본다."),
-(K, "Je t'ai fait venir ici avant l'Évêché parce que je voulais que tu voies l'endroit de tes propres yeux, et pas sur une carte dans un bureau parisien.", "에베셰 서로 가기 전에 여기로 오라고 한 건, 파리 사무실에서 지도로 보는 말고 이곳을 네 눈으로 직접 보길 바랐기 때문이야."),
+(K, "Je t'ai fait venir ici avant l'Évêché parce que je voulais que tu voies l'endroit de tes propres yeux, et pas sur une carte dans un bureau parisien.", "에베셰 서로 가기 전에 여기로 오라고 한 건, 파리 사무실에서 지도로 보는 게 아니라 이곳을 네 눈으로 직접 보길 바랐기 때문이야."),
 (E, "C'est gentil de penser à mon éducation, mais à sept heures moins le quart, j'aurais préféré que tu m'expliques tout ça au téléphone avec un croissant.", "내 교육까지 챙겨 줘서 고맙긴 한데, 아침 7시 15분 전이면 그냥 크루아상 하나 먹으면서 전화로 설명 듣는 게 나았을 거야."),
 (K, "Au téléphone, tu aurais hoché la tête sans rien comprendre. Regarde le hall du bâtiment C, là où il y a la chaise en plastique : c'est là que le petit faisait le chouf hier soir.", "전화로 했으면 넌 아무것도 모르면서 고개만 끄덕였겠지. C동 현관 봐, 플라스틱 의자 있는 데. 어젯밤 그 꼬맹이가 저기서 망을 보고 있었어."),
 (E, "Le chouf, c'est le guetteur, si je me souviens bien de mes cours de marseillais, celui qui crie quand la police arrive ?", "'슈프'라면, 내가 마르세유 말 수업을 제대로 기억한다면, 망보는 애잖아. 경찰 오면 소리치는 애 말이지?"),
@@ -27,7 +27,7 @@ D = [
 (AV, "Avant de commencer, je voudrais savoir qui est ce monsieur, parce qu'il ne figure nulle part dans la procédure qu'on m'a communiquée.", "시작하기 전에 이분이 누구신지 알고 싶습니다. 제가 받은 수사 서류 어디에도 이분 이름이 없거든요."),
 (K, "C'est un collègue de Paris qui travaille sur les escroqueries en ligne ; il assiste à l'audition en observateur et il ne posera que quelques questions, maître.", "온라인 사기를 담당하는 파리 쪽 동료입니다. 참관인으로 조사에 참석하고, 질문은 몇 가지만 할 겁니다, 변호사님."),
 (AV, "Je le note. Enzo, je te rappelle que tu as le droit de te taire et que tu peux me demander de te parler en privé à tout moment.", "기록해 두죠. 엔조, 다시 말하지만 넌 진술을 거부할 권리가 있고, 언제든 나랑 따로 얘기하고 싶다고 요청할 수 있어."),
-(EN, "Je sais, madame, vous me l'avez déjà dit trois fois, et franchement, j'ai pas envie de passer toute ma journée ici.", "알아요, 아줌마, 벌써 세 번이나 말했잖아요. 솔직히 하루 종일 여기 있고 싶지 않다고요."),
+(EN, "Je sais, madame, vous me l'avez déjà dit trois fois, et franchement, j'ai pas envie de passer toute ma journée ici.", "알아요, 변호사님, 벌써 세 번이나 말했잖아요. 솔직히 하루 종일 여기 있고 싶지 않다고요."),
 (K, "Alors on va faire vite, si tu es d'accord. Enlève ta capuche, s'il te plaît, parce que la caméra a besoin de voir ton visage, et moi aussi.", "그럼 네가 괜찮다면 빨리 끝내자. 후드 좀 벗어 줄래? 카메라가 네 얼굴을 봐야 하고, 나도 그렇거든."),
 (EN, "Wesh, vous allez me filmer comme une star, alors que j'ai même pas dormi de la nuit dans votre cellule qui pue.", "와, 무슨 스타처럼 찍으시겠다고요? 냄새나는 유치장에서 밤새 한숨도 못 잤는데."),
 (K, "Je sais que la cellule n'est pas un hôtel. Dis-moi d'abord depuis combien de temps tu travailles pour le point de deal du bâtiment C.", "유치장이 호텔이 아니라는 건 알아. 우선 C동 마약 판매 거점에서 일한 지 얼마나 됐는지 말해 봐."),
@@ -77,7 +77,7 @@ D = [
 (K, "D'accord pour la pause, maître. On reprend à dix heures et demie, et je fais monter un sandwich pour lui en attendant.", "휴식 좋습니다, 변호사님. 10시 반에 다시 시작하죠. 그동안 이 친구 먹을 샌드위치를 올려 보내겠습니다."),
 
 (None, "— Scène 3 : Couloir du deuxième étage, 10 h 05 —", "— 3장: 3층 복도, 오전 10시 5분 —"),
-(None, "Sur un banc, une femme d'une quarantaine d'années attend, une blouse d'aide-soignante qui dépasse sous sa veste. Elle se lève dès qu'elle voit Karim.", "벤치에서 마흔 살쯤 된 여자가 기다리고 있다. 재킷 아래로 요양보호사 가운이 삐져나와 있다. 카림을 보자마자 그녀가 일어선다."),
+(None, "Sur un banc, une femme d'une quarantaine d'années attend, une blouse d'aide-soignante qui dépasse sous sa veste. Elle se lève dès qu'elle voit Karim.", "벤치에서 마흔 살쯤 된 여자가 기다리고 있다. 재킷 아래로 간호조무사 가운이 삐져나와 있다. 카림을 보자마자 그녀가 일어선다."),
 (C, "C'est vous qui avez arrêté mon fils ? On m'a appelée à quatre heures du matin, en pleine garde à l'hôpital, et personne n'a voulu me dire ce qu'il avait fait.", "당신이 우리 아들을 체포했어요? 병원에서 야간 근무 중인데 새벽 4시에 전화가 왔어요. 그런데 아무도 걔가 뭘 했는지 말해 주지 않더군요."),
 (K, "Bonjour, madame Morel. Enzo va bien, il est avec son avocate, et vous pourrez le voir quelques minutes pendant la pause, je vous le promets.", "안녕하세요, 모렐 부인. 엔조는 괜찮습니다. 변호사와 함께 있고, 휴식 시간에 몇 분 동안 만나실 수 있을 겁니다. 약속드려요."),
 (C, "Il va bien... Vous dites ça comme si c'était normal qu'un gamin de dix-sept ans passe la nuit dans une cellule au milieu des dealers.", "괜찮다니... 열일곱 살짜리가 마약상들 사이에서 유치장에 밤을 보내는 게 당연한 일인 것처럼 말씀하시네요."),
@@ -147,7 +147,7 @@ D = [
 (EN, "Un éducateur... Super, encore quelqu'un qui va me dire que je gâche ma vie, comme si j'avais eu le choix.", "보호관찰관이라... 잘됐네요. 제가 인생을 망치고 있다고 말해 줄 사람이 또 생기겠네요. 제가 선택권이라도 있었던 것처럼요."),
 (E, "Tu avais moins de choix que beaucoup d'autres, c'est vrai, mais tu en as eu un quand tu as refusé de brûler cette voiture, et tu en as encore un aujourd'hui.", "넌 다른 많은 애들보다 선택권이 적었어, 그건 사실이야. 하지만 그 차를 태우길 거절했을 때 너한테 선택권이 있었고, 오늘도 여전히 있어."),
 (EN, "Et vous, monsieur, vous êtes vraiment des escroqueries en ligne ? Parce que vous regardez cette photo comme si c'était celle de votre propre mariage.", "근데 아저씨, 진짜 온라인 사기 담당 맞아요? 그 사진을 무슨 자기 결혼식 사진 보듯이 보고 있잖아요."),
-(E, "Disons que je m'intéresse beaucoup aux gens qui prennent des photos sans qu'on le leur demande, et encore plus à ceux qui les commandent.", "시키지도 않았는데 사진 찍는 사람들한테 관심이 많다고 해 두지. 그 사진을 주문하는 사람들한텐 더 많고."),
+(E, "Disons que je m'intéresse beaucoup aux gens qui photographient les autres sans leur permission, et encore plus à ceux qui commandent ces photos.", "남의 사진을 허락 없이 찍는 사람들한테 관심이 많다고 해 두지. 그 사진을 주문하는 사람들한텐 더 많고."),
 
 (None, "— Scène 5 : Parking de l'Évêché, 11 h 30 —", "— 5장: 에베셰 주차장, 오전 11시 30분 —"),
 (None, "Le soleil tape déjà sur les voitures. Au loin, la cathédrale de la Major brille au-dessus du port. Karim allume une cigarette ; Étienne regarde le paquet un peu trop longtemps.", "벌써 햇볕이 자동차들 위로 쏟아진다. 멀리 항구 위로 라 마조르 대성당이 빛난다. 카림이 담배에 불을 붙이고, 에티엔은 담뱃갑을 조금 너무 오래 바라본다."),
@@ -198,10 +198,10 @@ GRAM = [
 ("B2","사역 faire + 동사원형",
  "« Je t'ai fait venir ici » (너를 오게 했다), « je fais monter un sandwich » (샌드위치를 올려 보내게 하다), « ces gens qui font travailler les gamins » (애들에게 일을 시키다), « ils m'ont fait attendre trois heures ». 대명사는 faire 앞에 온다(« vous étiez obligés de la faire venir »)."),
 ("B2","접속법: 필요·바람·시간 접속사 뒤",
- "« je voulais que tu voies l'endroit » (vouloir que), « il faut qu'un mec te donne le lien » (il faut que), « avant que je change d'avis », « avant qu'on nous coupe le courant » (avant que), « pour que je puisse dormir » (pour que). 반면 jusqu'à ce que도 접속법을 요구한다: « jusqu'à ce que ça marche »."),
+ "« je voulais que tu voies l'endroit » (vouloir que), « il faut qu'un mec te donne le lien » (il faut que), « avant que je change d'avis », « avant qu'on nous coupe le courant » (avant que), « pour que je puisse dormir » (pour que). 또한 jusqu'à ce que도 접속법을 요구한다: « jusqu'à ce que ça marche »."),
 ("B2","comme si + 반과거/대과거",
  "비현실적 비유는 comme si 뒤에 반과거(현재 사실 반대) 또는 대과거(과거 사실 반대)를 쓴다. « comme si c'était normal », « il la regardait comme si elle allait disparaître », « comme s'il avait jamais existé » (구어, = n'avait jamais existé), « comme si j'avais eu le choix »."),
-("C1","'자' 강조 구문과 이탈 구문",
+("C1","강조 구문: 이탈(dislocation)과 c'est … que",
  "구어 프랑스어는 주제를 앞이나 뒤로 빼서 강조한다. « Mon téléphone, c'est ma vie privée », « Les billets, c'est mes économies », « Lui, non… Mais elle, à la fin, elle m'a regardé », « Lisez-le, vous ». c'est … que 강조: « c'est là que le petit faisait le chouf », « ce qui me fait peur, ce n'est pas qu'ils me surveillent ; c'est qu'ils aient su avant moi » (뒤는 감정 표현이라 접속법 aient su)."),
 ]
 
@@ -214,7 +214,7 @@ CULTURE = [
 
 META = dict(part=1, ep=6, part_label="제1부 마지막 접선 · Le Dernier Rendez-vous", title_fr="Les jetables", title_ko="일회용 아이들",
  place="마르세유 북부 그랑팽 단지 → 에베셰 경찰청 미성년자 조사실 · 2026년 10월 19일(월) 06:45~11:40",
- chars="Étienne Lacroix (에티엔, 46세, DGSE 공작관) · Karim (카림, 38세, OFAST 수사관) · Enzo Morel (엔조, 17세, 체포된 망보기 소년) · Maître Benali (베날리 변호사, 엔조의 국선 변호인) · Céline Morel (셀린, 엔조의 엄마, 요양보호사)",
+ chars="Étienne Lacroix (에티엔, 46세, DGSE 공작관) · Karim (카림, 38세, OFAST 수사관) · Enzo Morel (엔조, 17세, 체포된 망보기 소년) · Maître Benali (베날리 변호사, 엔조의 국선 변호인) · Céline Morel (셀린, 엔조의 엄마, 병원 간호조무사)",
  situation="카림이 체포한 17세 엔조의 휴대폰에서 텔레그램 채널 'Mistral Jobs'가 나오고, 엔조가 500유로를 받고 찍은 페리 사진 속에 에티엔과 베라가 있다. 촬영 지시는 접선 전날 밤에 도착했다.",
  focus="심문 의문문(억양·est-ce que·의문사), 간접화법과 시제 일치, 사역 faire, 접속법(vouloir que·avant que·pour que), comme si, 구어 강조 구문",
  jargon="chouf / faire le chouf, point de deal / four / charbonner, agent jetable, garde à vue, exploitation du téléphone, 청소년 은어(wesh, chelou, keuf, balance, daronne, thune, capter)",
