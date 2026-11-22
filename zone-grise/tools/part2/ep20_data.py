@@ -399,7 +399,7 @@ CULTURE = [
 META = dict(part=2, ep=20, part_label="제2부 붉은 파일 · Le Fichier Rouge", title_fr="Code d'accès", title_ko="접근 코드",
  place="리옹 6구 시테 앵테르나시오날, 인터폴 본부(5층 내부 보안실 · 지하 1층 B-014호 · 3층 카페테리아) → 샤를드골 강변로 · 2026년 12월 7일(월) 07:15~18:20",
  chars="Étienne Lacroix (에티엔, 46세, 인터폴 주재 프랑스 연락관) · Inès Benali (이네스, 34세, 수배 무결성 분석관) · Tomás Herrera (에레라, 55세, 인터폴 내부 보안 책임자) · Commandante Sabine Roux (사빈 루, 45세, DGSI 리옹 방첩 담당, 전화) · Kasper Lindqvist (카스페르, 41세, ARGOS 설계자) · Lucas Ferrier (뤼카, 29세, DGSE 기술 요원, 전화) · Bertrand Hallier (알리에, 61세, DGSE 부국장, 전화) · Markus Weber (베버, 에레라의 부관)",
- situation="레벨 4 권한으로 열린 귀속 필드에 '사전 승인' 플래그를 단 계정이 에티엔의 FR-LIA-0417로 찍혀 있다. 에레라는 DGSI 사빈 루에게 통보하고 이네스를 시험하며, 알리에는 '아무것도 하지 말라'고 당부한다. 이네스는 갈등 끝에 저녁 7시 체포 계획을 털어놓지만, 에레라 팀은 40분 일찍 벽장 문을 두드린다",
+ situation="레벨 4 권한으로 열린 귀속 필드에 '사전 승인' 플래그를 단 계정이 에티엔의 FR-LIA-0417로 찍혀 있다. 에레라는 DGSI 사빈 루에게 통보하고 이네스를 시험하며, 알리에는 '아무것도 하지 말라'고 당부한다. 이네스는 갈등 끝에 저녁 8시 반 체포 계획을 털어놓지만, 에레라 팀은 40분 일찍 벽장 문을 두드린다",
  focus="의심과 반박의 논증(soit… soit, ni… ni, 가설의 배제), 허사 ne(avant que, à moins que), 명령문 + y(Restes-y), 혼합 가정과 과거분사 일치, 복합 도치 의문문, 부정 선행사 뒤 접속법, 사역 faire",
  jargon="être grillé, dans les clous, saisine du parquet, garder au chaud, passerelle, accès distant, champ verrouillé, niveau d'accès, esprit de corps, inviolabilité des locaux",
  levelmix="B1 25% / B2 45% / C1 20% / 은어 10% 목표",
