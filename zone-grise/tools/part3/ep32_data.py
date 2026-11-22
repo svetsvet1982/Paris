@@ -100,6 +100,7 @@ D = [
 (V, "Une dernière chose sur ton travail, avant d'en venir à ce qui m'a vraiment fait monter jusqu'ici : tout ce que tu écris à Paris, je finis par le lire, tôt ou tard, et je ne suis pas la seule.", "날 정말 여기까지 올라오게 만든 얘기로 넘어가기 전에, 네 일에 관해 마지막으로 하나만. 네가 파리에 쓰는 건 전부 조만간 내가 읽게 돼. 그리고 읽는 게 나 혼자만은 아니야."),
 (E, "Tu veux dire qu'il y a une fuite dans mes rapports, ou que vous avez quelqu'un chez nous ? Ce n'est pas du tout la même accusation, Véra.", "내 보고서에서 새는 데가 있다는 거야, 아니면 너희 사람이 우리 쪽에 있다는 거야? 그건 전혀 다른 혐의야, 베라."),
 (V, "Je veux dire que les rapports voyagent plus vite que ceux qui les écrivent. Le reste, tu l'as compris tout seul il y a six mois, au milieu des conteneurs.", "보고서는 그걸 쓴 사람보다 빨리 돌아다닌다는 뜻이야. 나머지는 여섯 달 전 컨테이너 한가운데서 너 혼자 이미 알아챘잖아."),
+(None, "Étienne ne répond pas. Il regarde la tour, puis la baie, comme s'il cherchait d'où viendrait le prochain coup de feu.", "에티엔은 대답하지 않는다. 그는 탑을, 그리고 만을 바라본다. 다음 총성이 어디서 날아올지 찾기라도 하듯."),
 (V, "Maintenant, montre-moi la carte, celle de la Bonne Mère, et ne fais pas cette tête : je sais que tu ne la quittes plus depuis qu'on t'a envoyé sa petite sœur de la Croisette.", "이제 그 엽서 보여 줘. 본 메르 엽서 말이야. 그런 표정 짓지 마. 크루아제트에서 그 동생 엽서가 온 뒤로 네가 그걸 몸에서 안 떼는 거 아니까."),
 (None, "Étienne hésite, puis sort de sa poche intérieure la vieille carte noircie sur les bords. Véra ne la prend pas. Elle se penche et la regarde à la lumière d'un réverbère, sans la toucher.", "에티엔이 망설이다가 안주머니에서 가장자리가 검게 그을린 옛 엽서를 꺼낸다. 베라는 그걸 받지 않는다. 몸을 숙여 가로등 불빛에 비춰 볼 뿐 손대지 않는다."),
 (V, "Elle a moins vieilli que nous, finalement. En vingt ans, est-ce que tu as regardé sous le timbre, ou est-ce que tu t'es contenté de lire ce qui restait autour de la brûlure ?", "결국 우리보다 덜 늙었네. 20년 동안 우표 밑을 들여다본 적 있어? 아니면 탄 자국 주변에 남은 글씨만 읽고 말았어?"),
@@ -132,6 +133,7 @@ D = [
 (LU, "Et la clé ? Moi, je ne l'ai pas touchée de la nuit, puisque tu refusais même que je la branche, et le lendemain matin, c'est toi qui l'as remise au service technique.", "USB는? 난 그날 밤 그거 손도 안 댔어. 꽂아 보는 것조차 네가 못 하게 했잖아. 그리고 다음 날 아침 그걸 기술부에 넘긴 것도 너고."),
 (E, "Je l'avais dans mon manteau, et j'ai laissé ce manteau vingt minutes dans le couloir des urgences pendant qu'on te recousait. Je n'y avais jamais repensé avant ce soir.", "내 외투 속에 있었지. 그런데 널 꿰매는 동안 그 외투를 응급실 복도에 20분 동안 두었어. 오늘 밤 전까진 한 번도 그 생각을 안 해 봤어."),
 (LU, "Vingt minutes, ça suffit largement pour vider une clé, ou pour l'échanger contre une autre qui lui ressemble, si on en a prévu une dans sa poche.", "20분이면 USB 하나 비우기엔 충분하지. 아니면 똑같이 생긴 다른 걸 주머니에 준비해 왔다면 바꿔치기하기에도."),
+(None, "Lucas s'immobilise, la pince en l'air, et lève les yeux vers Étienne.", "뤼카가 핀셋을 든 채 멈추더니 에티엔을 올려다본다."),
 (LU, "Attends, il y a un truc qui cloche : comment est-ce qu'elle sait qu'on m'a recousu aux urgences, alors qu'elle était déjà sur son bateau quand je me suis pris la balle ?", "잠깐, 뭔가 이상해. 내가 총 맞았을 때 그 여잔 이미 배 위에 있었는데, 내가 응급실에서 꿰맸다는 걸 어떻게 알아?"),
 (E, "Je me suis posé la même question en redescendant, et la seule réponse honnête, c'est que quelqu'un le lui a raconté, ou qu'elle l'a lu quelque part.", "나도 내려오면서 똑같은 질문을 했어. 정직하게 답하자면, 누군가 그 여자한테 얘기해 줬거나, 그 여자가 어디선가 읽었다는 것밖에 없어."),
 (None, "Lucas soulève le timbre du bout d'une pince. Dessous, sur le carton jauni, il y a un point noir, parfaitement rond, à peine plus gros qu'une tête d'épingle.", "뤼카가 핀셋 끝으로 우표를 들어 올린다. 그 밑 누렇게 바랜 판지 위에 완벽하게 동그란 검은 점 하나가 있다. 핀 머리보다 조금 클까 말까 한 크기다."),
@@ -156,7 +158,7 @@ D = [
 (LU, "Et si c'est elle qui l'a écrit, ça veut dire qu'elle te demande de ne te fier qu'à toi-même, ce qui est très romantique, mais assez peu pratique pour une mission.", "그리고 그 여자가 쓴 거라면, 너 자신 말고는 아무도 믿지 말라는 거지. 아주 낭만적이긴 한데, 임무에는 별로 실용적이지 않네."),
 (E, "Et si c'est un faux, ça veut dire que quelqu'un connaît mon ancien nom, notre blague et cette carte, et qu'il a pu ouvrir mon tiroir, ce qui fait beaucoup pour un seul homme.", "그리고 가짜라면, 누군가 내 옛 이름이랑 우리 농담이랑 이 엽서를 알고, 내 서랍까지 열 수 있었다는 거야. 한 사람이 하기엔 너무 많은 일이지."),
 (LU, "Il était où, d'ailleurs, ce fameux tiroir, pendant toutes ces années : chez toi, rue des Pyrénées, ou à la Boîte, dans ton bureau ?", "그런데 그 유명한 서랍은 그동안 어디 있었어? 피레네 거리 너희 집이야, 아니면 본부 네 사무실이야?"),
-(E, "Chez moi, sous une pile de factures, dans un appartement que j'ai laissé vide pendant mes deux mois à Lyon, et dont quelqu'un a toujours su l'adresse.", "우리 집, 청구서 더미 밑에. 내가 리옹에 있던 두 달 동안 비워 둔 집이고, 누군가는 늘 그 주소를 알고 있었지."),
+(E, "Chez moi, sous une pile de factures, dans un appartement que j'ai laissé vide pendant tous ces mois à Lyon, et dont quelqu'un a toujours su l'adresse.", "우리 집, 청구서 더미 밑에. 내가 리옹에 있던 그 몇 달 동안 비워 둔 집이고, 누군가는 늘 그 주소를 알고 있었지."),
 (None, "Le téléphone de service d'Étienne vibre sur la table de nuit. Sur l'écran s'affichent deux initiales : « B. H. ». Il est 1 h 14.", "협탁 위에서 에티엔의 업무용 휴대폰이 진동한다. 화면에 이니셜 두 개가 뜬다. 'B. H.' 1시 14분이다."),
 (LU, "Hallier, à une heure et quart du matin ? Il ne dort jamais, ce type, ou alors il a un radar qui sonne chaque fois que tu touches à ton passé.", "알리에가 새벽 1시 15분에? 이 양반은 잠도 안 자나. 아니면 네가 과거를 건드릴 때마다 울리는 레이더라도 있나 봐."),
 (E, "(il décroche) Bonsoir, monsieur. Vous veillez bien tard, pour quelqu'un qui me recommande toujours de me hâter lentement.", "(전화를 받으며) 안녕하십니까, 부국장님. 늘 저더러 천천히 서두르라고 하시는 분치고는 꽤 늦게까지 깨어 계시네요."),
@@ -199,7 +201,7 @@ VOCAB = [
 
 GRAM = [
 ("B2","대과거(plus-que-parfait): 과거 기준점보다 앞선 일",
- "엇갈리는 진술에서는 사건의 순서가 핵심이다. « j'avais copié les quarante noms moi-même, la veille au soir » (USB를 건네기 전날 이미 복사해 둠), « alors que j'avais annoncé le jeudi à Paris », « Je n'y avais jamais repensé avant ce soir », « on m'avait demandé de me méfier d'elle »가 아니라 « on m'ordonnait »처럼 반과거와도 구분된다. 복합과거로 서술된 과거 장면보다 더 앞선 일을 나타낸다."),
+ "엇갈리는 진술에서는 사건의 순서가 핵심이다. « j'avais copié les quarante noms moi-même, la veille au soir » (USB를 건네기 전날 이미 복사해 둠), « alors que j'avais annoncé le jeudi à Paris », « Je n'y avais jamais repensé avant ce soir », « quelqu'un, chez nous, l'avait recrutée sous mon nez ». 복합과거로 서술된 과거 장면(« je l'ai glissée dans ta poche »)보다 더 앞선 일을 나타낸다. 반과거(« nous vivions ensemble », « j'écrivais… un rapport »)는 그 시기의 배경·반복을 그린다."),
 ("C1","조건법: 확인되지 않은 정보와 가정의 인물",
  "« une femme qui m'aurait donné une clé vide et qui chercherait… quelqu'un d'autre à accuser » 사실인지 모르는 가상의 인물을 조건법으로 묘사한다. 베라가 그대로 받아친다: « cette femme qui t'aurait donné une clé vide, pourquoi serait-elle revenue ? » 또 « aucun d'entre eux n'aurait tiré sans son ordre » (조건법 과거 = 일어나지 않았을 일에 대한 확신), « Ça voudrait dire que quelqu'un l'avait recrutée » (조건법 = 판단 유보)."),
 ("B2","si + 반과거 → 조건법 현재 (현재 사실의 반대)",
