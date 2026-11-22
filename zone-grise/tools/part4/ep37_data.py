@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 # (speaker, french, korean); speaker None => stage direction (not a turn)
-E, A, K, M, LU, H, F = "Étienne", "Anne", "Kerhervé", "Maëlle", "Lucas", "Hallier", "Factionnaire"
+E, A, K, M, LU, H, F = "Étienne", "Anne", "Kerhervé", "Gwenaëlle", "Lucas", "Hallier", "Factionnaire"
 D = [
 (None, "— Scène 1 : en mer d'Iroise, à vingt-deux milles à l'ouest d'Ouessant, à bord du navire câblier « Ker Avel ». Lundi 20 septembre 2027, 3 h 50 —", "— 장면 1: 이루아즈 해, 우에상 섬 서쪽 22해리 해상, 케이블선 « 케르 아벨 »호. 2027년 9월 20일 월요일 새벽 3시 50분 —"),
-(None, "La passerelle est plongée dans la pénombre rouge des quarts de nuit. Maëlle Guéguen, l'ingénieure fibre du bord, frappe à la porte de la cabine du commandant, une tablette à la main.", "선교는 야간 당직의 붉은 어스름에 잠겨 있다. 배의 광섬유 엔지니어 마엘 게겐이 태블릿을 들고 선장실 문을 두드린다."),
+(None, "La passerelle est plongée dans la pénombre rouge des quarts de nuit. Gwenaëlle Guéguen, l'ingénieure fibre du bord, frappe à la porte de la cabine du commandant, une tablette à la main.", "선교는 야간 당직의 붉은 어스름에 잠겨 있다. 배의 광섬유 엔지니어 그웨나엘 게겐이 태블릿을 들고 선장실 문을 두드린다."),
 (M, "Commandant, je suis désolée de vous réveiller à cette heure-ci, mais il faut que vous voyiez ce que la fibre d'Armorica est en train de nous raconter depuis une heure.", "선장님, 이 시간에 깨워서 죄송한데요, 아르모리카 광섬유가 한 시간째 우리한테 들려주는 걸 직접 보셔야 할 것 같아요."),
-(K, "Si c'est encore une baleine qui se gratte le dos sur le câble, Maëlle, je vous jure que je la fais inscrire au rôle d'équipage et que je lui retiens le café sur sa solde.", "또 고래가 케이블에 등을 긁는 거라면, 마엘, 맹세컨대 그놈을 선원 명부에 올리고 커피값을 월급에서 까 버릴 거요."),
+(K, "Si c'est encore une baleine qui se gratte le dos sur le câble, Gwenaëlle, je vous jure que je la fais inscrire au rôle d'équipage et que je lui retiens le café sur sa solde.", "또 고래가 케이블에 등을 긁는 거라면, 그웨나엘, 맹세컨대 그놈을 선원 명부에 올리고 커피값을 월급에서 까 버릴 거요."),
 (M, "Une baleine ne se déplace pas à trois nœuds en lignes parfaitement parallèles, espacées de deux cents mètres, en faisant demi-tour exactement au même endroit à chaque passage.", "고래는 3노트 속도로 200미터 간격의 완벽한 평행선을 그리며 움직이지 않아요. 지나갈 때마다 정확히 같은 자리에서 방향을 돌리지도 않고요."),
 (None, "Le commandant Yann Kerhervé, la soixantaine, enfile un pull de laine par-dessus son pyjama et se penche sur l'écran. Une traînée de points lumineux dessine un quadrillage sur le tracé du câble.", "예순 줄의 얀 케르에르베 선장이 잠옷 위에 털 스웨터를 껴입고 화면을 들여다본다. 빛나는 점들의 궤적이 케이블 경로 위에 격자를 그리고 있다."),
 (K, "C'est un bateau qui travaille au-dessus du câble, ça, et il le fait avec une régularité que je n'ai jamais vue chez un pêcheur, même chez les hauturiers les plus disciplinés.", "케이블 위에서 작업하는 배로군. 그런데 저렇게 규칙적인 건 어부한테서 본 적이 없어. 제일 깐깐한 원양 어부들도 저렇진 않지."),
@@ -59,7 +59,7 @@ D = [
 (A, "Je vous présente monsieur Duval, du ministère, qui a demandé à entendre votre rapport, et à qui vous pouvez parler aussi librement qu'à moi, du moins jusqu'à nouvel ordre.", "국방부에서 오신 뒤발 씨예요. 선장님 보고를 듣고 싶다고 하셨어요. 저한테 하듯 편하게 말씀하셔도 됩니다. 적어도 다른 지시가 있을 때까지는요."),
 (K, "Du ministère, vraiment ? Il a pourtant le regard des gens qui ont passé des nuits à attendre quelque chose, et ça, monsieur, ça ne s'apprend pas dans un bureau.", "국방부에서요, 정말로? 그런데 이분은 뭔가를 기다리며 밤을 지새워 본 사람의 눈을 하고 있는데요. 그런 건 사무실에서 배우는 게 아니죠, 선생."),
 (E, "On attend beaucoup dans les bureaux aussi, commandant, et parfois bien plus longtemps qu'en mer, mais je vous remercie de me croire plus aventurier que je ne le suis.", "사무실에서도 많이 기다립니다, 선장님. 때로는 바다에서보다 훨씬 오래요. 그래도 저를 실제보다 모험가로 봐 주셔서 감사합니다."),
-(None, "Dans le local technique, Maëlle a affiché sur un grand écran une carte marine de l'Iroise, traversée par une ligne jaune qui file vers l'ouest.", "기술실에서 마엘이 큰 화면에 이루아즈 해 해도를 띄워 놓았다. 서쪽으로 뻗어 나가는 노란 선 하나가 그 위를 가로지른다."),
+(None, "Dans le local technique, Gwenaëlle a affiché sur un grand écran une carte marine de l'Iroise, traversée par une ligne jaune qui file vers l'ouest.", "기술실에서 그웨나엘이 큰 화면에 이루아즈 해 해도를 띄워 놓았다. 서쪽으로 뻗어 나가는 노란 선 하나가 그 위를 가로지른다."),
 (M, "La ligne jaune, c'est Armorica-1, le câble transatlantique qui atterrit sur la côte nord ; nous venions de réparer une gaine abîmée et nous testions la fibre en mode écoute.", "이 노란 선이 아르모리카-1, 북쪽 해안에 육양되는 대서양 횡단 케이블이에요. 손상된 피복을 막 수리하고 광섬유를 청음 모드로 시험하던 중이었죠."),
 (E, "Excusez mon ignorance, mais j'aimerais que vous m'expliquiez comment un câble de verre peut écouter quoi que ce soit, puisqu'il me semblait qu'il servait seulement à transporter nos courriels.", "무식한 질문이라 죄송하지만, 유리로 된 케이블이 어떻게 뭔가를 들을 수 있는지 설명해 주시겠어요? 저는 그게 우리 이메일만 실어 나르는 줄 알았거든요."),
 (M, "Quand un bateau passe au-dessus, la vibration déforme très légèrement la fibre, et en envoyant des impulsions laser on mesure ces déformations mètre par mètre, sur des dizaines de kilomètres.", "배가 위로 지나가면 진동 때문에 광섬유가 아주 미세하게 변형돼요. 레이저 펄스를 보내서 그 변형을 수십 킬로미터에 걸쳐 1미터 단위로 측정하는 거죠."),
@@ -120,7 +120,7 @@ D = [
 (E, "Et alors, j'existe, ou bien vous êtes en train de dîner avec un fantôme, comme le commandant Kerhervé avec son chalutier de cette nuit ?", "그래서요, 제가 존재하던가요? 아니면 케르에르베 선장이 어젯밤 그 트롤선과 그랬듯 유령과 저녁을 드시는 중인가요?"),
 (A, "Vous existez, et on me l'a confirmé avec un empressement que je n'ai jamais connu dans aucune administration, ce qui, chez nous, ressemble beaucoup à un mensonge bien préparé.", "존재하시더군요. 그런데 어느 관청에서도 본 적 없을 만큼 서둘러서 확인해 주더라고요. 우리 쪽에선 그게 잘 준비된 거짓말이랑 아주 비슷해 보이죠."),
 (E, "Si c'était un mensonge, commandant, vous auriez sans doute déjà prévenu la sécurité de la base, au lieu de m'offrir une complète et de me parler de votre grand-mère.", "그게 거짓말이었다면, 사령관님, 저한테 콩플레트를 사 주고 할머니 얘기를 하는 대신 진작 기지 보안팀에 알리셨겠죠."),
-(A, "Je n'ai prévenu personne parce que, mensonge ou pas, vous êtes le premier homme envoyé par Paris qui ait regardé la carte de Maëlle comme on regarde une menace et non comme un dossier.", "아무한테도 알리지 않았어요. 거짓말이든 아니든, 당신은 마엘의 해도를 서류가 아니라 위협으로 바라본 첫 번째 파리 사람이니까요."),
+(A, "Je n'ai prévenu personne parce que, mensonge ou pas, vous êtes le premier homme envoyé par Paris qui ait regardé la carte de Gwenaëlle comme on regarde une menace et non comme un dossier.", "아무한테도 알리지 않았어요. 거짓말이든 아니든, 당신은 그웨나엘의 해도를 서류가 아니라 위협으로 바라본 첫 번째 파리 사람이니까요."),
 (E, "Je vous remercie de cette confiance, commandant, même si je devine qu'elle n'est pas tout à fait gratuite.", "그렇게 믿어 주셔서 감사합니다, 사령관님. 완전히 공짜는 아닐 거라고 짐작은 합니다만."),
 (A, "Alors je vous pose la question une seule fois, comme on le fait chez nous : est-ce que vous êtes en train de me mener en bateau ?", "그러니 우리 식대로 딱 한 번만 물을게요. 지금 저를 속이고 계신 건가요?"),
 (E, "Je vous mène peut-être en bateau, commandant, mais je vous jure que c'est dans la bonne direction, et que je ne laisserai personne à la mer.", "어쩌면 사령관님을 배에 태워 끌고 다니는 건지도 모르죠. 하지만 맹세컨대 방향은 맞고, 아무도 바다에 버려두지 않을 겁니다."),
@@ -228,7 +228,7 @@ CULTURE = [
 
 META = dict(part=4, ep=37, part_label="제4부 누메아의 선 · Le Fil de Nouméa", title_fr="Henri Duval, inspecteur", title_ko="감사관 앙리 뒤발",
  place="이루아즈 해 케이블선 « 케르 아벨 »호(새벽 03:50) → 브레스트 해군 공창 카파렐리 문과 팡펠드 강변(09:05) → 상업항 수리 부두(11:20) → 쿠르 다조와 르쿠브랑스의 크레프 가게(19:15) → 시암 거리 호텔 214호(22:35~23:52) · 2027년 9월 20일 월요일",
- chars="Étienne Lacroix (에티엔, 47세, DGSE 공작관 · 위장명 '앙리 뒤발', 군 감사총국 감사관) · Anne Le Goff (안 르 고프, 44세, 해군 중령, CECLANT 해저 인프라 보안 담당) · Yann Kerhervé (케르에르베, 60대, 케이블선 « 케르 아벨 » 선장) · Maëlle Guéguen (마엘, 케이블선 광섬유 엔지니어) · Lucas Ferrier (뤼카, 기술 요원, 원격) · Bertrand Hallier (알리에, 정보총국 부국장, 전화) · 보초(Factionnaire)",
+ chars="Étienne Lacroix (에티엔, 47세, DGSE 공작관 · 위장명 '앙리 뒤발', 군 감사총국 감사관) · Anne Le Goff (안 르 고프, 44세, 해군 중령, CECLANT 해저 인프라 보안 담당) · Yann Kerhervé (케르에르베, 60대, 케이블선 « 케르 아벨 » 선장) · Gwenaëlle Guéguen (그웨나엘, 케이블선 광섬유 엔지니어) · Lucas Ferrier (뤼카, 기술 요원, 원격) · Bertrand Hallier (알리에, 정보총국 부국장, 전화) · 보초(Factionnaire)",
  situation="티무르의 정보를 확인하려고 국방부 감사관으로 위장해 브레스트에 온 에티엔이 안 르 고프와 서로를 떠본다. AIS를 끈 정체불명의 배가 대서양 케이블 위를 측량하듯 맴돌았다는 케이블선의 보고, 그리고 '너무 공손한' 남자의 흔적이 드러난다",
  focus="양보 도치(aussi … soit-il), ne … que, 조건법 과거 가정, 비교의 허사 ne, craindre que + 접속법, 복합 도치 의문문, 관계대명사 dont",
  jargon="navire câblier, couper son AIS, bâtiment vs bateau, marsouin/la coloniale, sonar latéral remorqué, CROSS·sémaphore, ordre de mission, la baille",
