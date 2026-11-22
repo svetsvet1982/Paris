@@ -23,7 +23,7 @@ D = [
 (E, "Tu as eu raison, allons-y tout de suite, avant que je change d'avis sur ta manière de réveiller les gens.", "잘했어. 당장 가자. 사람 깨우는 네 방식에 대해 내 생각이 바뀌기 전에."),
 
 (None, "— Scène 2 : Hôtel de police de l'Évêché, salle d'audition des mineurs, 9 h 10 —", "— 2장: 에베셰 경찰청, 미성년자 조사실, 오전 9시 10분 —"),
-(None, "Une petite pièce sans fenêtre. Une caméra filme l'audition, comme la loi l'exige pour les mineurs. Enzo, capuche sur la tête, est affalé sur sa chaise. À côté de lui, son avocate commise d'office, Maître Benali, feuillette le dossier.", "창문 없는 작은 방. 미성년자 조사는 법에 따라 카메라로 녹화된다. 엔조는 후드를 뒤집어쓴 채 의자에 축 늘어져 있다. 그 옆에서 국선 변호인 베날리 변호사가 서류를 넘긴다."),
+(None, "Une petite pièce sans fenêtre. Une caméra filme l'audition, comme la loi l'exige pour les mineurs. Enzo, capuche sur la tête, est affalé sur sa chaise. À côté de lui, son avocate commise d'office, Maître Rinaldi, feuillette le dossier.", "창문 없는 작은 방. 미성년자 조사는 법에 따라 카메라로 녹화된다. 엔조는 후드를 뒤집어쓴 채 의자에 축 늘어져 있다. 그 옆에서 국선 변호인 리날디 변호사가 서류를 넘긴다."),
 (AV, "Avant de commencer, je voudrais savoir qui est ce monsieur, parce qu'il ne figure nulle part dans la procédure qu'on m'a communiquée.", "시작하기 전에 이분이 누구신지 알고 싶습니다. 제가 받은 수사 서류 어디에도 이분 이름이 없거든요."),
 (K, "C'est un collègue de Paris qui travaille sur les escroqueries en ligne ; il assiste à l'audition en observateur et il ne posera que quelques questions, maître.", "온라인 사기를 담당하는 파리 쪽 동료입니다. 참관인으로 조사에 참석하고, 질문은 몇 가지만 할 겁니다, 변호사님."),
 (AV, "Je le note. Enzo, je te rappelle que tu as le droit de te taire et que tu peux me demander de te parler en privé à tout moment.", "기록해 두죠. 엔조, 다시 말하지만 넌 진술을 거부할 권리가 있고, 언제든 나랑 따로 얘기하고 싶다고 요청할 수 있어."),
@@ -154,7 +154,7 @@ D = [
 (K, "Bon, maintenant que le petit est retourné en cellule, tu vas me dire qui est la dame du ferry, ou est-ce que je dois deviner tout seul comme un fada ?", "자, 꼬마도 유치장으로 돌아갔으니 이제 페리의 그 여자가 누군지 말해 줄래? 아니면 내가 바보처럼 혼자 맞혀야 해?"),
 (E, "Elle s'appelle Véra, c'est une très vieille histoire, et pour l'instant, c'est tout ce que je peux te dire sans être obligé de te mentir.", "이름은 베라야. 아주 오래된 이야기고, 지금으로선 너한테 거짓말하지 않고 말할 수 있는 건 그게 전부야."),
 (K, "Alors je vais te dire ce que je vois, moi : soit ta Véra t'a vendu en souriant à un gamin de dix-sept ans, soit quelqu'un de chez toi a beaucoup trop parlé.", "그럼 내가 보는 걸 말해 주지. 네 베라가 열일곱 살짜리한테 웃어 주면서 너를 팔아넘겼거나, 아니면 너희 쪽 누군가가 입을 너무 많이 놀렸거나."),
-(E, "Le message est arrivé vendredi à vingt et une heures quarante-sept, et à ce moment-là, je pourrais compter sur les doigts d'une main les gens qui savaient où je serais le lendemain.", "그 메시지는 금요일 밤 9시 47분에 왔어. 그때 내가 다음 날 어디 있을지 아는 사람은 한 손으로 꼽을 수 있을 정도였지."),
+(E, "Le message est arrivé dans la nuit de jeudi à vendredi, à une heure douze, et à ce moment-là, je pouvais compter sur les doigts d'une main les gens qui savaient où je serais le lendemain.", "그 메시지는 목요일에서 금요일로 넘어가는 새벽 1시 12분에 왔어. 그때 내가 다음 날 어디 있을지 아는 사람은 한 손으로 꼽을 수 있을 정도였지."),
 (K, "Et la montre ? Ils savaient que tu la porterais, à moins qu'on t'ait déjà photographié avant, à la gare par exemple, avec les petits de mercredi.", "그리고 시계는? 네가 그걸 차고 올 걸 알고 있었다는 거잖아. 아니면 그 전에, 예를 들어 수요일에 역에서 그 꼬맹이들이 이미 널 찍어 뒀거나."),
 (E, "C'est possible, et c'est même l'explication la plus rassurante ; le problème, c'est que depuis vingt ans, les explications rassurantes ne m'ont jamais porté chance.", "그럴 수도 있지. 그게 오히려 제일 안심되는 설명이고. 문제는 지난 20년 동안 안심되는 설명이 나한테 운을 가져다준 적이 한 번도 없다는 거야."),
 (K, "En tout cas, retiens bien une chose : ceux qui paient des gosses comme Enzo pour te prendre en photo ne s'arrêteront pas aux photos.", "어쨌든 하나만 꼭 기억해. 엔조 같은 애들한테 돈 주고 너를 찍게 하는 놈들은 사진에서 멈추지 않을 거야."),
@@ -214,7 +214,7 @@ CULTURE = [
 
 META = dict(part=1, ep=6, part_label="제1부 마지막 접선 · Le Dernier Rendez-vous", title_fr="Les jetables", title_ko="일회용 아이들",
  place="마르세유 북부 그랑팽 단지 → 에베셰 경찰청 미성년자 조사실 · 2026년 10월 19일(월) 06:45~11:40",
- chars="Étienne Lacroix (에티엔, 46세, DGSE 공작관) · Karim (카림, 38세, OFAST 수사관) · Enzo Morel (엔조, 17세, 체포된 망보기 소년) · Maître Benali (베날리 변호사, 엔조의 국선 변호인) · Céline Morel (셀린, 엔조의 엄마, 병원 간호조무사)",
+ chars="Étienne Lacroix (에티엔, 46세, DGSE 공작관) · Karim (카림, 38세, OFAST 수사관) · Enzo Morel (엔조, 17세, 체포된 망보기 소년) · Maître Rinaldi (리날디 변호사, 엔조의 국선 변호인) · Céline Morel (셀린, 엔조의 엄마, 병원 간호조무사)",
  situation="카림이 체포한 17세 엔조의 휴대폰에서 텔레그램 채널 'Mistral Jobs'가 나오고, 엔조가 500유로를 받고 찍은 페리 사진 속에 에티엔과 베라가 있다. 촬영 지시는 접선 전날 밤에 도착했다.",
  focus="심문 의문문(억양·est-ce que·의문사), 간접화법과 시제 일치, 사역 faire, 접속법(vouloir que·avant que·pour que), comme si, 구어 강조 구문",
  jargon="chouf / faire le chouf, point de deal / four / charbonner, agent jetable, garde à vue, exploitation du téléphone, 청소년 은어(wesh, chelou, keuf, balance, daronne, thune, capter)",

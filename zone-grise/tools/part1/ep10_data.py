@@ -153,7 +153,7 @@ D = [
 (None, "— Scène 4 : Même chambre, 23 h 05 —", "— 장면 4: 같은 방, 오후 11시 05분 —"),
 (None, "On frappe trois coups rapides. Lucas entre, son téléphone de service à la main, le visage tendu.", "빠르게 세 번 노크 소리가 난다. 뤼카가 업무용 휴대폰을 손에 들고 굳은 얼굴로 들어온다."),
 (LU, "Chef, ton deuxième téléphone, celui que personne ne connaît, il vient de recevoir un message sur la messagerie chiffrée, et ce n'est pas moi qui l'ai envoyé.", "팀장님, 두 번째 휴대폰 있잖아요, 아무도 모르는 거. 방금 암호 메신저로 메시지가 왔어요. 그리고 보낸 건 제가 아니에요."),
-(V, "[MESSAGE CHIFFRÉ] « Il pleut sur la Canebière. Tu n'aurais pas dû aller à Aix, Paul. Mardi, 23 h, Grand Port, terminal Est, près des conteneurs bleus. Viens avec ce que je t'ai demandé. — V. »", "[암호 메시지] « 카느비에르에 비가 와. 엑스엔 가지 말았어야 했어, 폴. 화요일 밤 11시, 그랑포르, 동쪽 터미널, 파란 컨테이너 근처. 내가 부탁한 걸 갖고 와. — V. »"),
+(V, "[MESSAGE CHIFFRÉ] « Il pleut sur la Canebière. Tu n'aurais pas dû aller à Aix, Paul. Mardi, 23 h 40, Grand Port, terminal de Mourepiane, près des conteneurs bleus. Viens avec ce que je t'ai demandé. — V. »", "[암호 메시지] « 카느비에르에 비가 와. 엑스엔 가지 말았어야 했어, 폴. 화요일 밤 11시 40분, 그랑포르, 모레피안 터미널, 파란 컨테이너 근처. 내가 부탁한 걸 갖고 와. — V. »"),
 (LU, "Elle sait que tu es allé à Aix, alors qu'on n'a rien dit à personne. Soit elle fait surveiller son fils, soit quelqu'un d'autre nous a vus sur cette terrasse.", "아무한테도 말 안 했는데 팀장님이 엑스에 간 걸 알고 있어요. 베라가 아들을 감시시키고 있든지, 아니면 다른 누군가가 그 테라스에서 우릴 본 거예요."),
 (E, "Une mère qui fait surveiller son fils, je peux le comprendre. Mais si c'est quelqu'un d'autre, alors quelqu'un sait maintenant exactement où je suis faible.", "아들을 감시시키는 엄마라면 이해할 수 있어. 그런데 만약 다른 누군가라면, 이제 누군가 내 약점이 정확히 어디 있는지 알게 된 거야."),
 (LU, "Je préviens Paris pour mardi, ou on continue en mode sous-marin jusqu'au bout ?", "화요일 건, 파리에 알려요? 아니면 끝까지 잠수 모드로 가요?"),

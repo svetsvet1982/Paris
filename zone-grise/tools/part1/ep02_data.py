@@ -274,15 +274,15 @@ D = [
  "나도 궁금했어, 믿어 줘. 하지만 스물여섯 살 때 상관이 이제 잊으라고 하면, 잊고 고맙다고 하는 거야."),
 (None, "Le téléphone d'Étienne vibre sur la tablette rabattable. Sur l'écran s'affiche un seul mot : « Hallier ».",
  "접이식 테이블 위에서 에티엔의 휴대폰이 진동한다. 화면에 단 한 단어가 뜬다. « 알리에 »."),
-(H, "(au téléphone) Mon petit, je ne vous dérange pas ? Je voulais simplement m'assurer que votre voyage se passât sans encombre.",
+(H, "(au téléphone) Mon petit, je ne te dérange pas ? Je voulais simplement m'assurer que ton voyage se passât sans encombre.",
  "(전화) 젊은 친구, 방해한 건 아니겠지? 자네 여행이 무탈한지 확인하고 싶었을 뿐이네."),
 (E, "(au téléphone) Tout va bien, monsieur, on passera à hauteur de Lyon dans une vingtaine de minutes, et Lucas m'a déjà fait réviser tout le dossier.",
  "(전화) 다 괜찮습니다, 국장님. 20분쯤 뒤면 리옹 근처를 지나고요, 뤼카가 벌써 파일 전체를 복습시켜 줬습니다."),
-(H, "(au téléphone) Parfait. Et où logerez-vous, finalement ? Je préférerais savoir où vous joindre, s'il fallait que je vous fisse parvenir quelque chose en urgence.",
+(H, "(au téléphone) Parfait. Et où logeras-tu, finalement ? Je préférerais savoir où te joindre, s'il fallait que je te fisse parvenir quelque chose en urgence.",
  "(전화) 좋아. 그래서 결국 어디에 묵을 건가? 급히 뭔가 전해야 할 일이 생길 경우를 대비해 자네와 연락할 곳을 알아 두고 싶네."),
 (E, "(au téléphone) On prend l'appartement de la Boîte, en haut du cours Julien, celui que l'antenne de Marseille utilise d'habitude pour les gens de passage.",
  "(전화) 쿠르 쥘리앵 위쪽에 있는 회사 아파트를 씁니다. 마르세유 지부가 출장자들에게 늘 쓰게 하는 곳이요."),
-(H, "(au téléphone) Très bien. Festina lente, mon petit : hâtez-vous lentement, et surtout, ne laissez pas le passé vous dicter le moindre de vos gestes.",
+(H, "(au téléphone) Très bien. Festina lente, mon petit : hâte-toi lentement, et surtout, ne laisse pas le passé te dicter le moindre de tes gestes.",
  "(전화) 아주 좋아. 페스티나 렌테, 젊은 친구. 천천히 서두르게. 그리고 무엇보다, 과거가 자네의 사소한 행동 하나라도 좌우하게 두지 말게."),
 (E, "(au téléphone) Je n'ai pas l'intention de laisser qui que ce soit me dicter mes gestes, monsieur, ni le passé ni personne d'autre.",
  "(전화) 누구에게도 제 행동을 좌우하게 둘 생각은 없습니다, 국장님. 과거든 다른 누구든요."),
@@ -357,7 +357,7 @@ VOCAB = [
 ("JARGON","caviarder","(기밀 문서의 일부를) 검게 지우다","« une note entièrement caviardée » 제정 러시아 검열관이 '캐비어처럼' 검게 칠한 데서 유래"),
 ("JARGON","le point de chute / le repérage","거처, 묵을 곳 / 사전 답사","알리에의 « Tenez-moi informé de votre point de chute » 와 에티엔의 « même pour faire du repérage »"),
 ("JARGON","être en mode sous-marin","잠수 모드다, 눈에 띄지 않게 움직이다","뤼카의 Z세대식 표현. en mode + 명사 = '~ 모드로'. 같은 말투로 « le timing est ouf », « c'est pas clean »"),
-("C1","Festina lente","천천히 서둘러라 (라틴어 경구)","아우구스투스 황제의 좌우명으로 알려진 말. 알리에가 직접 번역해 준다: « hâtez-vous lentement »"),
+("C1","Festina lente","천천히 서둘러라 (라틴어 경구)","아우구스투스 황제의 좌우명으로 알려진 말. 알리에가 직접 번역해 준다: « hâte-toi lentement » (vous 형: hâtez-vous lentement)"),
 ]
 
 GRAM = [

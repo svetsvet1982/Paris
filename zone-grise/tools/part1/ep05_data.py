@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # (speaker, french, korean); speaker None => stage direction (not a turn)
 E, H, LU, K = "Étienne", "Hallier", "Lucas", "Karim"
-N, F = "Nadia", "Fabre"
+N, F = "Nadia", "Orsoni"
 D = [
 (None, "— Scène 1 : Le Panier, rue du Panier, dimanche 18 octobre, 10 h 05 —", "— 1장: 르 파니에, 파니에 거리, 10월 18일 일요일, 오전 10시 5분 —"),
 (None, "Le vieux quartier s'éveille lentement. Étienne, seul en apparence, remonte la rue en pente, une oreillette discrète dans l'oreille. Il s'arrête devant un immeuble ocre aux volets bleus.", "오래된 동네가 천천히 깨어난다. 겉보기엔 혼자인 에티엔이 귀에 작은 이어피스를 꽂은 채 비탈길을 올라간다. 그는 파란 덧창이 달린 황토색 건물 앞에 멈춰 선다."),
@@ -61,18 +61,18 @@ D = [
 (E, "J'ai vécu dans cet immeuble il y a très longtemps, et disons que les souvenirs reviennent plus vite quand on n'a pas dormi de la nuit.", "아주 오래전에 그 건물에 살았습니다. 밤새 한숨도 못 자면 추억이 더 빨리 밀려온다고 해 두죠."),
 (K, "Peuchère, un espion nostalgique... Ma mère aurait adoré votre histoire, elle regarde toutes les séries où des hommes tristes contemplent la mer.", "에구, 향수에 젖은 스파이라... 우리 어머니가 좋아하셨겠네. 슬픈 남자들이 바다 바라보는 드라마는 다 챙겨 보시거든."),
 (E, "Votre mère a bon goût, mais je doute qu'elle apprécie la fin, parce que dans ces séries-là, l'homme triste finit rarement par obtenir ce qu'il veut.", "어머님 안목이 좋으시네요. 그래도 결말은 마음에 안 드실 겁니다. 그런 드라마에서 슬픈 남자는 원하는 걸 얻는 법이 거의 없으니까요."),
-(None, "On frappe. Le brigadier Fabre passe la tête par la porte, un téléphone sans fil à la main.", "노크 소리. 파브르 경사가 무선 전화기를 들고 문틈으로 고개를 내민다."),
+(None, "On frappe. Le brigadier Orsoni passe la tête par la porte, un téléphone sans fil à la main.", "노크 소리. 오르소니 경사가 무선 전화기를 들고 문틈으로 고개를 내민다."),
 (F, "Karim, il y a un appel pour toi sur la ligne du commissaire, c'est un type de Paris qui demande à parler au monsieur qu'on a ramené.", "카림, 서장님 회선으로 전화 왔어. 파리 사람인데, 우리가 데려온 그 양반을 바꿔 달래."),
 (K, "Déjà ? Ça fait à peine une heure qu'on est rentrés, et Paris sait déjà où vous êtes... Ils vous ont mis une puce sous la peau, ou quoi ?", "벌써? 들어온 지 겨우 한 시간인데 파리가 벌써 당신 있는 데를 안다고... 피부 밑에 칩이라도 심어 놨나?"),
 (E, "Passez-le-moi, s'il vous plaît, et si vous voulez écouter, faites-le, de toute façon vous n'en apprendrez pas beaucoup plus.", "바꿔 주십시오. 듣고 싶으시면 들으셔도 됩니다. 어차피 더 알게 되시는 건 별로 없을 테니까요."),
 (None, "Étienne prend le combiné. À l'autre bout du fil, la voix calme et légèrement nasale de Bertrand Hallier.", "에티엔이 수화기를 받는다. 전화선 저편에서 베르트랑 알리에의 차분하고 약간 콧소리 섞인 목소리가 들린다."),
-(H, "Mon petit, j'apprends que vous avez passé la matinée à divertir la police marseillaise, et j'aurais préféré que cette nouvelle me parvînt d'une autre façon.", "이보게, 자네가 오전 내내 마르세유 경찰을 즐겁게 해 줬다는 소식을 들었네. 그 소식이 다른 경로로 내 귀에 들어왔더라면 좋았을 텐데 말이야."),
+(H, "Mon petit, j'apprends que tu as passé la matinée à divertir la police marseillaise, et j'aurais préféré que cette nouvelle me parvînt d'une autre façon.", "이보게, 자네가 오전 내내 마르세유 경찰을 즐겁게 해 줬다는 소식을 들었네. 그 소식이 다른 경로로 내 귀에 들어왔더라면 좋았을 텐데 말이야."),
 (E, "Moi aussi, monsieur, croyez-moi, mais l'équipe de filature a été prise pour des guetteurs par un service qui ne savait pas que nous étions là.", "저도 그렇습니다, 국장님. 그런데 미행팀이 우리가 여기 있는 줄 몰랐던 기관한테 마약 망꾼으로 오인됐습니다."),
-(H, "Il est fâcheux que la coordination ait fait défaut ; je m'en occupe. Dites-moi plutôt où vous vous trouviez exactement au moment de l'interpellation.", "협조 체계에 구멍이 났다니 유감이군. 그건 내가 처리하지. 그보다, 체포가 이뤄질 때 자네가 정확히 어디에 있었는지 말해 보게."),
+(H, "Il est fâcheux que la coordination ait fait défaut ; je m'en occupe. Dis-moi plutôt où tu te trouvais exactement au moment de l'interpellation.", "협조 체계에 구멍이 났다니 유감이군. 그건 내가 처리하지. 그보다, 체포가 이뤄질 때 자네가 정확히 어디에 있었는지 말해 보게."),
 (E, "J'étais dans le Panier, en haut de la rue, je faisais un tour pour vérifier que personne ne me suivait après le contact d'hier, rien de plus.", "파니에 위쪽에 있었습니다. 어제 접선 이후로 미행이 붙지 않았는지 확인하려고 한 바퀴 돌던 중이었어요. 그게 다입니다."),
-(H, "Le Panier... On revient toujours sur les lieux du crime, n'est-ce pas ? Le commissaire libérera vos deux agents dans l'heure, je m'en suis assuré.", "파니에라... 범인은 늘 범행 현장으로 돌아온다던가? 서장이 한 시간 안에 자네 요원 둘을 풀어 줄 걸세. 내가 확실히 해 뒀네."),
+(H, "Le Panier... On revient toujours sur les lieux du crime, n'est-ce pas ? Le commissaire libérera tes deux agents dans l'heure, je m'en suis assuré.", "파니에라... 범인은 늘 범행 현장으로 돌아온다던가? 서장이 한 시간 안에 자네 요원 둘을 풀어 줄 걸세. 내가 확실히 해 뒀네."),
 (E, "Je vous remercie, monsieur, et je vous ferai un rapport complet ce soir, par le canal habituel, comme convenu.", "감사합니다, 국장님. 약속드린 대로 오늘 밤 늘 쓰던 채널로 전체 보고서를 올리겠습니다."),
-(H, "Faites, faites. Et soyez prudent, mon petit : « Festina lente », hâtez-vous lentement, car Marseille n'a jamais aimé les gens pressés.", "그러게, 그러게. 그리고 조심하게, 이 사람아. « 페스티나 렌테 », 천천히 서두르라는 말일세. 마르세유는 서두르는 사람을 좋아한 적이 없으니까."),
+(H, "Fais, fais. Et sois prudent, mon petit : « Festina lente », hâte-toi lentement, car Marseille n'a jamais aimé les gens pressés.", "그러게, 그러게. 그리고 조심하게, 이 사람아. « 페스티나 렌테 », 천천히 서두르라는 말일세. 마르세유는 서두르는 사람을 좋아한 적이 없으니까."),
 (None, "Étienne raccroche. Karim, les bras croisés, n'a pas perdu un mot de la conversation.", "에티엔이 전화를 끊는다. 팔짱을 낀 카림은 통화 내용을 한 마디도 놓치지 않았다."),
 (K, "« Mon petit »... Il vous parle comme un vieux curé, votre patron, et il a réussi à faire appeler mon commissaire un dimanche avant midi, chapeau.", "« 이 사람아 »라... 당신 상관, 무슨 늙은 신부님처럼 말하네. 게다가 일요일 정오도 안 돼서 우리 서장한테 전화가 가게 만들었고. 대단하셔."),
 (E, "Il a ses méthodes, et je ne vais pas vous mentir, elles me surprennent parfois moi aussi, surtout par leur rapidité.", "그분 나름의 방식이 있죠. 거짓말은 안 하겠습니다. 저도 가끔 놀랍니다. 특히 그 속도에요."),
@@ -214,7 +214,7 @@ CULTURE = [
 
 META = dict(part=1, ep=5, part_label="제1부 마지막 접선 · Le Dernier Rendez-vous", title_fr="Le flic du Panier", title_ko="파니에의 경찰",
  place="마르세유 르 파니에(파니에 거리·렌슈 광장) → 에벡세 경찰청사 → 라 마조르 대성당 앞 광장 · 2026년 10월 18일(일) 10시 5분~13시",
- chars="Étienne Lacroix (에티엔, 46세, DGSE 공작관, 위장명 'Paul') · Karim Mesbah (카림, 38세, OFAST 경감, 마르세유 북부 지구 출신) · Lucas Ferrier (뤼카, 29세, DGSE 기술 요원) · Bertrand Hallier (알리에, 61세, DGSE 정보총국 부국장, 전화) · Nadia (나디아, DGSE 미행팀 '그림자 2') · Fabre (파브르, OFAST 경사)",
+ chars="Étienne Lacroix (에티엔, 46세, DGSE 공작관, 위장명 'Paul') · Karim Mesbah (카림, 38세, OFAST 경감, 마르세유 북부 지구 출신) · Lucas Ferrier (뤼카, 29세, DGSE 기술 요원) · Bertrand Hallier (알리에, 61세, DGSE 정보총국 부국장, 전화) · Nadia (나디아, DGSE 미행팀 '그림자 2') · Orsoni (오르소니, OFAST 경사)",
  situation="베라와 첫 접선 다음 날, 옛집을 보러 간 에티엔의 보호 미행팀 2명이 마약 거래를 감시하던 카림에게 망꾼으로 오인돼 체포된다. 에벡세에서 관할 신경전이 벌어지고, 카림은 외국인들이 텔레그램으로 동네 아이들에게 이상한 일감을 준다고 털어놓는다. 마지막에 카림의 감시 사진 속에서 에티엔을 몰래 찍는 소년이 발견된다.",
  focus="마르세유 구어 표현, 신경전과 비꼬기(점잖은 협박·반어), avant que + ne 허사 + 접속법, faire + 부정법, si 가정문, 강세 대명사로 대비하기",
  jargon="équipe de filature, guetteur / faire le guet, point de deal, interpellation, procès-verbal, cueillir qqn, la Boîte, habilitation, dispositif",
