@@ -44,3 +44,11 @@
 데이터 파일 형식은 1부와 동일하다. 단 META는 `part=2`, `part_label="제2부 붉은 파일 · Le Fichier Rouge"`, `levelmix="B1 25% / B2 45% / C1 20% / 은어 10% 목표"`.
 파일: `zone-grise/tools/part2/epNN_data.py`. 검사: `cd /home/user/Paris/zone-grise && python3 tools/check_ep.py tools.part2.epNN_data`.
 화자 표기: Étienne, Inès, Kasper, Diallo, Crozet, Krylenko, Herrera, Roux, Lucas, Hallier, Chloé (단역 자유).
+
+## 13~18화 집필 후 확정된 사실 (19화 이후 반드시 유지)
+- (18화) 디알로는 12월 2일(수)부터 리옹코르바 구치소에 "범죄인 인도 구금(sous écrou extraditionnel)" 상태다. CCF는 구금에 관여할 수 없다(석방은 24화). CCF 결정: 17건 즉시 임시 차단, 사무총국은 10일 안에 기술 흔적을 제출하고 3개 BCN은 10일 안에 의견서를 낸다.
+- (18화) 크릴렌코가 디알로 사무소 → 협회 « Plume libre »(수감 언론인 변호 비용 지원) 송금 내역을 제출했고, "여론이 곧 알게 될 것"이라고 암시했다(22화 딥페이크 복선).
+- (18화) 17명 중 한 명인 언론인 파벨 오를리크(Pavel Orlik)는 8개월 전 빈에서 사망했는데 9월 송금 혐의를 받는다(조작의 증거).
+- (18화) 요청 접수는 11월 30일 23시~12월 1일 1시. 사유문은 번역 후 91% 동일하고 세 버전에 같은 문법 오류가 있다. 사전 승인은 원래 저위험 갱신에만 쓰인다. 이네스는 아직 플래그 계정을 모른다(FR-LIA-0417 공개는 20화).
+- (18화) 크릴렌코가 카스페르의 "로그 자동 순환" 설명을 알고 있었다(서버실에서 말로만 한 것). 이네스는 아직 카스페르를 변호한다(« je refuse de soupçonner quelqu'un parce qu'il apporte des brioches »). 카스페르의 시나몬롤은 크루아루스의 스웨덴 빵집 것.
+- (18화) 에레라가 청문회 뒤쪽에서 메모했다. 에티엔은 CCF에 베라 이야기를 하지 않았다. 이네스는 크릴렌코가 "마르세유"를 안다는 걸 들었고, 에티엔은 설명을 미뤘다. 아직 vous.
