@@ -45,8 +45,8 @@ D = [
  "에티엔은 식은 커피 냄새가 나는 차를 몰고 공항으로 향한다. 계기판 위에 놓인 전화가 울린다. 분석 셀에서 밤을 새운 이네스다."),
 (I, "Je vous préviens tout de suite que je n'ai pas dormi et que je n'ai aucune patience, donc écoutez-moi sans m'interrompre : Diallo a été contrôlée à Saint-Exupéry à six heures cinquante-quatre.",
  "미리 말해 두는데, 저 한숨도 못 잤고 인내심도 바닥이에요. 그러니까 끊지 말고 들으세요. 디알로가 6시 54분에 생텍쥐페리 공항에서 검문에 걸렸어요."),
-(E, "Bah, je m'en doutais un peu, parce qu'on ne m'appelle jamais à sept heures du matin pour m'annoncer une bonne nouvelle, mais j'espérais qu'elle aurait le réflexe de passer par Genève.",
- "뭐, 그럴 줄 알았어요. 아침 7시에 좋은 소식 전하려고 전화하는 사람은 없으니까. 그래도 그 사람이 눈치껏 제네바로 돌아오길 바랐는데."),
+(E, "Bah, je m'en doutais un peu, parce qu'on ne m'appelle jamais à sept heures du matin pour m'annoncer une bonne nouvelle, mais j'espérais qu'elle aurait la bonne idée d'atterrir ailleurs qu'en France.",
+ "뭐, 그럴 줄 알았어요. 아침 7시에 좋은 소식 전하려고 전화하는 사람은 없으니까. 그래도 그 사람이 눈치껏 프랑스 말고 다른 데 내리길 바랐는데."),
 (I, "Or elle n'avait aucune raison de se méfier, puisque personne ne l'a prévenue, et pour cause : le règlement nous interdit d'avertir la personne visée par une notice.",
  "그런데 그 사람은 경계할 이유가 전혀 없었죠. 아무도 알려 주지 않았으니까요. 당연하죠, 수배 대상자에게 경고하는 건 규정상 금지돼 있으니까."),
 (E, "J'ai quand même laissé deux messages à son cabinet hier après-midi, sans rien dire de précis, mais son portable était éteint et elle était coincée à Dakar.",
@@ -69,8 +69,8 @@ D = [
  "그러니까 국경경찰이 그 사람을 테러 혐의로 수배된 세네갈인으로 취급하면, 누가 서류를 읽어 볼 틈도 없이 비행기에 태워질 수 있다는 거네요."),
 (I, "Ce n'est pas si rapide, une extradition prend des semaines. En revanche, ce qui est immédiat, c'est le message de découverte : dès que la PAF confirme le « hit », le BCN demandeur saura où elle est et ce qu'elle transporte.",
  "그렇게 빠르진 않아요. 범죄인 인도는 몇 주가 걸리거든요. 반면에 즉각적인 건 발견 통보예요. 국경경찰이 '히트'를 확인하는 순간, 요청한 BCN은 그 사람이 어디 있는지, 뭘 갖고 있는지 알게 돼요."),
-(E, "La France donne beaucoup de poids aux notices, donc la PAF n'a fait que son travail, et il faut que j'arrive avant que ce message parte, et que je convainque un commandant de police qui ne m'a jamais vu de désobéir à son écran.",
- "프랑스는 수배를 아주 무겁게 받아들이니까 국경경찰은 자기 일을 했을 뿐이죠. 그러니 그 통보가 나가기 전에 도착해야겠네요. 그리고 한 번도 본 적 없는 경찰 경감을 설득해서 자기 화면을 거스르게 만들어야 하고요."),
+(E, "Comme la France prend les notices très au sérieux, la PAF n'aura fait que son travail en l'envoyant, donc il faut que j'arrive avant que ce message parte et que je convainque un commandant de police qui ne m'a jamais vu de désobéir à son écran.",
+ "프랑스는 수배를 아주 무겁게 받아들이니까, 그걸 보내도 국경경찰은 자기 일을 한 것뿐이겠죠. 그러니 그 통보가 나가기 전에 도착해야겠네요. 그리고 한 번도 본 적 없는 경찰 경감을 설득해서 자기 화면을 거스르게 만들어야 하고요."),
 (I, "Je vous envoie la note de la cellule qui signale les dix-sept notices comme « en cours de réexamen ». Elle n'a aucune valeur juridique, mais elle porte le logo d'Interpol, ce qui impressionne toujours un peu.",
  "17건을 '재검토 중'으로 표시한 우리 셀의 메모를 보내 드릴게요. 법적 효력은 전혀 없지만 인터폴 로고가 박혀 있으니까, 늘 조금은 먹혀요."),
 (E, "Merci, Inès. Si je vous rapporte un croissant de l'aéroport, vous accepterez peut-être d'arrêter de me parler comme à un stagiaire.",
@@ -338,8 +338,8 @@ D = [
  "저를 실망시키지 마세요, 라크루아 씨. 당신보다 훨씬 힘 있는 남자들한테도 실망한 적이 있는데, 이제 그런 실망을 참아 줄 인내심은 별로 안 남았거든요."),
 (None, "La porte se referme. Resté seul, Étienne sort son portable et appelle Inès.",
  "문이 닫힌다. 홀로 남은 에티엔이 휴대폰을 꺼내 이네스에게 전화한다."),
-(E, "Inès, c'est moi. J'ai besoin de savoir qui, dans votre bâtiment ou ailleurs, pouvait connaître le nom de Diallo à quatre heures dix-sept du matin.",
- "이네스, 저예요. 당신네 건물이든 다른 데든, 새벽 4시 17분에 디알로라는 이름을 알 수 있었던 사람이 누군지 알아야겠어요."),
+(E, "Inès, c'est moi. J'ai besoin de savoir qui, dans notre maison ou ailleurs, pouvait connaître le nom de Diallo à quatre heures dix-sept du matin.",
+ "이네스, 저예요. 우리 기관이든 다른 데든, 새벽 4시 17분에 디알로라는 이름을 알 수 있었던 사람이 누군지 알아야겠어요."),
 (I, "À quatre heures dix-sept, personne ne pouvait le savoir, à part celui qui a fabriqué les notices… ou quelqu'un qui le regardait faire.",
  "4시 17분엔 아무도 알 수 없었어요. 그 수배들을 만든 사람만 빼고요… 아니면 그 사람이 하는 걸 지켜보던 누군가거나."),
 ]
@@ -387,7 +387,7 @@ GRAM = [
 ("B2","논리 연결어: or, en revanche, autrement dit, justement",
  "이네스의 말버릇. « Or elle n'avait aucune raison de se méfier » (그런데: 논증의 새 전제), « En revanche, ce qui est immédiat, c'est le message de découverte » (반면에), « Autrement dit, quelqu'un a pris soin d'effacer sa nationalité » (다시 말해), « Justement. » 단독이 아니라 뒤 문장과 이어져 '바로 그 점이 문제'라는 뜻."),
 ("C1","비교의 허사 ne와 ne … que",
- "« C'est important, beaucoup plus que vous ne pouvez l'imaginer »: 우등·열등 비교절에서 격식체는 허사 ne를 넣는다(부정 아님). 반면 « la demande ne mentionne qu'une seule nationalité », « la PAF n'a fait que son travail »의 ne … que는 '~만'이라는 한정이다."),
+ "« C'est important, beaucoup plus que vous ne pouvez l'imaginer »: 우등·열등 비교절에서 격식체는 허사 ne를 넣는다(부정 아님). 반면 « la demande ne mentionne qu'une seule nationalité », « la PAF n'aura fait que son travail »의 ne … que는 '~만'이라는 한정이다."),
 ]
 
 CULTURE = [
