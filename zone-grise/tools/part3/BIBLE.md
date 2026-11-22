@@ -44,3 +44,9 @@
 데이터 파일 형식은 1부와 동일하다. META는 `part=3`, `part_label="제3부 칸의 계단 · Les Marches de Cannes"`, `levelmix="B1 15% / B2 40% / C1 35% / 은어 10% 목표"`.
 파일: `zone-grise/tools/part3/epNN_data.py`. 검사: `python3 tools/check_ep.py tools.part3.epNN_data`(zone-grise에서 실행).
 화자 표기: Étienne, Timour, Alina, Hélène, Zoé, Sedov, Véra, Lucas, Hallier (단역 자유).
+
+## 집필 후 확정된 사실 (이후 화에서 반드시 유지)
+- (26화) **호칭**: 에티엔↔엘렌은 서로 tu. 엘렌은 그를 남들 앞에서든 둘만 있을 때든 « Marc », « mon chéri »라고 부른다. 엘렌은 뤼카에게 tu(« mon garçon »), 뤼카는 엘렌에게 vous(« madame Marceau »). 조에↔엘렌 tu. 조에↔마르크 vous, 다만 조에의 요청으로 "Zoé"라고 부른다.
+- (26화) 숙소는 Hôtel Riviera Palace 412호(에티엔·뤼카). 마르크의 위장 경력: 아버지는 "발레 드 라 시미"의 기업 홍보영화를 찍다가 8년 전 사망(실제 아버지 르네의 사망 연도 2019년과 맞고, 시계도 진짜). 크루아루스 견직공 다큐멘터리 1편(빌뢰르반 미디어도서관에 비치), 단편 2편. 영화 제목은 아직 없고, 여주인공 이름은 임시로 **Nadia**(초고마다 바뀜). 조에에게 시나리오를 호텔로 보내기로 했다.
+- (26화) 업계 인물: 세일즈 에이전트 **Maud Kessler**(14일 금요일 최소 보장금 미팅), 배급사 **Gérard Fontanel**(론알프 30년, "여주인공이 29쪽에서 사라진다"), 크루아제트 사진가 **Jeannot**(1991년부터).
+- (26화) 카드 앞면은 « Nexum Ventures, Genève », 뒷면은 « Polaris. Demain, onze heures, port Vauban, quai des Milliardaires. » 어두운 정장의 키 큰 남자(세도프로 추정되지만 단정하지 않음)가 웨이터를 통해 전달했다. Polaris는 62m, 마셜제도 선적, 몰타 페이퍼컴퍼니 소유, 5월 12일 9시 40분 칸 만에 정박. 알리에(« Festina lente », 23시 20분 전화)에게는 요트 이름만 알렸고 시각과 장소는 말하지 않았다(정보 분할 시험).
