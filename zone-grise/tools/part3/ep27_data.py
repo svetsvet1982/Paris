@@ -31,7 +31,7 @@ D = [
 (S, "Les financiers que vous fréquentez d'habitude n'ont sans doute pas autant d'ennemis que celui-ci, ce qui serait plutôt une bonne nouvelle pour eux.", "평소 만나시는 투자자들은 아마 이분만큼 적이 많지 않겠지요. 그들한테는 오히려 다행스러운 일일 겁니다."),
 (None, "Le regard de Sedov s'arrête sur le poignet d'Étienne, sur la vieille montre au bracelet de cuir usé.", "세도프의 시선이 에티엔의 손목, 낡은 가죽 줄의 오래된 시계에 멈춘다."),
 (S, "Vous portez une montre curieuse pour un homme de votre milieu : on s'attendrait à quelque chose de suisse et de très cher, pas à un vieux mécanisme français qui a visiblement beaucoup vécu.", "업계 분치고는 특이한 시계를 차셨군요. 보통은 아주 비싼 스위스제를 기대하지, 이렇게 산전수전 다 겪은 듯한 낡은 프랑스제 시계는 아니니까요."),
-(E, "Elle appartenait à mon père, qui tournait des films d'entreprise dans la vallée de la chimie et qui est mort il y a huit ans, et je la porte parce qu'elle me rappelle d'où je viens chaque fois que les gens d'ici essaient de me le faire oublier.", "아버지 거였습니다. '화학 계곡' 공장들의 기업 홍보영화를 찍으시다가 8년 전에 돌아가셨죠. 여기 사람들이 제 출신을 잊게 만들려고 할 때마다, 이 시계가 제가 어디서 왔는지 일깨워 줘서 차고 다닙니다."),
+(E, "Elle appartenait à mon père, qui tournait des films d'entreprise dans la Vallée de la chimie, au sud de Lyon, et qui est mort il y a huit ans, et je la porte parce qu'elle me rappelle d'où je viens chaque fois que les gens d'ici essaient de me le faire oublier.", "아버지 거였습니다. 리옹 남쪽 '화학 계곡' 공장들의 기업 홍보영화를 찍으시다가 8년 전에 돌아가셨죠. 여기 사람들이 제 출신을 잊게 만들려고 할 때마다, 이 시계가 제가 어디서 왔는지 일깨워 줘서 차고 다닙니다."),
 (S, "C'est une très bonne réponse, monsieur Aubry, et je dois vous avouer que les gens qui ont une bonne réponse à tout m'intéressent toujours beaucoup.", "아주 좋은 대답입니다, 오브리 씨. 고백하자면, 모든 질문에 좋은 대답을 가진 사람들은 늘 제 흥미를 끕니다."),
 (S, "Aux échecs, on apprend vite que le joueur qui répond trop bien a souvent préparé la question lui-même ; mais ne faites pas attention à moi, c'est une déformation professionnelle.", "체스를 두다 보면 금방 배우게 되지요. 너무 잘 받아치는 사람은 대개 그 질문을 스스로 준비해 둔 사람이라는 걸요. 하지만 신경 쓰지 마십시오. 직업병이니까요."),
 (E, "Je vous comprends très bien, car dans le cinéma aussi, on se méfie des scénarios trop bien écrits : le public sent tout de suite qu'on lui ment.", "충분히 이해합니다. 영화판에서도 너무 잘 짜인 시나리오는 경계하거든요. 관객은 자기가 속고 있다는 걸 금방 알아채니까요."),
@@ -153,7 +153,7 @@ D = [
 
 (None, "— Scène 6 : Antibes, port Vauban, 15 h 45 —", "— 장면 6: 앙티브, 보방 항구, 오후 3시 45분 —"),
 (None, "Lucas fait les cent pas sur le quai. Dès que l'annexe repart, il rejoint Étienne, qui s'assoit sur une borne, le visage un peu pâle.", "뤼카가 부두를 서성인다. 보트가 다시 떠나자마자, 그는 조금 창백한 얼굴로 계류 기둥에 걸터앉은 에티엔에게 다가간다."),
-(LU, "Cinq heures et demie sans nouvelles, chef ! J'ai eu le temps de compter tous les yachts du quai, de me faire chasser par deux capitaines et de rédiger mentalement ton éloge funèbre.", "다섯 시간 반 동안 소식 하나 없었다고, 대장! 부두 요트를 다 세고, 선장 둘한테 쫓겨나고, 머릿속으로 네 추도사까지 다 썼어."),
+(LU, "Presque cinq heures sans nouvelles, chef ! J'ai eu le temps de compter tous les yachts du quai, de me faire chasser par deux capitaines et de rédiger mentalement ton éloge funèbre.", "거의 다섯 시간 동안 소식 하나 없었다고, 대장! 부두 요트를 다 세고, 선장 둘한테 쫓겨나고, 머릿속으로 네 추도사까지 다 썼어."),
 (E, "Tu le garderas pour une autre fois, mais explique-moi plutôt pourquoi mon téléphone affiche trois appels manqués de Paris en moins d'une heure.", "추도사는 다음에 쓰고, 그보다 내 전화에 왜 한 시간도 안 돼서 파리에서 부재중 전화가 세 통이나 찍혀 있는지 설명해 봐."),
 (LU, "Parce que Hallier t'a appelé à midi, à midi vingt et à une heure moins le quart, et qu'il m'a appelé aussi pour savoir si tu étais toujours à bord et quand tu rentrais.", "알리에가 열두 시, 열두 시 이십 분, 열두 시 사십오 분에 너한테 전화했거든. 나한테도 전화해서 너 아직 배에 있냐, 언제 돌아오냐고 묻더라."),
 (E, "Ce soir, on lui envoie un compte rendu, et je veux que tu le rédiges avec moi, ligne par ligne, parce que je ne vais pas tout y mettre.", "오늘 밤 그분께 보고서를 보낼 거야. 너랑 같이 한 줄 한 줄 쓸 거고. 전부 다 넣진 않을 거니까."),
@@ -231,7 +231,7 @@ CULTURE = [
 ]
 
 META = dict(part=3, ep=27, part_label="제3부 칸의 계단 · Les Marches de Cannes", title_fr="Jour 2 : Le yacht", title_ko="둘째 날: 요트",
- place="앙티브 보방 항구 → 앙티브 곶 앞바다 가루프 만, 요트 « Polaris » → 보방 항구 · 2027년 5월 13일 목요일 10:05~15:50",
+ place="앙티브 보방 항구 → 앙티브 곶 앞바다 가루프 만, 요트 « Polaris » → 보방 항구 · 2027년 5월 13일 목요일 10:50~15:50",
  chars="Étienne Lacroix (에티엔, 47세, DGSE 공작관, 위장명 마르크 오브리) · Timour Belkassov (티무르, 39세, « Nexum » 창업자) · Arkadi Sedov (세도프, 50세, 경호실장·제9국 감시자) · Lucas Ferrier (뤼카, 기술 요원, '제작 보조'로 위장) · Hélène Marceau (엘렌, 58세, 제작자·DGSE 명예 통신원, 전화) · Daniil (다닐, 6세, 티무르의 아들) · 선원",
  situation="요트 폴라리스호에서 티무르와 첫 협상. 세 가지 조건(가족 전원, 자산의 합법적 이전, 베라의 안전)과 파리의 세 가지 조건이 맞선다. 티무르는 'ÉCHO'라는 이름만 '계약금'으로 주고, 토요일 레드카펫 계단에서 증거를 넘기기로 한다. 세도프는 모든 것을 지켜본다",
  focus="조건법 과거(후회·비난·추측), à condition que / pourvu que + 접속법, quoi que / quel que soit / qui que ce soit, quand bien même + 조건법, 허사 ne, 접속법 과거, ne serait-ce que, 정중한 거절 화법",
