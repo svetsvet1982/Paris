@@ -152,6 +152,7 @@ D = [
 (K, "Très bien : demain matin, six heures, chez lui, à la Belle de Mai ; vous venez en observateur, vous ne touchez à rien et vous ne dites rien, c'est clair ?", "좋소. 내일 아침 6시, 벨 드 메에 있는 그 녀석 집이오. 당신은 참관인으로 오는 거고, 아무것도 건드리지 말고 아무 말도 하지 마쇼. 알겠소?"),
 (E, "C'est parfaitement clair, capitaine, et pour être honnête, ça fait longtemps que personne ne m'a donné d'ordres avec autant d'enthousiasme.", "완벽하게 알겠습니다, 경감님. 솔직히 말하면 누가 이렇게 열정적으로 저한테 명령하는 건 정말 오랜만이네요."),
 (K, "Habituez-vous, Paul, parce qu'à Marseille, c'est moi le patron, et vos histoires de Paris, ici, ça vaut pas un pastis tiède.", "익숙해지쇼, 폴. 마르세유에선 내가 대장이니까. 당신네 파리 얘기는 여기선 미지근한 파스티스 한 잔 값도 안 돼."),
+(None, "Étienne fait un pas vers ses collègues. Karim le retient d'un geste.", "에티엔이 동료들 쪽으로 한 걸음 내딛는다. 카림이 손짓으로 그를 붙잡는다."),
 (K, "Une dernière chose, et je veux une réponse honnête, pour une fois : Paul, ce n'est pas votre vrai prénom, mais c'est un prénom que vous avez déjà porté ici, hein ?", "마지막으로 하나만. 이번만은 솔직하게 대답해 주쇼. 폴은 당신 진짜 이름이 아니지만, 예전에 여기서 쓰던 이름이긴 하지, 그렇지?"),
 (E, "Oui, c'était le prénom de l'homme qui vivait derrière ces volets bleus il y a vingt ans, et visiblement, quelqu'un s'en souvient encore très bien.", "네, 20년 전 그 파란 덧창 뒤에 살던 남자의 이름이었습니다. 그리고 보아하니 누군가 아직도 그걸 아주 잘 기억하고 있군요."),
 (K, "Alors votre « quelqu'un » a une sacrée mémoire, et moi, je n'aime pas du tout les gens qui se souviennent de mon quartier mieux que moi.", "그럼 당신의 그 « 누군가 »는 기억력 한번 대단하네. 난 내 동네를 나보다 더 잘 기억하는 놈들은 딱 질색이오."),
